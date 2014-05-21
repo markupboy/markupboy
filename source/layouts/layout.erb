@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie ie6 lte8 lte7 lte6"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 lte8 lte7"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 lte8"> <![endif]-->
+<!--[if !IE]><!--> <html> <!--<![endif]-->
+
+<head>
+  <title><%= "#{ current_page.data.title } &mdash; " if current_page.data.title.present? %>markupboy</title>
+
+  <meta charset="utf-8">
+
+  <meta name="description" content="Markupboy.com is written and produced by Blake Walters — Interactive developer, markup nerd and standardista hailing from a time when the font tag was acceptable." />
+  <meta name="keywords" content="technology, markup, web standards, apple, css, javascript, html, jquery, python, django, web design, web development" />
+  <meta name="viewport" content="width=device-width" />
+
+  <link href='http://fonts.googleapis.com/css?family=Andada' rel='stylesheet' type='text/css'>
+  <%= stylesheet_link_tag 'markupboy' %>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/markupboy">
+</head>
+
+
+<body class="<%= current_page.data.body_class %>">
+
+<div class="screen">
+
+  <header>
+    <h1 class="G2 GS">
+      <a href="/">markupboy</a>
+    </h1>
+
+    <nav>
+      <ul class="G3">
+        <li class="G1 GS">
+          <h2 class="HSC">Notes</h2>
+          <ul>
+            <li {if '{exp:stash:get name="nav_item"}'=='Articles'}class="active"{/if}>
+              <a href="{path='blog/show/category/articles'}">Articles</a>
+            </li>
+            <li {if '{exp:stash:get name="nav_item"}'=='Links'}class="active"{/if}>
+              <a href="{path='blog/show/category/links'}">Links</a>
+            </li>
+          </ul>
+        </li>
+        <li class="G1">
+          <h2 class="HSC">Projects</h2>
+          <ul>
+            <li {if '{exp:stash:get name="nav_item"}'=='portfolio'}class="active"{/if}>
+              <a href="{path='projects/portfolio'}">Portfolio</a>
+            </li>
+            <li {if '{exp:stash:get name="nav_item"}'=='code'}class="active"{/if}>
+              <a href="{path='projects/code}">Source</a>
+            </li>
+          </ul>
+        </li>
+
+        <li class="G1">
+          <h2 class="HSC">About</h2>
+          <ul>
+            <li {if '{exp:stash:get name="nav_item"}'=='Colophon'}class="active"{/if}>
+              <a href="{path='colophon'}">Colophon </a>
+            </li>
+            <li {if '{exp:stash:get name="nav_item"}'=='Contact'}class="active"{/if}>
+              <a href="{path='contact'}">Contact</a>
+            </li>
+          </ul>
+        </li>
+
+      </ul>
+
+      <select class="nav" name="nav">
+        <option disabled>-----------</option>
+        <optgroup label="Notes">
+          <option {if '{exp:stash:get name="nav_item"}'=='Articles'}selected{/if} value="blog/show/category/articles">Articles</option>
+          <option {if '{exp:stash:get name="nav_item"}'=='Links'}selected{/if} value="blog/show/category/links">Links</option>
+        </optgroup>
+        <optgroup label="Projects">
+          <option {if '{exp:stash:get name="nav_item"}'=='portfolio'}selected{/if} value="/projects/portfolio">Portfolio</option>
+          <option {if '{exp:stash:get name="nav_item"}'=='code'}selected{/if} value="/projects/code">Source</option>
+        </optgroup>
+        <optgroup label="About">
+          <option {if '{exp:stash:get name="nav_item"}'=='Colophon'}selected{/if} value="colophon">Colophon</option>
+          <option {if '{exp:stash:get name="nav_item"}'=='Contact'}selected{/if} value="contact">Contact</option>
+        </optgroup>
+      </select>
+    </nav>
+  </header>
+
+  <div class="content">
+
+    <%= yield %>
+
+  </div>
+
+  <footer>
+    <nav>
+      <ul class="footerOne">
+      <li class="G1">
+          <h2 class="HSC">Professional</h2>
+          <ul>
+            <li>Big Cartel</li>
+            <li>
+              <a href="http://www.bigcartel.com/about">Team</a>
+            </li>
+            <li>
+              <a href="http://help.bigcartel.com/customer/portal/emails/new">Contact Page</a>
+            </li>
+          </ul>
+        </li>
+        <li class="G1">
+          <h2 class="HSC">Personal</h2>
+          <ul>
+            <li>Blake Walters</li>
+            <li>
+              <a href="http://www.twitter.com/markupboy">@markupboy</a>
+            </li>
+            <li>
+              <a href="{path=contact}">Contact Page</a>
+            </li>
+          </ul>
+        </li>
+
+      </ul>
+      <ul class="footerTwo">
+        <li>
+          <a href="http://feeds.feedburner.com/markupboy">RSS</a>
+        </li>
+        <li>
+          <a href="http://www.twitter.com/markupboy">Twitter</a>
+        </li>
+        <li>
+          <a href="http://www.github.com/markupboy">GitHub</a>
+        </li>
+        <li>
+          &copy; <%= (Time.new).year %> Blake Walters &middot;
+          <a href='https://www.digitalocean.com/?refcode=b32267a3ebc9' target='_blank'>Powered by DigitalOcean</a>
+          &lt;/mß&gt;
+        </li>
+      </ul>
+    </nav>
+  </footer>
+
+</div>
+
+<script type="text/javascript" src="/js/markupboy.js"></script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-13179980-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script src="/mint/?js" type="text/javascript"></script>
+
+<!-- </mß> -->
+
+</body>
+
+</html>
