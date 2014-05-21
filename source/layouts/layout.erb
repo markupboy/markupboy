@@ -33,22 +33,22 @@
         <li class="G1 GS">
           <h2 class="HSC">Notes</h2>
           <ul>
-            <li {if '{exp:stash:get name="nav_item"}'=='Articles'}class="active"{/if}>
-              <a href="{path='blog/show/category/articles'}">Articles</a>
+            <li <%= active_nav_item(current_page, 'Articles') %>>
+              <a href="/blog/show/category/articles">Articles</a>
             </li>
-            <li {if '{exp:stash:get name="nav_item"}'=='Links'}class="active"{/if}>
-              <a href="{path='blog/show/category/links'}">Links</a>
+            <li <%= active_nav_item(current_page, 'Links') %>>
+              <a href="/blog/show/category/links">Links</a>
             </li>
           </ul>
         </li>
         <li class="G1">
           <h2 class="HSC">Projects</h2>
           <ul>
-            <li {if '{exp:stash:get name="nav_item"}'=='portfolio'}class="active"{/if}>
-              <a href="{path='projects/portfolio'}">Portfolio</a>
+            <li <%= active_nav_item(current_page, 'Portfolio') %>>
+              <a href="/projects/portfolio">Portfolio</a>
             </li>
-            <li {if '{exp:stash:get name="nav_item"}'=='code'}class="active"{/if}>
-              <a href="{path='projects/code}">Source</a>
+            <li <%= active_nav_item(current_page, 'Code') %>>
+              <a href="/projects/code">Source</a>
             </li>
           </ul>
         </li>
@@ -56,11 +56,11 @@
         <li class="G1">
           <h2 class="HSC">About</h2>
           <ul>
-            <li {if '{exp:stash:get name="nav_item"}'=='Colophon'}class="active"{/if}>
-              <a href="{path='colophon'}">Colophon </a>
+            <li <%= active_nav_item(current_page, 'Colophon') %>>
+              <a href="/colophon">Colophon </a>
             </li>
-            <li {if '{exp:stash:get name="nav_item"}'=='Contact'}class="active"{/if}>
-              <a href="{path='contact'}">Contact</a>
+            <li <%= active_nav_item(current_page, 'Contact') %>>
+              <a href="/contact">Contact</a>
             </li>
           </ul>
         </li>
@@ -70,16 +70,16 @@
       <select class="nav" name="nav">
         <option disabled>-----------</option>
         <optgroup label="Notes">
-          <option {if '{exp:stash:get name="nav_item"}'=='Articles'}selected{/if} value="blog/show/category/articles">Articles</option>
-          <option {if '{exp:stash:get name="nav_item"}'=='Links'}selected{/if} value="blog/show/category/links">Links</option>
+          <option <%= selected_nav_item current_page, 'Articles' %> value="/blog/show/category/articles">Articles</option>
+          <option <%= selected_nav_item current_page, 'Links' %> value="/blog/show/category/links">Links</option>
         </optgroup>
         <optgroup label="Projects">
-          <option {if '{exp:stash:get name="nav_item"}'=='portfolio'}selected{/if} value="/projects/portfolio">Portfolio</option>
-          <option {if '{exp:stash:get name="nav_item"}'=='code'}selected{/if} value="/projects/code">Source</option>
+          <option <%= selected_nav_item current_page, 'Portfolio' %> value="/projects/portfolio">Portfolio</option>
+          <option <%= selected_nav_item current_page, 'Source' %> value="/projects/code">Source</option>
         </optgroup>
         <optgroup label="About">
-          <option {if '{exp:stash:get name="nav_item"}'=='Colophon'}selected{/if} value="colophon">Colophon</option>
-          <option {if '{exp:stash:get name="nav_item"}'=='Contact'}selected{/if} value="contact">Contact</option>
+          <option <%= selected_nav_item current_page, 'Colophon' %> value="/colophon">Colophon</option>
+          <option <%= selected_nav_item current_page, 'Contact' %> value="/contact">Contact</option>
         </optgroup>
       </select>
     </nav>
@@ -114,7 +114,7 @@
               <a href="http://www.twitter.com/markupboy">@markupboy</a>
             </li>
             <li>
-              <a href="{path=contact}">Contact Page</a>
+              <a href="/contact">Contact Page</a>
             </li>
           </ul>
         </li>
