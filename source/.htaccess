@@ -11,7 +11,7 @@ AddOutputFilterByType DEFLATE application/x-javascript
 
 # Redirect if NOT markupboy.com (exactly) to markupboy.com
 RewriteCond %{HTTP_HOST} .
-RewriteCond %{HTTP_HOST} !^markupboy\.com
+RewriteCond %{HTTP_HOST} ^www\.markupboy\.com
 RewriteRule (.*) http://markupboy.com/$1 [R=301,L]
 
 redirect 301 /blog/view/javascript_and_get_variables http://markupboy.com/blog/javascript-and-get-variables
