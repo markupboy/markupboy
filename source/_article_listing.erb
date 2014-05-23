@@ -1,0 +1,11 @@
+<dt>
+  <% if article.data.external_url %>
+    <a href="<%= article.data.external_url %>" class="title"><%= article.title %></a>
+    <a href="<%= article.url %>" class="permalink">&infin;</a>
+  <% else %>
+    <a href="<%= article.url %>" class="title"><%= article.title %></a>
+  <% end %>
+</dt>
+<dd class="formatted">
+  <%= article.body %>
+</dd>

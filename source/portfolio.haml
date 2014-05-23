@@ -1,0 +1,19 @@
+- content_for :title, 'Portfolio'
+- content_for :category, 'Portfolio'
+
+%section.GR.G4
+  %dl.contains-articles
+    - blog('portfolio').articles.each do |article|
+      %dt
+        %time.date= article.date.strftime('%B %e, %Y')
+      %dd
+        -# <p>
+        -#   {exp:ce_img:pair src="{main_image}" max_width="699"}
+        -#     <img src="{made}" alt="{title}" />
+        -#   {/exp:ce_img:pair}
+        -# </p>
+
+        = article.body
+
+        - if article.data.portfolio_url
+          %a{ href: article.data.portfolio_url } >View this Project

@@ -1,0 +1,69 @@
+---
+title: Blake Walters
+---
+
+_Markupboy.com is written and produced by Blake Walters  &mdash; Interactive developer, markup nerd and standardista hailing from a time when the font tag was acceptable._
+
+My career as I know it started way back in 1995. I designed and built my first website that year… using Microsoft Word. It was awful. Later that same year, though, I had my first paying job as a freelance web-designer - $50 from a local church music group for a website full of frames, tables, and font tags. Of course, I was 12 at the time and didn't know any better. Now, 17 years later, the fundamentals of what I do haven't changed and neither has how much I love doing it. Fortunately for me (and for my career), I've given up the font tags and tables for CSS and semantic HTML and even picked up a few server-side languages.
+
+Presently my focus is on front-end web development emphasizing standards, accessibility and the end-user experience. I constantly strive for pixel perfect implementations, highly flexible and reusable code and the highest quality craftsmanship for all of my work. [ExpressionEngine](http://www.expressionengine.com) is my platform of choice for building responsive, scalable, and easily maintainable websites and I turn to [Django](https://www.djangoproject.com/) for building custom web applications.
+
+I currently reside near Boulder, CO and am a happily employed Front-End Developer at [Big Cartel](http://www.viget.com) as well as a part-time freelance web developer.
+
+##Experience
+
+###Front-End Developer, [Big Cartel](http://www.bigcartel.com) <time>Boulder, CO, October 2012 - Present</time>
+
+More to come&hellip;
+
+###Sr. Front-End Developer, [Viget Labs](http://www.viget.com) <time>Falls Church, VA, April 2010 - October 2012</time>
+
+Senior member of Viget Labs front-end development team. Responsbile for HTML, JavaScript and CSS development and custom ExpressionEngine implementations. Currently working on both desktop and mobile executions for a variety of clients.
+
+Notable project work includes the [Duke Admissions](http://admissions.duke.edu), Epic Games'  [Unreal Technology](http://www.unrealengine.com/), Rails application [BypassLane](http://Bypasslane.com/), [Rumble Games'](http://www.rumblegames.com/) and Philippe Cousteau's [EarthEcho](http://earthecho.org/).
+
+###Sr. User Interface Architect, [Crispin Porter + Bogusky](http://www.cpbgroup.com) <time>Boulder, CO, November 2007 - April 2010</time>
+
+Responsible for leading standards-based front-end implementations for a wide variety of static and dynamic websites as well as sustainable web applications. Developed agency-wide architecture for front-end implementations and defined the process by which standards-based user interfaces are implemented. Responsible for interactive department education on my speciality, including intensive technical training for developers, process training for producers and technical consideration training for designers
+
+Notable project work includes CPB Group's website, the American Express Open Forum, Microsoft's Windows.com, Burger King's BK.com and more for clients such as Domino's Pizza, Volkswagen and Coke Zero.
+
+###Sr. Web Developer and Designer, Delta Systems Group <time>Columbia, MO, November 2004 - November 2007</time>
+
+Primary responsibilities include the analysis, design and maintenance of both small and large scale commercial and corporate web sites and web-based applications as well as database design and software development and testing. Also served as web server administrator for over 40 hosted domains across multiple servers. Responsible for all functions of those domains and servers including website, email, database and DNS hosting.
+
+##Education
+
+###[University of Missouri - Columbia](http://www.mizzou.edu/) <time>Columbia, Missouri, 2001-2005</time>
+
+Received a Bachelor of Science degree in Computer Science with a focus in web application development as well as a minor in Mathematics.
+
+##Skills
+
+User interface planning, architecture and implementation focusing on web standards and web application development and design.
+
+###Coding, Markup & Databases
+
+HTML, CSS, Javascript (including frameworks such as jQuery), ExpressionEngine, Python and Django, PHP, Ruby and Ruby on Rails, MySQL
+
+Expert in the fields of web standards-based development, mobile web development, and front-end web application development.
+
+###Programming Proficiencies
+
+Web Standards, Accesibility, MVC Frameworks (including Rails and Django), Content Management Systems (namely ExpressionEngine), and Object Oriented Development.
+
+###Internet Systems Administration
+
+Primary experience in Unix based servers, Apache and nginx webservers, MySQL and PostgreSQL database servers, ExpressionEngine, Ruby on Rails and Django deployment, Subversion (SVN) and Git version tracking.
+
+###On the Web
+
+[Github](http://www.github.com/markupboy) &middot; [Twitter](http://www.twitter.com/markupboy) &middot; [Devot:EE](http://devot-ee.com/developers/blake-walters) &middot; [LinkedIn](http://www.linkedin.com/in/blakewalters)
+
+###Speaking Engagments
+
+[ExpressionEngine Code Igniter Conference (EECI)](http://eeciconf.com/) &middot; [FED Sacrifice, DC](http://dc.fedsacrifice.com/) &middot; [DevNation](http://devnation.us/events/13)
+
+###Recognition
+
+[Communication Arts 2010 Interactive Annual Winner - BK.com](http://www.commarts.com/interactive/cai10/bk.com.html) &middot; 2010 Cannes Cyber Lions Shortlist - CPBGroup.com and BK.com &middot; 2010 Clio Awards - Interactive Shortlist - CPBGroup.com &middot; [Unmatched Style](http://www.unmatchedstyle.com/podcast/episode-30-ums-podcast.php) &middot; [Most Inspired](http://www.mostinspired.com/sites/view/2e87c36fa48348b4f161dd7511bcb1b1) &middot; [CSS Mania](http://cssmania.com/galleries/2007/08/22/blakewalters.php) &middot; [Design Shack](http://www.designshack.co.uk/design/blake-walters.html) &middot; [CSSClip](http://www.cssclip.com/blake-walters/) &middot; [CSS Web Design Yorkshire](http://css-design-yorkshire.com/gallery2007.html) &middot; [CSS Designed](http://www.cssdesigned.com/galleries/wwwblake-walterscom/) &middot; [Boxed CSS](http://www.boxedcss.com/?p=559)

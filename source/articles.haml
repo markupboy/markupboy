@@ -1,0 +1,10 @@
+- content_for :title, 'Articles'
+- content_for :category, 'Articles'
+
+%section.G4.GR
+  %header
+    %h1 Articles
+
+  %dl.contains-articles
+    - get_articles(blog('blog')).each do |article|
+      = partial "article_listing", locals: { article: article }

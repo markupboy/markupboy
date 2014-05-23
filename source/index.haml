@@ -1,0 +1,5 @@
+%section.G4.GR
+  %h.HSC Latest Notes
+  %dl.contains-articles
+    - blog('blog').articles[0...5].each do |article|
+      = partial "article_listing", locals: { article: article }

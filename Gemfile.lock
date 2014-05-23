@@ -56,7 +56,10 @@ GEM
       sprockets (~> 2.2)
       sprockets-helpers (~> 1.1.0)
       sprockets-sass (~> 1.1.0)
+    mini_portile (0.5.2)
     multi_json (1.10.1)
+    nokogiri (1.6.1)
+      mini_portile (~> 0.5.0)
     rack (1.5.2)
     rack-test (0.6.2)
       rack (>= 1.0)
@@ -91,3 +94,4 @@ PLATFORMS
 DEPENDENCIES
   middleman (~> 3.2.2)
   middleman-blog
+  nokogiri
