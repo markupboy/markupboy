@@ -1,0 +1,4 @@
+host: "example.com"
+port: 22
+path: "/srv/www/example"
+user: "deploy"
