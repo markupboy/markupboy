@@ -1,0 +1,9 @@
+---
+title: Checkout
+date: 2013-09-02 00:00 UTC
+tags:
+---
+
+![Checkout](portfolio/checkout.png)
+
+Looking to bring more flexibilty for it's users and their customers, Big Cartel sought out to bring stripe integration and a seemless checkout system to their platform.  Checkout is a client-side application built on Backbone.js and features a fully customizable theming system, a responsive design that's theme agnostic, utilizes push state and a custom written router to handle the complex business logic for maintaining cross session states.

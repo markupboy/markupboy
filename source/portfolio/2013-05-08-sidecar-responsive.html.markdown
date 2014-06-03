@@ -1,0 +1,10 @@
+---
+title: Sidecar - Responsive
+date: 2013-05-08 00:00 UTC
+tags:
+---
+
+![Sidecar](portfolio/sidecar.png)
+
+Took the existing Big Cartel theme Sidecar and drastically updated, fully rewriting the underlying codebase and implemeting a new fully responsive design.
+
