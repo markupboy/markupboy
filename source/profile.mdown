@@ -14,7 +14,7 @@ I currently reside near Boulder, CO and am a happily employed Front-End Develope
 
 ###Front-End Developer, [Big Cartel](http://www.bigcartel.com) <time>Boulder, CO, October 2012 - Present</time>
 
-More to come&hellip;
+Primary owner of most things front-end for the entire Big Cartel app eco system.  My app work is entirely built in the Rails view layer, utilitzing CoffeeScript, SASS, and HAML and most marketing-style work is built using the static site generator Middleman.  We emphasize thoughtful, responsive builds for all new products that a delight to use on any sized device from the smallest of smartphones to the largest of desktop displays. Major contributions include the seamless checkout application that taps into Big Cartel's theming system and integrates with Stripe and PayPal express to provide stores with a style-matched checkout flow for their shop's - built on Backbone.js; A full mobile admin tailored to touch devices built on a hand-rolled interface framework that handles routing and page specific script execution; and a number of internal tools and libraries to assist in the company's day-to-day operations.
 
 ###Sr. Front-End Developer, [Viget Labs](http://www.viget.com) <time>Falls Church, VA, April 2010 - October 2012</time>
 
