@@ -6,7 +6,7 @@ _Markupboy.com is written and produced by Blake Walters  &mdash; Interactive dev
 
 My career as I know it started way back in 1995. I designed and built my first website that year… using Microsoft Word. It was awful. Later that same year, though, I had my first paying job as a freelance web-designer - $50 from a local church music group for a website full of frames, tables, and font tags. Of course, I was 12 at the time and didn't know any better. Now, 17 years later, the fundamentals of what I do haven't changed and neither has how much I love doing it. Fortunately for me (and for my career), I've given up the font tags and tables for CSS and semantic HTML and even picked up a few server-side languages.
 
-Presently my focus is on front-end web development emphasizing standards, accessibility and the end-user experience. I constantly strive for pixel perfect implementations, highly flexible and reusable code and the highest quality craftsmanship for all of my work. [ExpressionEngine](http://www.expressionengine.com) is my platform of choice for building responsive, scalable, and easily maintainable websites and I turn to [Django](https://www.djangoproject.com/) for building custom web applications.
+Presently my focus is on front-end web development emphasizing standards, accessibility and the end-user experience. I constantly strive for pixel perfect implementations, highly flexible and reusable code and the highest quality craftsmanship for all of my work.  My passion lies in front-end development - using new technology and frameworks, learning new skills, understanding how things work, and giving users the best possible experience I can.
 
 I currently reside near Boulder, CO and am a happily employed Front-End Developer at [Big Cartel](http://www.viget.com) as well as a part-time freelance web developer.
 
@@ -14,7 +14,9 @@ I currently reside near Boulder, CO and am a happily employed Front-End Develope
 
 ###Front-End Developer, [Big Cartel](http://www.bigcartel.com) <time>Boulder, CO, October 2012 - Present</time>
 
-Primary owner of most things front-end for the entire Big Cartel app eco system.  My app work is entirely built in the Rails view layer, utilitzing CoffeeScript, SASS, and HAML and most marketing-style work is built using the static site generator Middleman.  We emphasize thoughtful, responsive builds for all new products that a delight to use on any sized device from the smallest of smartphones to the largest of desktop displays. Major contributions include the seamless checkout application that taps into Big Cartel's theming system and integrates with Stripe and PayPal express to provide stores with a style-matched checkout flow for their shop's - built on Backbone.js; A full mobile admin tailored to touch devices built on a hand-rolled interface framework that handles routing and page specific script execution; and a number of internal tools and libraries to assist in the company's day-to-day operations.
+Primary owner of most things front-end for the entire Big Cartel app eco system.  My app work is entirely built in the Rails view layer, utilitzing CoffeeScript, SASS, and HAML and most marketing-style work is built using the static site generator Middleman.  We emphasize thoughtful, responsive builds for all new products that a delight to use on any sized device from the smallest of smartphones to the largest of desktop displays.
+
+Major contributions include the seamless checkout application that taps into Big Cartel's theming system and integrates with Stripe and PayPal express to provide stores with a style-matched checkout flow for their shop's - built on Backbone.js; A full mobile admin tailored to touch devices built on a hand-rolled interface framework that handles routing and page specific script execution; and a number of internal tools and libraries to assist in the company's day-to-day operations.
 
 ###Sr. Front-End Developer, [Viget Labs](http://www.viget.com) <time>Falls Church, VA, April 2010 - October 2012</time>
 
@@ -58,7 +60,7 @@ Primary experience in Unix based servers, Apache and nginx webservers, MySQL and
 
 ###On the Web
 
-[Github](http://www.github.com/markupboy) &middot; [Twitter](http://www.twitter.com/markupboy) &middot; [Devot:EE](http://devot-ee.com/developers/blake-walters) &middot; [LinkedIn](http://www.linkedin.com/in/blakewalters)
+[Github](http://www.github.com/markupboy) &middot; [Twitter](http://www.twitter.com/markupboy) &middot; [LinkedIn](http://www.linkedin.com/in/blakewalters)
 
 ###Speaking Engagments
 
@@ -66,4 +68,4 @@ Primary experience in Unix based servers, Apache and nginx webservers, MySQL and
 
 ###Recognition
 
-[Communication Arts 2010 Interactive Annual Winner - BK.com](http://www.commarts.com/interactive/cai10/bk.com.html) &middot; 2010 Cannes Cyber Lions Shortlist - CPBGroup.com and BK.com &middot; 2010 Clio Awards - Interactive Shortlist - CPBGroup.com &middot; [Unmatched Style](http://www.unmatchedstyle.com/podcast/episode-30-ums-podcast.php) &middot; [Most Inspired](http://www.mostinspired.com/sites/view/2e87c36fa48348b4f161dd7511bcb1b1) &middot; [CSS Mania](http://cssmania.com/galleries/2007/08/22/blakewalters.php) &middot; [Design Shack](http://www.designshack.co.uk/design/blake-walters.html) &middot; [CSSClip](http://www.cssclip.com/blake-walters/) &middot; [CSS Web Design Yorkshire](http://css-design-yorkshire.com/gallery2007.html) &middot; [CSS Designed](http://www.cssdesigned.com/galleries/wwwblake-walterscom/) &middot; [Boxed CSS](http://www.boxedcss.com/?p=559)
+[Communication Arts 2010 Interactive Annual Winner - BK.com](http://www.commarts.com/interactive/cai10/bk.com.html) &middot; 2010 Cannes Cyber Lions Shortlist - CPBGroup.com and BK.com &middot; 2010 Clio Awards - Interactive Shortlist - CPBGroup.com &middot; [Unmatched Style](http://www.unmatchedstyle.com/podcast/episode-30-ums-podcast.php) &middot; [Most Inspired](http://www.mostinspired.com/sites/view/2e87c36fa48348b4f161dd7511bcb1b1) &middot; [Design Shack](http://www.designshack.co.uk/design/blake-walters.html)
