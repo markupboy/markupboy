@@ -23,16 +23,7 @@ end
 activate :directory_indexes
 
 configure :build do
+  ignore '/.git/*'
   activate :minify_css
   activate :minify_javascript
-end
-
-activate :deploy do |deploy|
-  stage = YAML.load_file(File.join(Dir.pwd, 'deploy.yml'))
-  deploy.build_before = true
-  deploy.method = :sftp
-  deploy.host = stage['host']
-  deploy.port = stage['port']
-  deploy.path = stage['path']
-  deploy.user = stage['user']
 end
