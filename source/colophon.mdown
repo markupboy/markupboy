@@ -15,27 +15,27 @@ I currently reside in Boulder, CO and am a happily employed Software Engineer fo
 
 Most people that know me say I have at least a few to many computers.  Honestly, I can't argue with that. I've got a soft spot for [Apple](http://www.apple.com) and rarely more than arms length away from a device connected to the Internet.
 
-For work I use an [Early 2012 15-inch Retina MacBook Pro](http://www.apple.com/macbookpro/) hooked up to two shiny new [27" Apple Cinema Displays](http://www.apple.com/displays/).
+For work I use an [oddly trash can shaped hex-core Mac Pro](http://www.apple.com/mac-pro/) hooked up to two shiny new [27" Apple Cinema Displays](http://www.apple.com/displays/).
 
 On the go, I prefer my diminutive [11" Macbook Air](http://www.apple.com/macbookair). And at home I have a beast of a custom built Windows whose entire purpose is watching [Twitch.tv](http://twitch.tv) and playing PC games. In addition to that a [Mac Mini](http://www.apple.com/macmini/) hooked up to a glorious new [Samsung plasma](http://mrkp.me/5h) and a pile of [Apple TVs](http://www.apple.com/appletv/) scattered throughout the house.
 
 All of my media gets served from a [Synology NAS](http://www.synology.com/en-us/products/overview/DS1513+) with 15TB worth of drives stuffed in it hooked up to way too much networking gear for private residence and a [Mac Mini Server](http://www.apple.com/macmini/server/) for odds and ends like automatic downloads, time machine backups, and continuous integration and automated testing.
 
-For those times when I'm on the go I've got a [32GB Retina iPad mini (3rd Generation)](http://www.apple.com/ipad/) , an [Amazon Kindle](http://mrkp.me/2k) when I want to do serious reading and a [Fujifilm X20](http://www.fujifilmusa.com/products/digital_cameras/x/fujifilm_x20/) which easily eclipses every other camera I've owned to date.
+For those times when I'm on the go I've got a [32GB Retina iPad mini (3rd Generation)](http://www.apple.com/ipad/), a [Kindle Voyage](http://www.amazon.com/dp/B00IOY8XWQ/ref=ods_fs_kv) when I want to do serious reading and a pile of [Nikon](http://www.nikonusa.com/) gear for when I want to take a photograph.
 
 All of my keyboards are [of the mechanical persuasion](http://elitekeyboards.com/) and my mice are [Razer](http://mrkp.me/2m).
 
-Oh, and of course I have an [iPhone 5S](http://www.apple.com/iphone/) never out of arms reach.
+Oh, and of course I have an [iPhone 6](http://www.apple.com/iphone/) never out of arms reach.
 
 ##Tools
 
 Good hardware is nothing without good software.  I do my best to keep a fairly limited set of tools at my disposal and all have been heavily customized to my process at this point.
 
-All of my code, articles and even to-do lists are written in [Sublime Text 3](http://www.sublimetext.com/). I browse the internet with [Chrome](http://www.google.com/chrome/). Version my code with [Git](http://git-scm.com/) and [Github](http://www.github.com). Read my feeds with [Readkit](http://readkitapp.com). Perform backups with [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html). Chat through [Adium](http://www.adiumx.com). Manage photos with [Aperture](http://www.apple.com/aperture/). Move files with [Transmit](http://www.panic.com/transmit). See what people are talking about with [Twitteriffic](http://iconfactory.com/software/twitterrific). Dump everything I find into [Yojimbo](http://www.barebones.com/products/yojimbo/).  And am forced to use [Photoshop](http://www.photoshop.com/).
+All of my code, articles and even to-do lists are written in [Sublime Text 3](http://www.sublimetext.com/). I browse the internet with [Chrome](http://www.google.com/chrome/). Version my code with [Git](http://git-scm.com/) and [Github](http://www.github.com). Read my feeds with [Reeder](http://reederapp.com). Perform backups with [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html). Chat through [Adium](http://www.adiumx.com). Manage photos with [Lightroom](http://www.adobe.com/products/photoshop-lightroom.html). Move files with [Transmit](http://www.panic.com/transmit). See what people are talking about with [Tweetbot](http://tapbots.com/tweetbot/).
 
 And my life is in the hands of [Dropbox](http://www.dropbox.com).
 
 ##The Site
 
-This site's design is a heavily modified version of the Information Architects' [iA3 Wordpress Theme](http://www.informationarchitects.jp/en/ia3/) built with [Middleman](http://middlemanapp.com/) and hosted at [DigitalOcean](https://www.digitalocean.com/?refcode=b32267a3ebc9).
+This site's design is a heavily modified version of the Information Architects' [iA3 Wordpress Theme](http://www.informationarchitects.jp/en/ia3/) built with [Middleman](http://middlemanapp.com/) and hosted entirely on [S3](http://aws.amazon.com/s3/).
 
