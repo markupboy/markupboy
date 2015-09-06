@@ -7,9 +7,9 @@ There are few things I love more on the internet that seeing what helps peoples'
 
 My career as I know it started way back in 1995. I designed and built my first website that year&hellip; using Microsoft Word. It was awful. Later that same year, though, I had my first paying job as a freelance web-designer &mdash; $50 from a local church music group for a website full of frames, tables, and font tags. Of course, I was 12 at the time and didn't know any better. Now, nearly 20 years later, the fundamentals of what I do haven't changed and neither has how much I love doing it. Fortunately for me (and for my career), I've given up the font tags and tables for CSS and semantic HTML and even picked up a few server-side languages.
 
-Presently my focus is on front-end web development emphasizing standards, accessibility and the end-user experience. I constantly strive for pixel perfect implementations, highly flexible and reusable code and the highest quality craftsmanship for all of my work. Ruby on Rails and Backbone.js are my frameworks of choice these days, with the occasional dabbling in Node.js, Ember, and all manner of static site generators.
+Presently my focus is on front-end web development emphasizing standards, accessibility and the end-user experience. I constantly strive for pixel perfect implementations, highly flexible and reusable code and the highest quality craftsmanship for all of my work. Ruby on Rails and Ember.js are my frameworks of choice these days, with the occasional dabbling in Node, Backbone, and all manner of static site generators.
 
-I currently reside in Boulder, CO and am a happily employed Software Engineer for [Big Cartel](http://www.bigcartel.com).
+I currently reside in Longmont, CO and am a happily employed Software Engineer for [HashiCorp](http://www.hashicorp.com).
 
 ##Gear
 
