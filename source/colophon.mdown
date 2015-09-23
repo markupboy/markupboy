@@ -5,9 +5,9 @@ category: Colophon
 
 There are few things I love more on the internet that seeing what helps peoples' digital lives tick.  This is my attempt to share my little corner of the internet.
 
-My career as I know it started way back in 1995. I designed and built my first website that year&hellip; using Microsoft Word. It was awful. Later that same year, though, I had my first paying job as a freelance web-designer &mdash; $50 from a local church music group for a website full of frames, tables, and font tags. Of course, I was 12 at the time and didn't know any better. Now, nearly 20 years later, the fundamentals of what I do haven't changed and neither has how much I love doing it. Fortunately for me (and for my career), I've given up the font tags and tables for CSS and semantic HTML and even picked up a few server-side languages.
+My career as I know it started way back in 1995. I designed and built my first website that year&hellip; using Microsoft Word. It was awful. Later that same year, though, I had my first paying job as a freelance web-designer &mdash; $50 from a local church music group for a website full of frames, tables, and font tags. Of course, I was 12 at the time and didn't know any better. Now, more than 20 years later, the fundamentals of what I do haven't changed and neither has how much I love doing it. Fortunately for me (and for my career), I've given up the font tags and tables for CSS, semantic HTML, a heaping helping of JavaScript, and even a few server-side languages.
 
-Presently my focus is on front-end web development emphasizing standards, accessibility and the end-user experience. I constantly strive for pixel perfect implementations, highly flexible and reusable code and the highest quality craftsmanship for all of my work. Ruby on Rails and Ember.js are my frameworks of choice these days, with the occasional dabbling in Node, Backbone, and all manner of static site generators.
+Presently my focus is on user interface engineering emphasizing standards, accessibility and the end-user experience. I constantly strive for pixel perfect implementations, highly flexible and reusable code and the highest quality craftsmanship for all of my work. Ruby on Rails and Ember.js are my frameworks of choice these days, with the occasional dabbling in Node, Backbone, and all manner of static site generators.
 
 I currently reside in Longmont, CO and am a happily employed Software Engineer for [HashiCorp](http://www.hashicorp.com).
 
@@ -17,11 +17,11 @@ Most people that know me say I have at least a few to many computers.  Honestly,
 
 For work I use an [oddly trash can shaped hex-core Mac Pro](http://www.apple.com/mac-pro/) hooked up to two shiny new [27" Apple Cinema Displays](http://www.apple.com/displays/).
 
-On the go, I prefer my diminutive [11" Macbook Air](http://www.apple.com/macbookair). And at home I have a beast of a custom built Windows whose entire purpose is watching [Twitch.tv](http://twitch.tv) and playing PC games. In addition to that a [Mac Mini](http://www.apple.com/macmini/) hooked up to a glorious new [Samsung plasma](http://mrkp.me/5h) and a pile of [Apple TVs](http://www.apple.com/appletv/) scattered throughout the house.
+On the go, I prefer my diminutive [11" Macbook Air](http://www.apple.com/macbookair) which, after more than 5 years, I still swear is one of the best computers ever made. At home I have a beast of a custom built Windows whose entire purpose is watching [Twitch.tv](http://twitch.tv) and playing PC games. In addition to that, a [Mac Mini](http://www.apple.com/macmini/) hooked up to a glorious new [Samsung plasma](http://mrkp.me/5h) and a pile of [Apple TVs](http://www.apple.com/appletv/) scattered throughout the house.
 
-All of my media gets served from a [Synology NAS](http://www.synology.com/en-us/products/overview/DS1513+) with 15TB worth of drives stuffed in it hooked up to way too much networking gear for private residence and a [Mac Mini Server](http://www.apple.com/macmini/server/) for odds and ends like automatic downloads, time machine backups, and continuous integration and automated testing.
+All of my media gets served from a [Synology NAS](http://www.synology.com/en-us/products/overview/DS1513+) with 15TB worth of drives stuffed in it hooked up to way too much [enterprise grade networking gear](http://ubnt.com) for a private residence and a [Mac Mini Server](http://www.apple.com/macmini/server/) for odds and ends like automatic downloads, time machine backups, and continuous integration and automated testing.
 
-For those times when I'm on the go I've got a [32GB Retina iPad mini (3rd Generation)](http://www.apple.com/ipad/), a [Kindle Voyage](http://www.amazon.com/dp/B00IOY8XWQ/ref=ods_fs_kv) when I want to do serious reading and a pile of [Nikon](http://www.nikonusa.com/) gear for when I want to take a photograph.
+For travel, I've got a [32GB Retina iPad mini](http://www.apple.com/ipad/), a [Kindle Voyage](http://www.amazon.com/dp/B00IOY8XWQ/ref=ods_fs_kv) when I want to do serious reading and a pile of [Nikon](http://www.nikonusa.com/) gear for when I want to take a photograph.
 
 All of my keyboards are [of the mechanical persuasion](http://elitekeyboards.com/) and my mice are [Razer](http://mrkp.me/2m).
 
@@ -33,9 +33,9 @@ Good hardware is nothing without good software.  I do my best to keep a fairly l
 
 All of my code, articles and even to-do lists are written in [Sublime Text 3](http://www.sublimetext.com/). I browse the internet with [Chrome](http://www.google.com/chrome/). Version my code with [Git](http://git-scm.com/) and [Github](http://www.github.com). Read my feeds with [Reeder](http://reederapp.com). Perform backups with [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html). Chat through [Adium](http://www.adiumx.com). Manage photos with [Lightroom](http://www.adobe.com/products/photoshop-lightroom.html). Move files with [Transmit](http://www.panic.com/transmit). See what people are talking about with [Tweetbot](http://tapbots.com/tweetbot/).
 
-And my life is in the hands of [Dropbox](http://www.dropbox.com).
+And my entire digital life is in the hands of [Dropbox](http://www.dropbox.com).
 
 ##The Site
 
-This site's design is a heavily modified version of the Information Architects' [iA3 Wordpress Theme](http://www.informationarchitects.jp/en/ia3/) built with [Middleman](http://middlemanapp.com/) and hosted entirely on [S3](http://aws.amazon.com/s3/).
+This site's design is a heavily modified version of the Information Architects' [iA3 Wordpress Theme](http://www.informationarchitects.jp/en/ia3/) built with [Middleman](http://middlemanapp.com/) and hosted entirely on [S3](http://aws.amazon.com/s3/) through the magic of [Terraform](http://terraform.io).
 
