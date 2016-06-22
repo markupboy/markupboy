@@ -4,9 +4,9 @@ date: 2011-01-15 00:00 UTC
 tags:
 ---
 
-I'm kind of a nut about keeping personal data safe online.  I use [1Password](http://agilewebsolutions.com/onepassword) to generate and store all of my login credentials and I get irritated when websites don't let me use 40 character passwords.
+I'm kind of a nut about keeping personal data safe online.  I use [1Password](https://1password.com/) to generate and store all of my login credentials and I get irritated when websites don't let me use 40 character passwords.
 
-Just as important, though, is keeping files safe and secure.  For that, I have [Knox], a wonderful piece of software that has an incredibly important job that happens to now be maintained by the amazing developers at [Agile Web Solutions](http://agilewebsolutions.com/)
+Just as important, though, is keeping files safe and secure.  For that, I have [Knox], a wonderful piece of software that has an incredibly important job that happens to now be maintained by the amazing developers at [Agile Web Solutions](https://agilebits.com/knox)
 
 A little background info - Mac OS X, right out of the box, has the ability to create and secure disk images.  Just like a virtual hard drive, disk images can store files and folders and can even be encrypted.  When unmounted, they just appear as a single, compact file.  Unfortunately, creating, managing and maintaining encrypted disk images in OS X can be somewhat of a chore.
 
@@ -17,4 +17,3 @@ Creating and opening images are as easy as two clicks and backing up images can 
 Syncing encrypted images between computers is a breeze, too.  In Knox's general preference panel, just set the "Create new vaults in:" setting to a folder inside [Dropbox](http://db.tt/NEFGdbI) (you are using Dropbox, right?).  Repeat this procedure on every machine you have with Knox installed and they'll all have access to you secure files.
 
 So that's it. Knox, once again proving that the best kind of a app is on that does exactly one thing extremely well.
-

@@ -4,7 +4,7 @@ date: 2009-10-17 00:00 UTC
 tags:
 ---
 
-<p>A while back I wrote a quick post on <a href="http://markupboy.com/2009/03/removing-default-form-input-va.html">how to clear default form values on click</a>. Using jQuery, we leveraged the "defaultValue" variable associated with each input object and on focus simply checked whether the current value equalled the defaultValue.  If it did, we cleared it, easy as that.</p>
+<p>A while back I wrote a quick post on <a href="http://markupboy.com/removing-default-form-input-values-on-click/">how to clear default form values on click</a>. Using jQuery, we leveraged the "defaultValue" variable associated with each input object and on focus simply checked whether the current value equalled the defaultValue.  If it did, we cleared it, easy as that.</p>
 
 <p>Unfortunately, that's not as semantic as it could be (even less so if we're not already using a label). On top of that when the form is submitted we have to check every form element we've handled this way and clear it out if it hasn't been set; if we don't, the default values will end up getting submitted.</p>
 

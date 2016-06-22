@@ -4,7 +4,7 @@ date: 2010-11-18 00:00 UTC
 tags:
 ---
 
-<p>Lightboxes have been the <a href="http://jquery.com/demo/thickbox/">all</a> the <a href="http://plugins.jquery.com/project/jquerylightbox_bal">rage</a> for <a href="http://particletree.com/features/lightbox-gone-wild/">years</a> now; especially since frameworks like <a href="http://www.jquery.com">jQuery</a> make them fairly easy to accomplish.  One little piece that I always find lacking, though, is even the tiniest bit of keyboard support. Want to help your power users out a bit? Bind the escape key to dismissing lightboxes.</p>
+<p>Lightboxes have been the all the rage for years now; especially since frameworks like <a href="http://www.jquery.com">jQuery</a> make them fairly easy to accomplish.  One little piece that I always find lacking, though, is even the tiniest bit of keyboard support. Want to help your power users out a bit? Bind the escape key to dismissing lightboxes.</p>
 
 <p>The most straightforward way is simply to bind the escape key to trigger a click on the lightbox close button once the lightbox is open.  </p>
 
@@ -39,5 +39,5 @@ tags:
 
 <ul>
 <li>Working with Events <a href="http://www.learningjquery.com/2008/03/working-with-events-part-1">Part 1</a> and <a href="http://www.learningjquery.com/2008/05/working-with-events-part-2">Part 2</a> over at <a href="http://www.learningjquery.com">Learning jQuery</a></li>
-<li><a href="http://markupboy.com/2009/03/limiting-characters-in-a-texta.html">My article on limiting characters in a text area</a> which covers keybinding </li>
+<li><a href="http://markupboy.com/2009-03-14-limiting-characters-in-a-textarea-with-jquery.html">My article on limiting characters in a text area</a> which covers keybinding </li>
 </ul>
