@@ -14,7 +14,7 @@ I currently reside in Longmont, CO and am a happily employed Software Engineer f
 
 ###Software Engineer, [HashiCorp](http://www.hashicorp.com) <time>San Francisco, CA, March 2015 - Present</time>
 
-User interface engineer for [Atlas](http://atlas.hashicorp.com). Primarily responsible for application design and implementation of Ember.js applications used to support products developed by HashiCorp.
+Software engineer for [Atlas](http://atlas.hashicorp.com). Primarily responsible for application design and implementation of Ember.js applications used to support products developed by HashiCorp.
 
 
 ###Front-End Developer, [Big Cartel](http://www.bigcartel.com) <time>Salt Lake City, UT, October 2012 - March 2015</time>
