@@ -7,12 +7,6 @@
       %dt
         %time.date= article.date.strftime('%B %e, %Y')
       %dd
-        -# <p>
-        -#   {exp:ce_img:pair src="{main_image}" max_width="699"}
-        -#     <img src="{made}" alt="{title}" />
-        -#   {/exp:ce_img:pair}
-        -# </p>
-
         = article.body
 
         - if article.data.portfolio_url
