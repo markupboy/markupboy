@@ -9,7 +9,7 @@ My career as I know it started way back in 1995. I designed and built my first w
 
 Presently my focus is on user interface engineering emphasizing standards, accessibility and the end-user experience. I constantly strive for pixel perfect implementations, highly flexible and reusable code and the highest quality craftsmanship for all of my work. Ruby on Rails and Ember.js are my frameworks of choice these days, with the occasional dabbling in Node, Backbone, and all manner of static site generators.
 
-I currently reside in Longmont, CO and am a happily employed Software Engineer for [HashiCorp](http://www.hashicorp.com).
+I currently reside in Longmont, CO and am a happily employed Software Engineering Manager at [Invision](http://www.invisionapp.com).
 
 ##Experience
 
