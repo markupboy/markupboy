@@ -1,0 +1,5 @@
+My career as I know it started way back in 1995. I designed and built my first website that year&hellip; using Microsoft Word. It was awful but a local music group had paid $50 for a website full of frames, tables, and font tags and ignited a passion that would lead to an entire career. Along the way I've built websites, web applications, and teams for small businesses, global brands, and world-class startups. 
+
+Currently my focus is on software engineering management and leadership. I'm proud to lead a team of talented full-stack engineers building and shipping the future of design collaboration using GoLang, Node, React, and AngularJS.
+
+I'm currently a Software Engineering Manager at [InvisionApp](http://www.invisionapp.com), working remotely out of my home in Longmont, CO. Outside of work I'm a new dad, an avid amateur photographer, a serious car nut, and spend what little free time I have left playing as many video games as possible.
