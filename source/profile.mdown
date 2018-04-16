@@ -2,23 +2,26 @@
 title: Blake Walters
 ---
 
-_Markupboy.com is written and produced by Blake Walters  &mdash; Interactive developer, markup nerd and standardista hailing from a time when the font tag was acceptable._
-
+_Markupboy.com is written and produced by Blake Walters  &mdash; sofware engineering manager, interactive developer, and front-end nerd hailing from a time when the font tag was acceptable._
 
 My career as I know it started way back in 1995. I designed and built my first website that year&hellip; using Microsoft Word. It was awful. Later that same year, though, I had my first paying job as a freelance web-designer &mdash; $50 from a local church music group for a website full of frames, tables, and font tags. Of course, I was 12 at the time and didn't know any better. Now, more than 20 years later, the fundamentals of what I do haven't changed and neither has how much I love doing it. Fortunately for me (and for my career), I've given up the font tags and tables for CSS, semantic HTML, a heaping helping of JavaScript, and even a few server-side languages.
 
-Presently my focus is on user interface engineering emphasizing standards, accessibility and the end-user experience. I constantly strive for pixel perfect implementations, highly flexible and reusable code and the highest quality craftsmanship for all of my work. Ruby on Rails and Ember.js are my frameworks of choice these days, with the occasional dabbling in Node, Backbone, and all manner of static site generators.
+Presently my focus is on software engineering management and leadership. I'm proud to lead a team of talented full-stack engineers building and shipping the future of collaboration using GoLang, Node, React, and AngularJS.
 
-I currently reside in Longmont, CO and am a happily employed Software Engineering Manager at [Invision](http://www.invisionapp.com).
+I currently reside in Longmont, CO and am a happily remotely employed Software Engineering Manager at [Invision](http://www.invisionapp.com).
 
 ##Experience
 
-###Software Engineer, [HashiCorp](http://www.hashicorp.com) <time>San Francisco, CA, March 2015 - Present</time>
+###Software Engineering Manager, [InVisionApp](http://www.invisionapp.com) <time>New York, NY (Remote), March 2017 - Present</time>
 
-Software engineer for [Atlas](http://atlas.hashicorp.com). Primarily responsible for application design and implementation of Ember.js applications used to support products developed by HashiCorp.
+Engineering manager for a dedicated, high-performing team of full stack engineers building collaboration and conversation tools across the InVisionApp suite of products. Responsible for technical and product leadership, mentorship, and agile development practices.
+
+###Software Engineer, [HashiCorp](http://www.hashicorp.com) <time>San Francisco, CA (Remote), March 2015 - March 2017</time>
+
+Lead front-end engineer across HashiCorp's suite of products - including Terraform Enterprise, Vault Enterprise, Nomad, and Consul. Primarily responsible for application design and implementation of Ember.js applications used to support products developed by HashiCorp for both enterprise and open source use.
 
 
-###Front-End Developer, [Big Cartel](http://www.bigcartel.com) <time>Salt Lake City, UT, October 2012 - March 2015</time>
+###Front-End Developer, [Big Cartel](http://www.bigcartel.com) <time>Salt Lake City, UT (Remote), October 2012 - March 2015</time>
 
 Primary owner of most things front-end for the entire Big Cartel app eco system.  My app work is entirely built in the Rails view layer, utilitzing CoffeeScript, SASS, and HAML and most marketing-style work is built using the static site generator Middleman.  We emphasize thoughtful, responsive builds for all new products that a delight to use on any sized device from the smallest of smartphones to the largest of desktop displays.
 
@@ -52,26 +55,10 @@ User interface planning, architecture and implementation focusing on web standar
 
 ###Coding, Markup & Databases
 
-HTML, CSS, Javascript (including frameworks such as jQuery), ExpressionEngine, Python and Django, PHP, Ruby and Ruby on Rails, MySQL
+HTML, CSS, Javascript (including frameworks such as Backbone and Ember), Ruby and Ruby on Rails, GoLang, MySQL, MongoDB
 
 Expert in the fields of web standards-based development, mobile web development, and front-end web application development.
-
-###Programming Proficiencies
-
-Web Standards, Accesibility, MVC Frameworks (including Rails and Django), Content Management Systems (namely ExpressionEngine), and Object Oriented Development.
-
-###Internet Systems Administration
-
-Primary experience in Unix based servers, Apache and nginx webservers, MySQL and PostgreSQL database servers, ExpressionEngine, Ruby on Rails and Django deployment, Subversion (SVN) and Git version tracking.
 
 ###On the Web
 
 [Github](http://www.github.com/markupboy) &middot; [Twitter](http://www.twitter.com/markupboy) &middot; [LinkedIn](http://www.linkedin.com/in/blakewalters)
-
-###Speaking Engagments
-
-[ExpressionEngine Code Igniter Conference (EECI)](http://eeciconf.com/) &middot; [FED Sacrifice, DC](http://dc.fedsacrifice.com/) &middot; [DevNation](http://devnation.us/events/13)
-
-###Recognition
-
-[Communication Arts 2010 Interactive Annual Winner - BK.com](http://www.commarts.com/interactive/cai10/bk.com.html) &middot; 2010 Cannes Cyber Lions Shortlist - CPBGroup.com and BK.com &middot; 2010 Clio Awards - Interactive Shortlist - CPBGroup.com &middot; [Unmatched Style](http://www.unmatchedstyle.com/podcast/episode-30-ums-podcast.php) &middot; [Most Inspired](http://www.mostinspired.com/sites/view/2e87c36fa48348b4f161dd7511bcb1b1) &middot; [Design Shack](http://www.designshack.co.uk/design/blake-walters.html)
