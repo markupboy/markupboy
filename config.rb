@@ -21,6 +21,7 @@ blogs.each do |blog_name|
 end
 
 activate :directory_indexes
+activate :asset_hash
 
 configure :build do
   ignore '/.git/*'
