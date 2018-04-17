@@ -745,50 +745,15 @@
   }
 
   .Profile .formatted time {
-    color: #888;
     display: block;
-    font: normal italic 400 77%/1.71428571em Andada,Georgia,Serif !important;
+    font-size: 0.8em;
+    opacity: 0.6;
+    margin-top: 5px;
   }
 }
 
 .footerOne .G1 {
   float: right
-}
-
-@media screen and (min-width:1280px) {
-
-  body {
-    font-size: 112.5%
-  }
-}
-
-@media screen and (min-width:1360px) {
-
-  body {
-    font-size: 130%
-  }
-
-  .screen > header h1 a {
-    @include scale(1.15);
-    position: relative;
-    left: 17px;
-  }
-}
-
-@media screen and (min-width:1900px) {
-
-  body {
-    font-size: 160%;
-  }
-
-}
-
-@media screen and (min-width:2400px) {
-
-  body {
-    font-size: 200%;
-  }
-
 }
 
 @media screen and (max-width:775px) {
@@ -876,4 +841,3 @@
 
 
 }
-

@@ -1,5 +1,7 @@
 ---
 title: Blake Walters
+body_class: Profile
+content_class: formatted
 ---
 
 My career as I know it started way back in 1995. I designed and built my first website that year. It was awful. A local music group paid $50 for a site full of frames, tables, and font tags that ignited a passion and would lead to an entire career. Along the way, I've built websites, web applications, and engineering teams for small businesses, global brands, and world-class startups.
