@@ -26,7 +26,7 @@ Major contributions included the seamless checkout application tying into the pl
 
 ###Sr. Front-End Developer, [Viget Labs](http://www.viget.com) <time>Falls Church, VA, April 2010 - October 2012</time>
 
-Senior member of Viget Labs front-end development team. Responsible for front-end development and custom content management system implementations.
+Senior member of Viget Labs front-end development team. Responsible for front-end development, web application development, and custom content management system implementations.
 
 Notable project work included sites for Duke Admissions, Epic Games' Unreal Technology, Rumble Games, and Philippe Cousteau's EarthEcho organization.
 
@@ -50,7 +50,7 @@ Received a Bachelor of Science degree in Computer Science with a focus in web ap
 
 Agile development practices, microservices, cloud infrastructure automation, continuous deployment, production readiness and operations, team building, mentorship, performance reviews, setting and tracking business and product goals, cross-team and stakeholder collaboration.
 
-Specific technical skills include HTML, CSS, Javascript, Node, Ruby, GoLang, and MySQL as well as a spectrum of development frameworks both server- and client-side. 
+Specific technical skills include HTML, CSS, Javascript, Node, Ruby, GoLang, and MySQL as well as a spectrum of development frameworks both server- and client-side.
 
 ###On the Web
 
