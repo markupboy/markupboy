@@ -35,19 +35,10 @@
 
     <nav>
       <ul class="G3">
-        <li class="G1 GS">
-          <h2 class="HSC">Notes</h2>
-          <ul>
-            <li <%= active_nav_item(current_page, yield_content(:category), 'Articles') %>>
-              <a href="/articles">Articles</a>
-            </li>
-            <li <%= active_nav_item(current_page, yield_content(:category), 'Links') %>>
-              <a href="/links">Links</a>
-            </li>
-          </ul>
-        </li>
         <li class="G1">
-          <h2 class="HSC">Projects</h2>
+          <h2 class="HSC">
+            <a href="/portfolio">Projects</a>
+          </h2>
           <ul>
             <li <%= active_nav_item(current_page, yield_content(:category), 'Portfolio') %>>
               <a href="/portfolio">Portfolio</a>
@@ -57,26 +48,35 @@
             </li>
           </ul>
         </li>
-
         <li class="G1">
-          <h2 class="HSC">About</h2>
+          <h2 class="HSC">
+            <a href="/colophon">About</a>
+          </h2>
           <ul>
             <li <%= active_nav_item(current_page, yield_content(:category), 'Colophon') %>>
-              <a href="/colophon">Colophon </a>
+              <a href="/colophon">Colophon</a>
             </li>
             <li <%= active_nav_item(current_page, yield_content(:category), 'Contact') %>>
               <a href="/contact">Contact</a>
             </li>
           </ul>
         </li>
-
+        <li class="G1 GS">
+          <h2 class="HSC">
+            <a href="/notes">Notes</a>
+          </h2>
+          <ul>
+            <li <%= active_nav_item(current_page, yield_content(:category), 'Articles') %>>
+              <a href="/articles">Articles</a>
+            </li>
+            <li <%= active_nav_item(current_page, yield_content(:category), 'Links') %>>
+              <a href="/links">Links</a>
+            </li>
+          </ul>
+        </li>
       </ul>
 
       <select class="nav" name="nav">
-        <optgroup label="Notes">
-          <option <%= selected_nav_item current_page, yield_content(:category), 'Articles' %> value="/articles">Articles</option>
-          <option <%= selected_nav_item current_page, yield_content(:category), 'Links' %> value="/links">Links</option>
-        </optgroup>
         <optgroup label="Projects">
           <option <%= selected_nav_item current_page, yield_content(:category), 'Portfolio' %> value="/portfolio">Portfolio</option>
           <option <%= selected_nav_item current_page, yield_content(:category), 'Source' %> value="/source">Source</option>
@@ -84,6 +84,10 @@
         <optgroup label="About">
           <option <%= selected_nav_item current_page, yield_content(:category), 'Colophon' %> value="/colophon">Colophon</option>
           <option <%= selected_nav_item current_page, yield_content(:category), 'Contact' %> value="/contact">Contact</option>
+        </optgroup>
+        <optgroup label="Notes">
+          <option <%= selected_nav_item current_page, yield_content(:category), 'Articles' %> value="/articles">Articles</option>
+          <option <%= selected_nav_item current_page, yield_content(:category), 'Links' %> value="/links">Links</option>
         </optgroup>
       </select>
     </nav>

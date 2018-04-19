@@ -29,4 +29,4 @@ And my entire digital life is in the hands of [Dropbox](http://www.dropbox.com).
 
 ##The Site
 
-This site's design is a heavily modified version of the Information Architects' [iA3 Wordpress Theme](http://www.informationarchitects.jp/en/ia3/) built with [Middleman](http://middlemanapp.com/) and hosted entirely on [S3](http://aws.amazon.com/s3/).
+This site's design is a heavily modified version of the Information Architects' [iA3 Wordpress Theme](http://www.informationarchitects.jp/en/ia3/) built with [Middleman](http://middlemanapp.com/) and [Webpack](https://webpack.js.org) and hosted on [S3](http://aws.amazon.com/s3/).

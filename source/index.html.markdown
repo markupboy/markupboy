@@ -4,6 +4,10 @@ body_class: Profile
 content_class: formatted
 ---
 
+Hi. I'm Blake Walters.
+
+![Profile pciture](profile.jpg)
+
 My career as I know it started way back in 1995. I designed and built my first website that year. It was awful. A local music group paid $50 for a site full of frames, tables, and font tags that ignited a passion and would lead to an entire career. Along the way, I've built websites, web applications, and engineering teams for small businesses, global brands, and world-class startups.
 
 Currently, my focus is on software engineering management and leadership. I'm proud to lead a team of talented, full-stack engineers who are building and shipping the future of design collaboration. My aim is to build great engineering teams, to empower them to operate independently, and to help them ship meaningful features to users quickly and reliably.
