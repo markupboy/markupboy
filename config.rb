@@ -1,8 +1,24 @@
-require "lib/custom_helpers"
+# encoding: utf-8
+
+require "./lib/custom_helpers"
 helpers CustomHelpers
 
-set :css_dir, 'stylesheets'
-set :js_dir, 'javascripts'
+#
+# Use webpack for assets
+#
+activate :external_pipeline,
+         name: :webpack,
+         command: build? ?  "yarn run build" : "yarn run start",
+         source: ".tmp/dist",
+         latency: 1
+
+# Reload the browser automatically whenever files change
+configure :development do
+  activate :livereload
+end
+
+set :css_dir, 'assets/stylesheets'
+set :js_dir, 'assets/javascript'
 set :images_dir, 'images'
 
 def setup_blog(blog, name)
@@ -21,10 +37,9 @@ blogs.each do |blog_name|
 end
 
 activate :directory_indexes
-activate :asset_hash
 
+# Build-specific configuration
 configure :build do
-  ignore '/.git/*'
-  activate :minify_css
-  activate :minify_javascript
+  # Enable cache buster (except for images)
+  activate :asset_hash, ignore: [/\.jpg\Z/, /\.png\Z/]
 end

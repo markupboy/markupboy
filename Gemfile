@@ -1,6 +1,5 @@
 source 'http://rubygems.org'
 
-gem "nokogiri"
-
-gem "middleman", "~>3.2.2"
+gem "middleman", "~> 4"
+gem "middleman-livereload", "~> 3"
 gem "middleman-blog"
