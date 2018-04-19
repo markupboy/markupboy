@@ -1,9 +1,10 @@
+# Ignore bundler config
 /.bundle
+
+# Ignore the build directory
 /build
-/.sass-cache
+
+/node_modules
+/.tmp
+
 .DS_Store
-.cache
-.terraform
-*.tfstate.backup
-*.tfstate
-terraform.tfvars
