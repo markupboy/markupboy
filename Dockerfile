@@ -3,6 +3,14 @@ FROM ruby:2.5.1-alpine
 # Install prereqs
 RUN apk --update add alpine-sdk nodejs
 
+# Install aws-cli
+RUN \
+	mkdir -p /aws && \
+	apk -Uuv add groff less python python-dev py-pip && \
+	pip install awscli && \
+	apk --purge -v del py-pip && \
+	rm /var/cache/apk/*
+
 # Fix timezone
 RUN apk add --update tzdata
 ENV TZ=America/Denver
@@ -17,15 +25,4 @@ RUN chmod +x /usr/local/bin/yarn
 # Set working dir
 WORKDIR /app
 
-COPY package.json yarn.lock ./
-RUN yarn install --frozen-lockfile && yarn cache clean
-
-# COPY Gemfile Gemfile.lock ./
-# RUN bundle install
-
-# do work, son
-COPY . .
-RUN bundle install
-
-
-CMD ["middleman", "server"]
+CMD ["make"]

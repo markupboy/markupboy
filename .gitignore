@@ -7,4 +7,6 @@
 /node_modules
 /.tmp
 
+local.env
+
 .DS_Store
