@@ -16,3 +16,19 @@ Edit the `entry` section of [webpack.config.js](webpack.config.js) as necessary.
 ## CSS
 
 This uses SASS and PostCSS but you can alter those loaders to fit your taste.
+
+## Using Docker
+
+This project has rough Docker support and is continuously tested and deployed using CircleCI.
+
+To build the project's Docker image -
+
+`docker build -t markupboy .`
+
+By default, running the container builds the site -
+
+`docker run -v ${PWD}:/app markupboy`
+
+And to deploy to the default bucket set in the project -
+
+`docker run -v ${PWD}:/app -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY markupboy`
