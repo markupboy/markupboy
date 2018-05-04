@@ -4,7 +4,7 @@ body_class: Profile
 content_class: formatted
 ---
 
-Hi. I'm Blake Walters.
+Hi. I'm Blake Walters!
 
 ![Profile pciture](profile.jpg)
 
