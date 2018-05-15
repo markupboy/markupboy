@@ -17,7 +17,7 @@ All of my media gets served from a [QNAP NAS](https://www.qnap.com/en-us/product
 
 For travel, I have an [iPad Pro](http://www.apple.com/ipad/), a [Kindle Voyage](http://www.amazon.com/dp/B00IOY8XWQ/ref=ods_fs_kv) when I want to do serious reading, and a pile of [Nikon](http://www.nikonusa.com/) gear for when I want to take a photograph.
 
-All of my keyboards are [of the mechanical persuasion](http://elitekeyboards.com/) and my mice are [Razer](http://mrkp.me/2m).
+All of my keyboards are [of the mechanical persuasion](http://elitekeyboards.com/) and my mice are [Razer](http://razerzone.com).
 
 ##Tools
 
@@ -29,4 +29,4 @@ And my entire digital life is in the hands of [Dropbox](http://www.dropbox.com).
 
 ##The Site
 
-This site's design is a heavily modified version of the Information Architects' [iA3 Wordpress Theme](http://www.informationarchitects.jp/en/ia3/) built with [Middleman](http://middlemanapp.com/) and [Webpack](https://webpack.js.org) and hosted on [S3](http://aws.amazon.com/s3/).
+This site is built with [Middleman](http://middlemanapp.com/) and [Webpack](https://webpack.js.org) and hosted on [S3](http://aws.amazon.com/s3/).
