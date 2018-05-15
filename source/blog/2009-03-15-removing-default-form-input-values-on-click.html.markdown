@@ -4,7 +4,7 @@ date: 2009-03-15 00:00 UTC
 tags:
 ---
 
-<p>For an alternative method, see <a href="http://markupboy.com/2009/10/a-better-method-for-clearing-d.html">A Better Method for Clearing Default Form Input Values</a></p></p>
+<p>For an alternative method, see <a href="https://markupboy.com/blog/a-better-method-for-clearing-default-form-input-values/">A Better Method for Clearing Default Form Input Values</a></p></p>
 <p>Another quick and dirty jQuery trick.  I often find myself wanting to place form instructions ('enter name here' or what have you) using the value attribute.  Forcing a user to manually delete this information isn't what I would call great usability.  But, with a little bit of javascripting, removing and replacing defaults on click is a piece of cake:</p>
 <p><code class="js">$('input[type=text], textarea').each(function() {&nbsp;<br />
  $(this).focus(function() {<br />

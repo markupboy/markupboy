@@ -4,7 +4,7 @@ date: 2009-10-17 00:00 UTC
 tags:
 ---
 
-<p>A while back I wrote a quick post on <a href="http://markupboy.com/removing-default-form-input-values-on-click/">how to clear default form values on click</a>. Using jQuery, we leveraged the "defaultValue" variable associated with each input object and on focus simply checked whether the current value equalled the defaultValue.  If it did, we cleared it, easy as that.</p>
+<p>A while back I wrote a quick post on <a href="http://markupboy.com/blog/removing-default-form-input-values-on-click/">how to clear default form values on click</a>. Using jQuery, we leveraged the "defaultValue" variable associated with each input object and on focus simply checked whether the current value equalled the defaultValue.  If it did, we cleared it, easy as that.</p>
 
 <p>Unfortunately, that's not as semantic as it could be (even less so if we're not already using a label). On top of that when the form is submitted we have to check every form element we've handled this way and clear it out if it hasn't been set; if we don't, the default values will end up getting submitted.</p>
 
@@ -20,10 +20,6 @@ tags:
 </code></pre>
 
 <p>The input is as plain as it gets, with a name and an id.  The label's nothing too special either, just make absolutely sure the 'for' attribute matches the inputs id. The last piece is that I've gone ahead and wrapped the two in another tag and classed it "input_group".  This doesn't have to a paragraph tag (a span or li would work just as well), but know that whatever you use will end up having to act a block level element for the positioning of the label.</p>
-
-<p>
- <img src="http://markupboy.com/demos/betterclearingdefaults/nocss.jpg" alt="No CSS" />
-</p>
 
 <p>Next, a dash of CSS to pretty things up a bit.  Start by styling the input itself; not terribly necessary, but certainly makes everything more attractive:</p>
 
@@ -73,10 +69,6 @@ input:focus {
     filter:alpha(opacity=20);
 }
 </code></pre>
-
-<p>
- <img src="http://markupboy.com/demos/betterclearingdefaults/fullcss.jpg" alt="Full CSS" />
-</p>
 
 <p>The last piece of the puzzle: the experience layer thanks to JavaScript. </p>
 
@@ -135,10 +127,4 @@ input:focus {
 <pre><code class="js">});
 </code></pre>
 
-<p>
- <img src="http://markupboy.com/demos/betterclearingdefaults/cssandjs.jpg" alt="No CSS" />
-</p>
-
 <p>That's all there is to it. One thing to note, this isn't meant to be a replacement for the original method, merely an alternative.  There are situations where one will definitely be more viable than the other.  Just use whatever works best.</p>
-
-<p><a href="http://markupboy.com/demos/betterclearingdefaults/">Check out the demo here</a></p>

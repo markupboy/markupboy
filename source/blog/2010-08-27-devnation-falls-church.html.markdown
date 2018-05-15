@@ -4,7 +4,7 @@ date: 2010-08-27 00:00 UTC
 tags:
 ---
 
-<p>I'm speaking at <a href="http://devnation.us">DevNation</a> on Saturday, August 28th!  It's a really great line-up for a super low price so come join us if you get the chance.
+<p>I'm speaking at DevNation on Saturday, August 28th!  It's a really great line-up for a super low price so come join us if you get the chance.
 </p>
 
 <p>Here are all the pertinent links and downloads from my presentation:</p>

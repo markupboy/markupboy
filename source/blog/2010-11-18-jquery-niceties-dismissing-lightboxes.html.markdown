@@ -39,5 +39,5 @@ tags:
 
 <ul>
 <li>Working with Events <a href="http://www.learningjquery.com/2008/03/working-with-events-part-1">Part 1</a> and <a href="http://www.learningjquery.com/2008/05/working-with-events-part-2">Part 2</a> over at <a href="http://www.learningjquery.com">Learning jQuery</a></li>
-<li><a href="http://markupboy.com/2009-03-14-limiting-characters-in-a-textarea-with-jquery.html">My article on limiting characters in a text area</a> which covers keybinding </li>
+<li><a href="http://markupboy.com/blog/limiting-characters-in-a-textarea-with-jquery/">My article on limiting characters in a text area</a> which covers keybinding </li>
 </ul>

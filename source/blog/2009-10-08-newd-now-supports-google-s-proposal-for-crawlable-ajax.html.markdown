@@ -6,7 +6,7 @@ tags:
 
 <p>Yesterday morning, <a href="http://googlewebmastercentral.blogspot.com/2009/10/proposal-for-making-ajax-crawlable.html">Google posted a proposal for making AJAX crawlable on it's Webmaster Central Blog</a>.  They posited that using a standardized convention for fragment identifiers to represent AJAX application states, taking snapshots of these states using a headless browser and using an escaped version of the original application state fragments to render these snapshots to crawlers would allow for these applications to be indexable as well as being able to have search engines server back links to the AJAX states themselves.  </p>
 
-<p>With minimal effort, these changes have been rolled into a fork of <a href="http://www.cpbgroup.com">Crispin Porter + Bogusky</a>'s <a href="http://www.github.com/cpbadmin/newd">open source project Newd</a>.</p>
+<p>With minimal effort, these changes have been rolled into a fork of <a href="http://www.cpbgroup.com">Crispin Porter + Bogusky</a>'s open source project Newd.</p>
 
 <p>Taking the <a href="http://domscripting.com/blog/display/41">Hijax</a> approach to web application development, Newd was engineered specifically to be entirely browsable without javascript.  Each state in the app was built based on a rendered static page and then rolled into the main application using <a href="http://www.jquery.com">jQuery</a> and a custom framework written around the modular approach to Newd's data feeds.  For instance:</p>
 
@@ -47,4 +47,4 @@ tags:
 
 <p>And that's it.  Bringing Newd up to meet this proposed standard took only a few hours thanks primarily it being based on the Hijax approach for AJAX applications. If this new proposal does indeed get adopted it means users will finally have direct access to AJAX content via search results, which is a very exciting prospect.</p>
 
-<p><a href="http://github.com/markupboy/newd">Browse or download the Newd source updated to this proposed standard at it's page on GitHub</a></p>
+<p>Browse or download the Newd source updated to this proposed standard at it's page on GitHub</p>
