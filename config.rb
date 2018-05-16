@@ -3,6 +3,8 @@
 require "./lib/custom_helpers"
 helpers CustomHelpers
 
+require 'html-proofer'
+
 #
 # Use webpack for assets
 #
@@ -42,4 +44,13 @@ activate :directory_indexes
 configure :build do
   # Enable cache buster (except for images)
   activate :asset_hash, ignore: [/\.jpg\Z/, /\.png\Z/]
+end
+
+after_build do |builder|
+  begin
+    HTMLProofer.check_directory(config[:build_dir], { :assume_extension => true }).run
+  rescue RuntimeError => e
+    puts e
+    exit(1)
+  end
 end

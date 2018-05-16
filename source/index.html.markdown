@@ -60,4 +60,4 @@ Specific technical skills include HTML, CSS, Javascript, Node, Ruby, GoLang, and
 
 ###On the Web
 
-[Github](http://www.github.com/markupboy) &middot; [Twitter](http://www.twitter.com/markupboy) &middot; [LinkedIn](http://www.linkedin.com/in/blakewalters)
+[Github](http://www.github.com/markupboy) &middot; [Twitter](http://www.twitter.com/markupboy) &middot; <a data-proofer-ignore href="http://www.linkedin.com/in/blakewalters">LinkedIn</a>, [Notalink](http://notalink.com)

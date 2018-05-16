@@ -17,8 +17,6 @@ tags:
 
 <p>with a custom font or graphic:</p>
 
-<p><img src="/images/uploads/bkg.h1.png" alt="Sample Header" title="" /></p>
-
 <p>We'll start with a basic css selector just to get things rolling:</p>
 
 <pre><code class="css">h1 { }
@@ -57,10 +55,6 @@ tags:
     text-indent: -9999px;
 }
 </code></pre>
-
-<h1 style="background: url(/images/uploads/bkg.h1.png) left top no-repeat; height: 80px; width: 240px; overflow: hidden; text-indent: -9999px">
-    Markupboy
-</h1>
 
 <p>Setting the 'overflow' property to hidden on a block level element makes any child element (including text nodes) that falls outside of the rendering bounds of that parent element to be hidden.  Then, with 'text-indent', we're forcing the child text node to render as far outside the parent element as possible and there you have it.  We don't need any extra markup in this case and we don't have to resort to 'display: none' as that would cause accessibility issue with screen readers not even being able to access that text.  </p>
 
