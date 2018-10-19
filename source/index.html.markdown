@@ -10,7 +10,7 @@ Hi. I'm Blake Walters!
 
 My career as I know it started way back in 1995. I designed and built my first website that year. It was awful. A local music group paid $50 for a site full of frames, tables, and font tags that ignited a passion and would lead to an entire career. Along the way, I've built websites, web applications, and engineering teams for small businesses, global brands, and world-class startups.
 
-Currently, my focus is on software engineering management and leadership. I'm proud to lead a team of talented, full-stack engineers who are building and shipping the future of design collaboration. My aim is to build great engineering teams, to empower them to operate independently, and to help them ship meaningful features to users quickly and reliably.
+Currently, my focus is on software engineering management and leadership. I'm proud to lead a team of talented full-stack engineers who are building and shipping the future of design collaboration. My aim is to build great engineering teams, to empower them to operate independently, and to help them ship meaningful features to users quickly and reliably.
 
 Today, I'm a Software Engineering Manager at [InvisionApp](http://www.invisionapp.com), working remotely out of my home in Longmont, CO. Outside of work I'm a husband and a new dad, an avid amateur photographer, a serious car nut, and spend what little free time I have left playing as many video games as possible.
 
@@ -26,13 +26,13 @@ Lead front-end engineer across HashiCorp's suite of products - Terraform Enterpr
 
 ###Software Engineer, [Big Cartel](http://www.bigcartel.com) <time>Salt Lake City, UT (Remote), October 2012 - March 2015</time>
 
-Lead front-end engineer for the Big Cartel e-commerce platform. User interface and application work built in Rails utilizing vanilla JavaScript, SASS, and HAML and single page app experiences built in Backbone.js. Work emphasized thoughtful, responsive builds and best practices to enable usage across a wide variety of devices and platforms.
+Lead front-end engineer for the Big Cartel e-commerce platform. User interface and application work built in Rails utilizing JavaScript, SASS, and HAML and single page app experiences built in Backbone.js. Work emphasized thoughtful, responsive builds and best practices to enable usage across a wide variety of devices and platforms.
 
-Major contributions included the seamless checkout application tying into the platform's theming system and integrated with Stripe and PayPal express to provide stores with a style-matched checkout flow for their shop. As well as a bespoke mobile admin tailored to touch devices built on a hand-rolled UI framework that handled routing and page specific script execution.
+Major contributions included a web-based checkout and payment processing application, a mobile web-based store administration utility, and a variety of internal and external tools, applications, and marketing websites.
 
 ###Sr. Front-End Developer, [Viget Labs](http://www.viget.com) <time>Falls Church, VA, April 2010 - October 2012</time>
 
-Senior member of Viget Labs front-end development team. Responsible for front-end development, web application development, and custom content management system implementations.
+Senior member of Viget Labs' front-end development team. Responsible for front-end development, web application development, and custom content management system implementations.
 
 Notable project work included sites for Duke Admissions, Epic Games' Unreal Technology, Rumble Games, and Philippe Cousteau's EarthEcho organization.
 
@@ -40,7 +40,7 @@ Notable project work included sites for Duke Admissions, Epic Games' Unreal Tech
 
 Responsible for leading front-end and web application development for high profile clients. Developed agency-wide architecture for front-end implementations and defined the process by which standards-based user interfaces were implemented. Responsible for department education, mentorship, and technical project management.
 
-Notable project work included the American Express Open Forum, Microsoft's Windows.com, Burger King's BK.com and more for clients such as Domino's Pizza, Volkswagen, and Coke Zero.
+Notable clients included American Express, Microsoft, Burger King, Domino's Pizza, Volkswagen, and Coke Zero.
 
 ###Web Developer and Designer, Delta Systems Group <time>Columbia, MO, November 2004 - November 2007</time>
 
