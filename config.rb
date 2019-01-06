@@ -47,10 +47,10 @@ configure :build do
 end
 
 after_build do |builder|
-  begin
-    HTMLProofer.check_directory(config[:build_dir], { :assume_extension => true }).run
-  rescue RuntimeError => e
-    puts e
-    exit(1)
-  end
+#  begin
+#    HTMLProofer.check_directory(config[:build_dir], { :assume_extension => true }).run
+#  rescue RuntimeError => e
+#    puts e
+#    exit(1)
+#  end
 end
