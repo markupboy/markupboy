@@ -13,9 +13,9 @@ My goal as a manager is to empower those I work for: the people I manage. I work
 
 **Everyone's a leader**. Every single person has the capacity to lead, and I aim to empower that. Whether that's for a ticket, a feature, a meeting, a team, or a company. Want to lead more? Great! Let's discuss it in our next 1:1.
 
-**Every minute of the day is an important minute for one of our customers**. You never know if we're preventing a critical patch from going out, holding up a major product launch, or impacting a demo for a board of directors. We might only work 8 hours a day, 5 days a week, but our software works around the clock, around the world, every single day.
+**Every minute of the day is an important minute for one of our customers**. You never know if we're preventing a critical patch from going out, holding up a major product launch, or impacting a demo for a board of directors. We may only work 8 hours a day, 5 days a week, but our software works around the clock, around the world, every single day.
 
-**Customers don't care how long it took** to build something. If it took 5 hours, 5 days, or 5 months, our customers don't care if something doesn't work or doesn't meet their expectations. Everything we ship to customers should be of the highest quality, regardless of the size or effort put into the work behind it.
+**Customers don't care how long it took to build**. Whether it took 5 hours, 5 days, or 5 months, our customers don't care if something doesn't work or doesn't meet their expectations. Everything we ship to customers should be of the highest quality, regardless of the size or effort put into the work behind it.
 
 ## My expectations
 
@@ -23,11 +23,11 @@ I have high expectations for you the same way I hope that you have high expectat
 
 ### Transparency 
 
-I try to operate as transparently as possible. I try my hardest not to overwhelm with minutiae, so if you feel like an important bit of context is missing, just ask! If I can't share something, regardless of what it is, I will always give a clear reason as to why.
+I operate as transparently as possible. I try my hardest not to overwhelm with minutiae, so if you feel like an important bit of context is missing, just ask! If I can't share something, regardless of what it is, I will always give a clear reason as to why.
 
 ### 1:1s
 
-1:1s are the most important part of my week, and my favorite part of my job. Expect to meet for an hour ever other week at an absolute minimum. We might need more time, we'll rarely need less. 
+1:1s are the most important part of my week, and my favorite part of my job. Expect to meet for an hour every other week at an absolute minimum. We might need more time, we'll rarely need less. 
 
 1:1s are not status update meetings (unless, of course, that's what you want to talk about). They are a chance for us to talk about everything from your career, the company, our direction, your peers, your performance, whatever. Nothing is off limits, and everything stays between us unless you specifically agree otherwise. 
 
@@ -37,19 +37,19 @@ We'll have an ongoing list of things to discuss at our meeting - typically a sha
 
 ### Meetings
 
-Meetings need a purpose otherwise they're not meetings, and they're likely not beneficial. Make sure that the meetings are driving toward actionable outcomes or takeaways. If a meeting ever feels like it's veering off course, I might speak up to table the conversation for later to get us back on track, and I encourage you to do the same.
+Meetings need a clear purpose otherwise they're not meetings but instead just a group of people talking. Sometimes that's okay, but oftentimes we can do better. Have an agenda. Make sure that meetings are driving toward actionable outcomes or takeaways. If a meeting ever feels like it's veering off course, I might speak up to table the conversation for later to get us back on track. I encourage you to do the same.
 
 ### Working hours
 
 There are few things more important to me than a healthy life-work balance. I try my hardest to keep regular hours, and try to not let life encroach on work or let work encroach on life. I encourage the same for the people I manage.
 
-Sometimes, though, I can be found sitting on my couch at night in front of the TV with a laptop open. If I ping you after hours or on the weekend **do not feel compelled to respond** until business hours the next workday. More often than not, I've thought of something to ask or discuss and am sharing a note to be chat about later. If it's an emergency of any kind, I'll be extremely clear of what the situation is and what's needed.
+Sometimes, though, I can be found sitting on my couch at night in front of the TV with a laptop open. If I ping you after hours or on the weekend **do not feel compelled to respond** until business hours the next workday. More often than not, I've thought of something to ask or discuss and am sharing a note to chat about later. If it's an emergency of any kind, I'll be extremely clear of what the situation is and what's needed.
 
-Above all else, if you need me, reach out to me and I will do my best to get back to you as quickly as possible. If I'm unavailable for any extended length of time, I'll do my best to make sure you know why, for how long, and who you can contact in the meantime.
+Above all else, if you need me, reach out to me and I will do my best to get back to you as quickly as possible. If I'm unavailable for any extended period of time, I'll do my best to make sure you know why, for how long, and who you can contact in the meantime.
 
-## Nuance and Errata
+## Important tidbits
 
-**I love to talk** - to you, with you, about work, about everything. I've been known to gab too much, so if I need to get to the point, you won't hurt my feelings saying so.
+**I love to talk** - to you, with you, about work, about everything. I've been known to gab too much, so if I need to move on and get to the point, you won't hurt my feelings saying so.
 
 **I assume you know more than me when it comes to technical topics**. I do my best to stay on top of things. I'm a front-end developer by trade, and a full-stack developer by necessity, but I promise you're a better engineer than I am. I'm going to lean on that to everyone's advantage.
 
