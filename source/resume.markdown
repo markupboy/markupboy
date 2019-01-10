@@ -3,11 +3,11 @@
 blake@blake-walters.com
 (571) 230-0562
 
-My career as I know it started way back in 1995. I designed and built my first website that year. It was awful. A local music group paid $50 for a site full of frames, tables, and font tags that ignited a passion and would lead to an entire career. Along the way I've built websites, web applications, and engineering teams for small businesses, global brands, and world-class startups.
+My career as I know it started way back in 1995. I designed and built my first website that year. It was awful. A local music group paid \$50 for a site full of frames, tables, and font tags that ignited a passion and would lead to an entire career. Along the way I've built websites, web applications, and engineering teams for small businesses, global brands, and world-class startups.
 
 Currently, my focus is on software engineering management and leadership. I'm proud to lead a team of talented full-stack engineers who are building and shipping the future of design collaboration. My aim is to build great engineering teams, to empower them to operate independently, and to help them ship meaningful features to users quickly and reliably.
 
-Today, I'm a Software Engineering Manager at [InvisionApp](http://www.invisionapp.com), working remotely out of my home in Longmont, CO. Outside of work I'm a husband and a new dad, an avid amateur photographer, a serious car nut, and spend what little free time I have left playing as many video games as possible.
+Today, I'm a Software Engineering Manager at [CircleCI](http://www.circleci.com), working remotely out of my home in Longmont, CO. Outside of work I'm a husband and a new dad, an avid amateur photographer, a serious car nut, and spend what little free time I have left playing as many video games as possible.
 
 ##Experience
 
