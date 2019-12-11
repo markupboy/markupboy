@@ -11,8 +11,6 @@ My goal as a manager is to empower those I work for: the people I manage. I work
 
 ## My North Star principles
 
-**Everyone's a leader**. Every single person has the capacity to lead, and I aim to empower that. Whether that's for a ticket, a feature, a meeting, a team, or a company. Want to lead more? Great! Let's discuss it in our next 1:1.
-
 **Every minute of the day is an important minute for one of our customers**. You never know if we're preventing a critical patch from going out, holding up a major product launch, or impacting a demo for a board of directors. We may only work 8 hours a day, 5 days a week, but our software works around the clock, around the world, every single day.
 
 **Customers don't care how long it took to build**. Whether it took 5 hours, 5 days, or 5 months, our customers don't care if something doesn't work or doesn't meet their expectations. Everything we ship to customers should be of the highest quality, regardless of the size or effort put into the work behind it.
