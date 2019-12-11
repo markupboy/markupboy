@@ -7,7 +7,7 @@ Hi, I'm Blake, and I'm a software engineering manager. You might work with me, o
 
 ## My goal
 
-My goal as a manager is to empower those I work for: the people I manage. I work _for_ you, not the other way around. My job is to provide clarity, context, priority, and feedback. I'm not here to tell you what to do. I'm here to help enable you to do whatever it is that you do best.
+My goal as a manager is to empower those I work for: the people I manage. I work _for_ you, not the other way around. My job is to provide clarity, context, priority, and feedback. I'm don't want to be here solely to tell you what to do. I'm here to help enable you to do whatever it is that you do best.
 
 ## My North Star principles
 
@@ -49,7 +49,7 @@ Above all else, if you need me, reach out to me and I will do my best to get bac
 
 **I love to talk** - to you, with you, about work, about everything. I've been known to gab too much, so if I need to move on and get to the point, you won't hurt my feelings saying so.
 
-**I assume you know more than me when it comes to technical topics**. I do my best to stay on top of things. I'm a front-end developer by trade and a full-stack developer by necessity, but I promise you're a better engineer than I am. I'm going to lean on that to everyone's advantage.
+**I assume you know more than me when it comes to technical topics**. I do my best to stay on top of things. I'm a front-end engineer by trade and a full-stack engineer by necessity, but I promise you're a better engineer than I am. I'm going to lean on that to everyone's advantage.
 
 **I believe in the unstoppable power of shipping small**. This is as important for managing as it is development. I like to iterate on feedback in small, achievable increments. If you're surprised during a review, I consider that a complete and utter failure on my part.
 
