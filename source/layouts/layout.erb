@@ -50,11 +50,11 @@
         </li>
         <li class="G1">
           <h2 class="HSC">
-            <a href="/colophon">About</a>
+            <a href="/readme">About</a>
           </h2>
           <ul>
-            <li <%= active_nav_item(current_page, yield_content(:category), 'Colophon') %>>
-              <a href="/colophon">Colophon</a>
+            <li <%= active_nav_item(current_page, yield_content(:category), 'Readme') %>>
+              <a href="/readme">Readme</a>
             </li>
             <li <%= active_nav_item(current_page, yield_content(:category), 'Contact') %>>
               <a href="/contact">Contact</a>
@@ -83,7 +83,7 @@
           <option <%= selected_nav_item current_page, yield_content(:category), 'Source' %> value="/source">Source</option>
         </optgroup>
         <optgroup label="About">
-          <option <%= selected_nav_item current_page, yield_content(:category), 'Colophon' %> value="/colophon">Colophon</option>
+          <option <%= selected_nav_item current_page, yield_content(:category), 'Readme' %> value="/readme">Readme</option>
           <option <%= selected_nav_item current_page, yield_content(:category), 'Contact' %> value="/contact">Contact</option>
         </optgroup>
         <optgroup label="Notes">
