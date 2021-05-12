@@ -3,17 +3,21 @@ title: Manager Readme
 category: Readme
 ---
 
-Hi, I'm Blake, and I'm a software engineering manager. You might work with me, or for me, or I might even work for you. We might have just met, or worked together for ages. Whatever the case may be, consider this a convenient guide to me and how I like to manage.
+Hi, I'm Blake, and I'm a Director of Engineering. You might work with me, or for me, or I might even work for you. We might have just met, or worked together for ages. Whatever the case may be, consider this a convenient guide to me and how I like to manage.
 
 ## My goal
 
-My goal as a manager is to empower those I work for: the people I manage. I work _for_ you, not the other way around. My job is to provide clarity, context, priority, and feedback. I'm don't want to be here solely to tell you what to do. I'm here to help enable you to do whatever it is that you do best.
+My goal as a manager is to empower those I work for: the people I manage. I work _for_ you, not the other way around. My job is to provide clarity, context, priority, and feedback. I don't want to be here solely to tell you what to do. I'm here to help enable you to do whatever it is that you do best.
 
 ## My North Star principles
 
-**Every minute of the day is an important minute for one of our customers**. You never know if we're preventing a critical patch from going out, holding up a major product launch, or impacting a demo for a board of directors. We may only work 8 hours a day, 5 days a week, but our software works around the clock, around the world, every single day.
+### Every minute of the day is an important minute for one of our customers. 
 
-**Customers don't care how long it took to build**. Whether it took 5 hours, 5 days, or 5 months, our customers don't care if something doesn't work or doesn't meet their expectations. Everything we ship to customers should be of the highest quality, regardless of the size or effort put into the work behind it.
+You never know if we're preventing a critical patch from going out, holding up a major product launch, or impacting a demo for a board of directors. We may only work 8 hours a day, 5 days a week, but our software works around the clock, around the world, every single day.
+
+###Customers don't care how long it took to build. 
+
+Whether it took 5 hours, 5 days, or 5 months, our customers don't care if something doesn't work or doesn't meet their expectations. Everything we ship to customers should be of the highest quality, regardless of the size or effort put into the work behind it.
 
 ## My expectations
 
@@ -54,7 +58,5 @@ Above all else, if you need me, reach out to me and I will do my best to get bac
 **I believe in the unstoppable power of shipping small**. This is as important for managing as it is development. I like to iterate on feedback in small, achievable increments. If you're surprised during a review, I consider that a complete and utter failure on my part.
 
 **I'll give you as much detail as I think you need**. If you need more, ask for it. If I can't give it immediately, I'll make finding it my top priority.
-
-**I need to be more aggressive**. I've been working on this a lot over the past few years. I constantly aim to please, and while I'll always fight for my teams and my engineers, I can sometimes bring a more passive and accepting approach to the table. If you _ever_ see an instance where you'd like me to stand up for you, the team, or even myself more, don't hesitate to let me know.
 
 **Trust is everything**. I hope you trust me to do my best to provide you with the right information and guidance, at the right time, and in the right amount to do your job. I'm trusting you to do your best to execute our shared vision and to speak up early and loudly when that ability might be impacted.
