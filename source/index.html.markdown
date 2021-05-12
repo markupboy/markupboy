@@ -16,9 +16,13 @@ Today, I'm a Software Engineering Manager at [CircleCI](http://www.circleci.com)
 
 ##Experience
 
-###Software Engineering Manager, [CircleCI](http://www.circleci.com) <time>San Francisco (Remote), January 2019 - Present</time>
+###Director, Engineering, [CircleCI](http://www.circleci.com) <time>San Francisco (Remote), January 2021 - Present</time>
 
-More info to come…
+Currently serving as Diretor, Engineering for the Core Product Growth and Data Product domains. 
+
+###Senior Engineering Manager, [CircleCI](http://www.circleci.com) <time>San Francisco (Remote), January 2021 - Present</time>
+
+Senior engineering manager overseeing multiple teams across the CircleCI product engineering department. Areas of focus included product growth, frontend development, data product, and data platform engineering. Responsibilities included managing managers, performance reviews and feedback, strategic direction setting, hiring and onboarding of engineering maangers and technical leadership, close collaboration with product management and executive engineering leadership, and overseeing organization-wide initiatives. 
 
 ###Software Engineering Manager, [InVisionApp](http://www.invisionapp.com) <time>New York, NY (Remote), March 2017 - January 2019</time>
 
