@@ -5,13 +5,15 @@ blake@blake-walters.com
 
 My career as I know it started way back in 1995. I designed and built my first website that year. It was awful. A local music group paid \$50 for a site full of frames, tables, and font tags that ignited a passion and would lead to an entire career. Along the way I've built websites, web applications, and engineering teams for small businesses, global brands, and world-class startups.
 
-Currently, my focus is on software engineering management and leadership. I'm proud to lead a division of talented full-stack and data engineers who are building and shipping products and platforms for customers around the world. My aim is to build great engineering teams, to empower them to operate independently, and to help them ship meaningful features to users quickly and reliably.
+Currently, my focus is on software engineering leadership. I'm proud to lead a division of talented engineering teams that are building and shipping products and platforms for customers around the world. My aim is to build great engineering organizations, to empower teams and individuals to operate independently, and to help them ship meaningful features to users quickly and reliably.
 
-Today, I'm a Senior Engineering Manager at [CircleCI](http://www.circleci.com), working remotely out of my home in Longmont, CO. Outside of work I'm a husband and a new dad, an avid amateur photographer, a serious car nut, and spend what little free time I have left playing as many video games as possible.
+Today, I'm the Director of Engineering for Growth and Data at [CircleCI](http://www.circleci.com), working remotely out of my home in Longmont, CO. Outside of work I'm a husband and a dad, an avid amateur photographer, a serious car nut, and spend what little free time I have left playing as many video games as possible.
 
 ##Experience
 
-###Senior Engineering Manager, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), January 2019 - Present</time>
+###Director of Engineering for Core Growth and Data, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), January 2019 - January 2021</time>
+
+###Senior Engineering Manager, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), January 2019 - January 2021</time>
 
 Coming soon…
 
@@ -29,21 +31,11 @@ Lead front-end engineer for the Big Cartel e-commerce platform. User interface a
 
 Major contributions included a web-based checkout and payment processing application, a mobile web-based store administration utility, and a variety of internal and external tools, applications, and marketing websites.
 
-###Sr. Front-End Developer, [Viget Labs](http://www.viget.com) <time>Falls Church, VA, April 2010 - October 2012</time>
+###Additional Experience 
 
-Senior member of Viget Labs' front-end development team. Responsible for front-end development, web application development, and custom content management system implementations.
-
-Notable project work included sites for Duke Admissions, Epic Games' Unreal Technology, Rumble Games, and Philippe Cousteau's EarthEcho organization.
-
-###Sr. User Interface Architect, [Crispin Porter + Bogusky](http://www.cpbgroup.com) <time>Boulder, CO, November 2007 - April 2010</time>
-
-Responsible for leading front-end and web application development for high profile clients. Developed agency-wide architecture for front-end implementations and defined the process by which standards-based user interfaces were implemented. Responsible for department education, mentorship, and technical project management.
-
-Notable clients included American Express, Microsoft, Burger King, Domino's Pizza, Volkswagen, and Coke Zero.
-
-###Web Developer and Designer, Delta Systems Group <time>Columbia, MO, November 2004 - November 2007</time>
-
-Responsible for the design and implementation of small business websites and web applications.
+* Sr. Front-End Developer, [Viget Labs](http://www.viget.com) <time>April 2010 - October 2012</time>
+* Sr. User Interface Architect, [Crispin Porter + Bogusky](http://www.cpbgroup.com) <time>November 2007 - April 2010</time>
+* Web Developer, Delta Systems Group <time>November 2004 - November 2007</time>
 
 ##Education
 
