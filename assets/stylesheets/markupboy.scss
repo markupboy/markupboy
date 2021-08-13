@@ -1,28 +1,43 @@
 @import "reset";
 
 @media all {
-
   /* @group basic, universal styles */
 
   body {
-    line-height: 1
+    line-height: 1;
   }
 
-  article,aside,details,figcaption,figure,footer,header,hgroup,img,menu,nav,section,svg {
-    display: block
+  article,
+  aside,
+  details,
+  figcaption,
+  figure,
+  footer,
+  header,
+  hgroup,
+  img,
+  menu,
+  nav,
+  section,
+  svg {
+    display: block;
   }
 
   nav ul {
-    list-style: none
+    list-style: none;
   }
 
-  blockquote,q {
-    quotes: none
+  blockquote,
+  q {
+    quotes: none;
   }
 
-  blockquote:before,blockquote:after,q:before,q:after {
-    content: '';
-    content: none
+  blockquote:before,
+  blockquote:after,
+  q:before,
+  q:after {
+    content: "";
+    content: none;
   }
 
   a {
@@ -30,34 +45,35 @@
     font-size: 100%;
     margin: 0;
     padding: 0;
-    vertical-align: baseline
+    vertical-align: baseline;
   }
 
   ins {
     background-color: #ff9;
     color: #000;
-    text-decoration: none
+    text-decoration: none;
   }
 
   mark {
     background-color: #ff9;
     color: #000;
     font-style: italic;
-    font-weight: bold
+    font-weight: bold;
   }
 
   del {
-    text-decoration: line-through
+    text-decoration: line-through;
   }
 
-  abbr[title],dfn[title] {
+  abbr[title],
+  dfn[title] {
     border-bottom: 1px dotted inherit;
-    cursor: help
+    cursor: help;
   }
 
   table {
     border-collapse: collapse;
-    border-spacing: 0
+    border-spacing: 0;
   }
 
   hr {
@@ -66,38 +82,56 @@
     display: block;
     height: 1px;
     margin: 1em 0;
-    padding: 0
+    padding: 0;
   }
 
-  input,select {
-    vertical-align: middle
+  input,
+  select {
+    vertical-align: middle;
   }
 
   em {
     font-style: italic;
   }
-  
+
   strong {
     font-weight: 600;
   }
 
   /* @end */
-
 }
 
 @media screen {
-
   /* @group basic screen styles */
 
   body {
-    background: #FFF;
-    border-top: solid .3em #000;
-    font-size: 100%
+    background: #fff;
+    border-top: solid 0.3em #000;
+    font-size: 100%;
   }
 
-  address,blockquote,caption,cite,code,dl,figcaption,h1,h2,h3,h4,h5,h6,label,legend,ol,p,pre,ul,table {
+  address,
+  blockquote,
+  caption,
+  cite,
+  code,
+  dl,
+  figcaption,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  label,
+  legend,
+  ol,
+  p,
+  pre,
+  ul,
+  table {
     display: block;
-    font: normal normal 400 1em/1.5em Andada,Georgia,Serif;
+    font: normal normal 400 1em/1.5em Andada, Georgia, Serif;
     list-style: none;
     margin: 0 0 1.5em;
     text-rendering: optimizeLegibility;
@@ -107,108 +141,137 @@
     display: inline;
   }
 
-  dd,dt,li {
+  dd,
+  dt,
+  li {
     display: block;
     margin: 0;
-    padding: 0
+    padding: 0;
   }
 
   li {
-    display: list-item
+    display: list-item;
   }
 
-  dd:last-child,dl:last-child,dt:last-child,li:last-child,ol:last-child,ul:last-child,p:last-child {
-    margin-bottom: 0 !important
+  dd:last-child,
+  dl:last-child,
+  dt:last-child,
+  li:last-child,
+  ol:last-child,
+  ul:last-child,
+  p:last-child {
+    margin-bottom: 0 !important;
   }
 
   a {
     color: #c00;
-    text-decoration: underline
+    text-decoration: underline;
   }
 
   a:hover {
     color: #c00;
-    text-decoration: none
+    text-decoration: none;
   }
 
   a:visited {
-    color: #800
+    color: #800;
   }
 
-  abbr,acronym {
+  abbr,
+  acronym {
     border: none;
-    cursor: help
+    cursor: help;
   }
 
-  a abbr,a acronym {
-    cursor: pointer
+  a abbr,
+  a acronym {
+    cursor: pointer;
   }
 
   hr {
     border: none;
-    background-color: #EEE;
-    height: .1em;
-    margin: 1.45em 0 1.4em
+    background-color: #eee;
+    height: 0.1em;
+    margin: 1.45em 0 1.4em;
   }
 
-  pre,code,kbd,samp {
-    font-family: monospace,sans-serif
+  pre,
+  code,
+  kbd,
+  samp {
+    font-family: monospace, sans-serif;
   }
 
-  button,input,label,select,textarea {
+  button,
+  input,
+  label,
+  select,
+  textarea {
     display: block;
     font-size: 1em;
-    line-height: 1.5em
+    line-height: 1.5em;
   }
 
-  button,input,select,textarea {
+  button,
+  input,
+  select,
+  textarea {
     float: left;
-    margin-right: .5em
+    margin-right: 0.5em;
   }
 
-  button,input,select {
-    font-family: arial,sans-serif
+  button,
+  input,
+  select {
+    font-family: arial, sans-serif;
   }
 
   textarea {
-    border: solid .1em #666;
-    border-radius: .225em;
-    -moz-border-radius: .225em;
-    -webkit-border-radius: .225em;
-    font: normal normal 400 .75em/2em monospace,serif;
-    padding: 0 .3em
+    border: solid 0.1em #666;
+    border-radius: 0.225em;
+    -moz-border-radius: 0.225em;
+    -webkit-border-radius: 0.225em;
+    font: normal normal 400 0.75em/2em monospace, serif;
+    padding: 0 0.3em;
   }
 
-  input[type=submit] {
-    background: #EEE;
-    background: -moz-linear-gradient(top,#F7F7F7,#E6E6E6);
-    background: -webkit-gradient(linear,left top,left bottom,from(#F7F7F7),to(#E6E6E6));
-    border: solid .1em #666;
-    border-radius: .3em;
-    -moz-border-radius: .3em;
-    -webkit-border-radius: .3em;
+  input[type="submit"] {
+    background: #eee;
+    background: -moz-linear-gradient(top, #f7f7f7, #e6e6e6);
+    background: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#f7f7f7),
+      to(#e6e6e6)
+    );
+    border: solid 0.1em #666;
+    border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
     font-size: 75%;
     font-weight: 700;
     height: 2em;
-    padding: 0 .5em;
-    text-shadow: #F7F7F7 0 .1em 0
+    padding: 0 0.5em;
+    text-shadow: #f7f7f7 0 0.1em 0;
   }
 
-  input[type=text] {
-    background: #FFF;
-    border: solid .1em #666;
-    border-radius: .225em;
-    -moz-border-radius: .225em;
-    -webkit-border-radius: .225em;
+  input[type="text"] {
+    background: #fff;
+    border: solid 0.1em #666;
+    border-radius: 0.225em;
+    -moz-border-radius: 0.225em;
+    -webkit-border-radius: 0.225em;
     height: 1em;
     line-height: 1em;
-    padding: 0 .25em;
-    padding: .25em .2em .15em;
-    width: 8.875em
+    padding: 0 0.25em;
+    padding: 0.25em 0.2em 0.15em;
+    width: 8.875em;
   }
 
-  input[type=text]:active,input[type=text]:focus {
-    outline: none
+  input[type="text"]:active,
+  input[type="text"]:focus {
+    outline: none;
   }
 
   .screen {
@@ -216,7 +279,6 @@
     padding: 3em 0;
     width: 48.875em;
   }
-
 
   /* @end */
 
@@ -232,131 +294,135 @@
     background-repeat: repeat-x;
   }
 
-
   /* @end */
 
   /* @group grid */
 
-  .G1,.G2,.G3,.G4,.G5,.G6 {
+  .G1,
+  .G2,
+  .G3,
+  .G4,
+  .G5,
+  .G6 {
     clear: none !important;
     float: left;
-    margin-left: 1.125em
+    margin-left: 1.125em;
   }
 
   .GS {
-    margin-left: 0
+    margin-left: 0;
   }
 
   .GR {
-    float: right
+    float: right;
   }
 
   .G1 {
-    width: 8.875em
+    width: 8.875em;
   }
 
   .G1 .G1 {
-    margin-left: 0
+    margin-left: 0;
   }
 
   .G1 .G2 {
-    margin-left: -10em
+    margin-left: -10em;
   }
 
   .G1 .G3 {
-    margin-left: -20em
+    margin-left: -20em;
   }
 
   .G1 .G4 {
-    margin-left: -30em
+    margin-left: -30em;
   }
 
   .G1 .G5 {
-    margin-left: -40em
+    margin-left: -40em;
   }
 
   .G1 .G6 {
-    margin-left: -50em
+    margin-left: -50em;
   }
 
   .G2 {
-    width: 18.875em
+    width: 18.875em;
   }
 
   .G2 .G2 {
-    margin-left: 0
+    margin-left: 0;
   }
 
   .G2 .G3 {
-    margin-left: -10em
+    margin-left: -10em;
   }
 
   .G2 .G4 {
-    margin-left: -20em
+    margin-left: -20em;
   }
 
   .G2 .G5 {
-    margin-left: -30em
+    margin-left: -30em;
   }
 
   .G2 .G6 {
-    margin-left: -40em
+    margin-left: -40em;
   }
 
   .G3 {
-    width: 28.875em
+    width: 28.875em;
   }
 
   .G3 .G3 {
-    margin-left: 0
+    margin-left: 0;
   }
 
   .G3 .G4 {
-    margin-left: -10em
+    margin-left: -10em;
   }
 
   .G3 .G5 {
-    margin-left: -20em
+    margin-left: -20em;
   }
 
   .G3 .G6 {
-    margin-left: -30em
+    margin-left: -30em;
   }
 
   .G4 {
-    width: 38.875em
+    width: 38.875em;
   }
 
   .G4 .G4 {
-    margin-left: 0
+    margin-left: 0;
   }
 
   .G4 .G5 {
-    margin-left: -10em
+    margin-left: -10em;
   }
 
   .G4 .G6 {
-    margin-left: -20em
+    margin-left: -20em;
   }
 
   .G5 .G5 {
-    margin-left: 0
+    margin-left: 0;
   }
 
   .G5 {
-    width: 48.875em
+    width: 48.875em;
   }
 
   .G5 .G6 {
-    margin-left: -10em
+    margin-left: -10em;
   }
 
   .G6 {
-    width: 58.875em
+    width: 58.875em;
   }
 
   .G6 .G6 {
-    margin-left: 0
+    margin-left: 0;
   }
 
   /* @end */
@@ -365,24 +431,24 @@
     color: #c00;
     font-size: 75%;
     height: 2em;
-    letter-spacing: .1em;
+    letter-spacing: 0.1em;
     line-height: 2em;
     text-transform: uppercase;
 
-    a, 
+    a,
     a:visited {
       color: #c00;
     }
   }
 
   label.HSC {
-    margin-bottom: 0
+    margin-bottom: 0;
   }
 
   .screen > footer .HSC,
   .screen > header .HSC {
     height: 2em;
-    margin-bottom: 0
+    margin-bottom: 0;
   }
 
   .screen > header li li,
@@ -392,7 +458,6 @@
     line-height: 1.5em;
     text-transform: none;
   }
-
 
   .screen > header {
     background-position: 0 100%;
@@ -428,12 +493,12 @@
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAGCAAAAADBUmCpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVQIHWOI/PT/P4MxkGQwNra/CSV8bv5nAEkAANIFDmMxRyBPAAAAAElFTkSuQmCC);
     background-position: 0 50%;
     background-repeat: no-repeat;
-    background-size: .25em .375em;;
-    -moz-background-size: .25em .375em;
-    -webkit-background-size: .25em .375em;
+    background-size: 0.25em 0.375em;
+    -moz-background-size: 0.25em 0.375em;
+    -webkit-background-size: 0.25em 0.375em;
     font-weight: 400;
-    margin-left: -.75em;
-    padding-left: .75em
+    margin-left: -0.75em;
+    padding-left: 0.75em;
   }
 
   .screen > header > nav > ul {
@@ -448,11 +513,11 @@
     background-position: 0 0;
     margin-top: 1.5em;
     overflow: hidden;
-    padding-top: 1.5em
+    padding-top: 1.5em;
   }
 
   .screen > footer > nav > ul strong a {
-    font-weight: 400
+    font-weight: 400;
   }
 
   .footerOne {
@@ -462,26 +527,26 @@
   .footerTwo li {
     font-size: 75%;
     float: left;
-    letter-spacing: .1em;
+    letter-spacing: 0.1em;
     line-height: 2em;
-    margin: 0 .75em 0 0;
-    text-transform: uppercase
+    margin: 0 0.75em 0 0;
+    text-transform: uppercase;
   }
 
   .footerTwo li:last-child {
     float: right;
     letter-spacing: 0;
-    margin: 0 0 0 .75em;
-    text-transform: none
+    margin: 0 0 0 0.75em;
+    text-transform: none;
   }
 
   .screen > footer .footerTwo li a {
     color: #000 !important;
-    text-decoration: none
+    text-decoration: none;
   }
 
   .screen > footer .footerTwo li a:hover {
-    text-decoration: underline
+    text-decoration: underline;
   }
 
   .content {
@@ -495,38 +560,37 @@
     display: block;
     margin: 0 auto;
     max-width: 100%;
-
   }
 
   .contains-articles {
-    margin-bottom: 3em
+    margin-bottom: 3em;
   }
 
   .contains-articles dd {
     background-position: 0 100%;
     margin-bottom: 2.5em;
-    padding-bottom: 2.5em
+    padding-bottom: 2.5em;
   }
 
   .contains-articles dd:last-child {
     background: transparent !important;
     margin-bottom: 0;
-    padding-bottom: 0
+    padding-bottom: 0;
   }
 
   .contains-articles dd :last-child {
-    margin-bottom: 0
+    margin-bottom: 0;
   }
 
   .contains-articles dt {
-    margin-bottom: .75em;
-    position: relative
+    margin-bottom: 0.75em;
+    position: relative;
   }
 
   .contains-articles dt .title {
     color: #000 !important;
     font-size: 131.25%;
-    line-height: 1.14285714em
+    line-height: 1.14285714em;
   }
 
   .contains-articles dt .permalink {
@@ -545,25 +609,25 @@
   .contains-articles dt .date {
     color: #888;
     display: block;
-    font: normal italic 400 87.5%/1.71428571em Andada,Georgia,Serif;
+    font: normal italic 400 87.5%/1.71428571em Andada, Georgia, Serif;
     left: -21.5714286em;
-    margin-top: .85714286em;
+    margin-top: 0.85714286em;
     position: absolute;
     text-align: right;
-    width: 20.2857143em
+    width: 20.2857143em;
   }
 
   .contains-articles dt a {
-    text-decoration: none
+    text-decoration: none;
   }
 
   .contains-articles dt a:hover {
-    text-decoration: underline
+    text-decoration: underline;
   }
 
   .content header {
     margin-bottom: 2em;
-    position: relative
+    position: relative;
   }
 
   .content header nav {
@@ -571,7 +635,7 @@
     left: -20em;
     margin-top: -1.5em;
     position: absolute;
-    width: 18.875em
+    width: 18.875em;
   }
 
   header nav select {
@@ -579,33 +643,33 @@
   }
 
   .content header nav ul {
-    text-align: right
+    text-align: right;
   }
 
   .content header nav li {
-    font: normal normal 400 87.5%/1.71428571em Andada,Georgia,Serif;
-    display: inline
+    font: normal normal 400 87.5%/1.71428571em Andada, Georgia, Serif;
+    display: inline;
   }
 
   .content header nav li:after {
-    content: " | "
+    content: " | ";
   }
 
   .content header nav li:last-child:after {
-    content: ""
+    content: "";
   }
 
   .content header h1 {
     font-size: 200%;
     line-height: 1.3334em;
-    margin-bottom: 0
+    margin-bottom: 0;
   }
 
   .content header h2 {
     font-size: 87.5%;
     font-style: italic;
     line-height: 1.71428571em;
-    margin: 0
+    margin: 0;
   }
 
   .content header h2 span,
@@ -631,14 +695,14 @@
     font-size: 150%;
     line-height: 1.5em;
     margin-bottom: 1em;
-    margin-top: 2em
+    margin-top: 2em;
   }
 
   .content h3 {
     font-size: 125%;
     line-height: 1.2em;
     margin-bottom: 1.2em;
-    margin-top: 1.2em
+    margin-top: 1.2em;
   }
 
   .formatted {
@@ -646,7 +710,7 @@
   }
 
   .formatted {
-    position: relative
+    position: relative;
   }
 
   .formatted blockquote {
@@ -656,32 +720,35 @@
     background-size: 1.3125em 1em;
     color: #888;
     margin: 3em 0 1.5em;
-    padding: 0 0 0 2.0625em
+    padding: 0 0 0 2.0625em;
   }
 
   .formatted blockquote:first-child {
     margin-top: 1em;
   }
 
-  .formatted img,.formatted object,.formatted video {
+  .formatted img,
+  .formatted object,
+  .formatted video {
     margin-bottom: 1.5em;
-    max-width: 100%
+    max-width: 100%;
   }
 
   .formatted img.G5 {
-    max-width: 48.75em
+    max-width: 48.75em;
   }
 
   .formatted img.G6 {
-    max-width: 58.75em
+    max-width: 58.75em;
   }
 
-  .formatted object,.formatted video {
-    width: 100% !important
+  .formatted object,
+  .formatted video {
+    width: 100% !important;
   }
 
   .formatted ol {
-    list-style: outside decimal
+    list-style: outside decimal;
   }
 
   .formatted ul {
@@ -712,12 +779,12 @@
   }
 
   .formatted cite {
-    font: normal italic 400 87.5%/1.71428571em Andada,Georgia,Serif;
-    text-align: right
+    font: normal italic 400 87.5%/1.71428571em Andada, Georgia, Serif;
+    text-align: right;
   }
 
   .formatted hr {
-    display: none
+    display: none;
   }
 
   .formatted .aside-block {
@@ -725,6 +792,10 @@
     font: normal normal normal 75%/1.5em arial, sans-serif;
     margin-left: -26.6667em;
     width: 25.1667em;
+  }
+
+  .formatted h4 {
+    font-weight: bold;
   }
 
   .index .content .G6 {
@@ -754,7 +825,7 @@
     -moz-column-count: 3;
     -moz-column-gap: 18px;
     -webkit-column-count: 3;
-    -webkit-column-gap: 1.125em
+    -webkit-column-gap: 1.125em;
   }
 
   .Profile .formatted time {
@@ -766,11 +837,10 @@
 }
 
 .footerOne .G1 {
-  float: right
+  float: right;
 }
 
-@media screen and (max-width:775px) {
-
+@media screen and (max-width: 775px) {
   body {
     font-size: 93%;
   }
@@ -794,7 +864,12 @@
     padding: 1em;
   }
 
-  .content .G1, .content .G2, .content .G3, .content .G4, .content .G5, .content .G6 {
+  .content .G1,
+  .content .G2,
+  .content .G3,
+  .content .G4,
+  .content .G5,
+  .content .G6 {
     margin-left: 0;
     width: 100%;
   }
@@ -820,8 +895,7 @@
   }
 }
 
-@media screen and (max-width:615px) {
-
+@media screen and (max-width: 615px) {
   header {
     position: relative;
   }
@@ -833,24 +907,28 @@
   header nav select {
     background: #fff;
     border: 1px solid #000;
-    border-radius: .3em;
+    border-radius: 0.3em;
     display: block;
     position: absolute;
     right: 0;
     top: 50px;
-    background: #EEE;
-    background: -moz-linear-gradient(top,#F7F7F7,#E6E6E6);
-    background: -webkit-gradient(linear,left top,left bottom,from(#F7F7F7),to(#E6E6E6));
-    border: solid .1em #666;
-    border-radius: .3em;
-    -moz-border-radius: .3em;
-    -webkit-border-radius: .3em;
+    background: #eee;
+    background: -moz-linear-gradient(top, #f7f7f7, #e6e6e6);
+    background: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#f7f7f7),
+      to(#e6e6e6)
+    );
+    border: solid 0.1em #666;
+    border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
     font-size: 75%;
     font-weight: 700;
     height: 2em;
-    padding: 0 .5em;
-    text-shadow: #F7F7F7 0 .1em 0
+    padding: 0 0.5em;
+    text-shadow: #f7f7f7 0 0.1em 0;
   }
-
-
 }
