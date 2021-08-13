@@ -4,9 +4,8 @@ bucket = markupboy.com
 
 build:
 	@echo "===== building ====="
-	@npm install
-	@npm cache clean
 	@bundle install
+	@npm install
 	@bundle exec middleman build
 
 deploy: build

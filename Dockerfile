@@ -1,19 +1,19 @@
-FROM ruby:2.5.1-alpine
+FROM ruby:2.7.4
 
-# Install prereqs
-RUN apk --update add alpine-sdk nodejs
+# install node & npm
+RUN curl -sL https://deb.nodesource.com/setup_14.x | bash -\
+	&& apt-get update -qq && apt-get install -qq --no-install-recommends \
+	nodejs \
+	&& apt-get upgrade -qq \
+	&& apt-get clean \
+	&& rm -rf /var/lib/apt/lists/*\
 
-# Install aws-cli
-RUN \
-	mkdir -p /aws && \
-	apk -Uuv add groff less python python-dev py-pip && \
-	pip install awscli && \
-	apk --purge -v del py-pip && \
-	rm /var/cache/apk/*
+	# Install aws-cli
+	RUN apt-get install awscli
 
 # Fix timezone
-RUN apk add --update tzdata
-ENV TZ=America/Denver
+# RUN apk add --update tzdata
+# ENV TZ=America/Denver
 
 # Install middleman
 RUN gem install middleman
