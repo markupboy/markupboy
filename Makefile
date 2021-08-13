@@ -4,8 +4,8 @@ bucket = markupboy.com
 
 build:
 	@echo "===== building ====="
-	@yarn install --frozen-lockfile
-	@yarn cache clean
+	@npm install
+	@npm cache clean
 	@bundle install
 	@bundle exec middleman build
 
