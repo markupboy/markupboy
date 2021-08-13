@@ -685,7 +685,12 @@
   }
 
   .formatted ul {
-    list-style: outside disc
+    list-style: outside disc;
+    padding-left: 2em;
+  }
+
+  .formatted li {
+    margin-bottom: 1em;
   }
 
   .formatted p code {
