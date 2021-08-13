@@ -6,14 +6,11 @@ RUN curl -sL https://deb.nodesource.com/setup_14.x | bash -\
 	nodejs \
 	&& apt-get upgrade -qq \
 	&& apt-get clean \
-	&& rm -rf /var/lib/apt/lists/*\
+	&& rm -rf /var/lib/apt/lists/*
 
-	# Install aws-cli
-	RUN apt-get install awscli
-
-# Fix timezone
-# RUN apk add --update tzdata
-# ENV TZ=America/Denver
+# Install aws-cli
+RUN apt-get update
+RUN apt-get install awscli -y
 
 # Install middleman
 RUN gem install middleman
