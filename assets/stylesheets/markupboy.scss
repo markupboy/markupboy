@@ -276,7 +276,7 @@
 
   .screen {
     margin: 0 auto;
-    padding: 0 0 3em;
+    padding: 3em 0 3em;
     width: 48.875em;
   }
 
@@ -464,10 +464,6 @@
     overflow: hidden;
   }
 
-  .screen > header h1 {
-    padding-top: 2.75em;
-  }
-
   .screen > header h1 a {
     display: block;
     background-image: url(/images/signature.svg);
@@ -503,7 +499,9 @@
   }
 
   .screen > header > nav > ul {
-    padding-top: 66px;
+    float: right;
+    padding-top: 35px;
+    width: 5em;
   }
 
   .screen > footer {
@@ -855,9 +853,8 @@
   }
 
   .screen > header h1 a {
-    background-size: 178px 39px;
-    height: 39px;
-    width: 178px;
+    height: 110px;
+    max-width: 100%;
   }
 
   .screen {
@@ -899,10 +896,6 @@
 @media screen and (max-width: 615px) {
   header {
     position: relative;
-  }
-
-  header nav ul {
-    display: none;
   }
 
   header nav select {
