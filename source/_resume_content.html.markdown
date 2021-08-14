@@ -10,15 +10,15 @@ Today, I'm the Director of Engineering for Growth and Data at [CircleCI](http://
 
 ### Senior Engineering Manager, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), January 2019 - January 2021</time>
 
-In my time at CircleCI, I've served as both a senior engineering manager and director of engineering, focused almost entirely on ushering our startup through a period of hyper-growth toward IPO. Responsibilities and accomplishments included:
+In my time at CircleCI, I've served as both a senior engineering manager and director of engineering, focusing primarily on ushering our startup through a period of hyper-growth toward IPO. Responsibilities and accomplishments included:
 
-- Established and lead multiple domains throughout CircleCI product engineering, overseeing as many as eight teams and nearly 70 personnel concurrently
-- Helped grow the engineering organization from 50 to over 200 engineers and engineering managers.
-- Designed and participated in more than 400 interviews for engineers, managers, and engineering directors as well as for cross-functional roles such as product management, engineering operations, and visual design
-- Directed the implementation of a cutting edge data product and data analytics platform
+- Established and lead multiple domains throughout product engineering at CircleCI, overseeing as many as eight teams and nearly 70 personnel concurrently
+- Helped scale the engineering organization from 50 to over 200 engineers and engineering managers.
+- Designed and participated in more than 400 interviews for engineers, managers, and directors as well as for cross-functional roles such as product management, engineering operations, and visual design
+- Built a highly effective data engineering discipline of over 20 engineers and directed the implementation of a cutting edge internal- and customer-facing analytics platform
 - Launched Insights - a new product for CircleCI focused on empowering users through automated analysis of their workflow data
 - Lead the build-out of growth engineering - from one team of engineers to four fully-staffed teams, each owning and optimizing for a dedicated slice of the user funnel
-- Helped establish organization-wide processes for team and department OKRs to guide and measure success at the team and domain levels
+- Helped establish organization-wide processes for OKRs to guide and measure success at the team and domain levels
 - Operated as acting VP of product engineering to ensure business continuity
 
 Today, I oversee five engineering teams in the Data and Growth space, totaling nearly 40 engineers and five engineering managers.
