@@ -1,4 +1,4 @@
-bucket = markupboy.com
+bucket = blake-walters.com
 
 .PHONY: deploy build
 
