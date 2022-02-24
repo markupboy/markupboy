@@ -101,7 +101,7 @@
   /* @end */
 }
 
-@media screen {
+@media all {
   /* @group basic screen styles */
 
   body {
@@ -839,7 +839,7 @@
   float: right;
 }
 
-@media screen and (max-width: 775px) {
+@media all and (max-width: 775px) {
   body {
     font-size: 93%;
   }
@@ -893,7 +893,7 @@
   }
 }
 
-@media screen and (max-width: 615px) {
+@media all and (max-width: 615px) {
   header {
     position: relative;
   }

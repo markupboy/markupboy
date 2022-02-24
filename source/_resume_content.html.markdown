@@ -2,7 +2,7 @@ My career as I know it started way back in 1995. I designed and built my first w
 
 Currently, my focus is on product engineering leadership. I'm proud to lead a division of talented engineering teams that are building and shipping products and platforms for customers around the world. I aim to build highly effective engineering organizations, empower teams and individuals to operate independently, and help them ship impactful features to users quickly and reliably.
 
-Today, I'm the Director of Engineering for Growth and Data at [CircleCI](http://www.circleci.com), working remotely out of my home in Longmont, CO. Outside of work, I'm a husband and a dad, an avid amateur photographer, a serious car nut, and spend what little free time I have left playing as many video games as possible.
+Today, I'm the Director of Engineering for Product Experiences at [CircleCI](http://www.circleci.com), working remotely out of my home in Longmont, CO. Outside of work, I'm a husband and a dad, an avid amateur photographer, a serious car nut, and spend what little free time I have left playing as many video games as possible.
 
 ## Experience
 
