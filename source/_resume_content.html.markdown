@@ -51,7 +51,7 @@ Received a Bachelor of Science degree in Computer Science with a focus in web ap
 
 ## Skills
 
-Growth engineering, data engineering, agile development practices, microservices, cloud infrastructure automation, continuous deployment, production readiness and operations, team building, mentorship, performance reviews, setting and tracking business and product goals, cross-team and stakeholder collaboration.
+Product management and product engineering, growth engineering, data engineering, agile development practices, microservices, cloud infrastructure automation, continuous deployment, production readiness and operations, team building, mentorship, performance reviews, setting and tracking business and product goals, cross-team and stakeholder collaboration.
 
 Specific technical skills include HTML, CSS, Javascript, Node, Ruby, GoLang, and MySQL as well as a spectrum of development frameworks both server- and client-side.
 
