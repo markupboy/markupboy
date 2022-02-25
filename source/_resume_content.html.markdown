@@ -15,7 +15,7 @@ In my time at CircleCI, I've served as both a senior engineering manager and dir
 - Established and lead multiple domains throughout product engineering at CircleCI, overseeing as many as eight teams and nearly 70 personnel concurrently.
 - Helped scale the engineering organization from 50 to over 250 engineers, engineering managers, and engineering support personnel.
 - Designed and participated in more than 500 interviews for engineers, managers, and directors as well as for cross-functional roles such as product management, engineering operations, and visual design.
-- Built a highly effective data engineering discipline of over 20 engineers and directed the implementation of a cutting edge internal- and customer-facing analytics platform.
+- Built a highly effective data engineering discipline of over 20 engineers and directed the implementation of a cutting-edge internal- and customer-facing analytics platform.
 - Launched Insights - a new product for CircleCI focused on empowering users through automated analysis of their workflow data.
 - Lead the build-out of growth engineering - from one team of engineers to four fully-staffed teams, each owning and optimizing for a dedicated slice of the user funnel.
 - Helped establish organization-wide processes for OKRs to guide and measure success at the team and domain levels.
@@ -33,7 +33,7 @@ Lead front-end engineer across HashiCorp's suite of products - Terraform Enterpr
 
 ### Software Engineer, [Big Cartel](http://www.bigcartel.com) <time>Salt Lake City, UT (Remote), October 2012 - March 2015</time>
 
-Lead front-end engineer for the Big Cartel e-commerce platform. Served as the team's front-end focused engineer, responsible for UI implementation across all of Big Cartel's application. My work emphasized thoughtful, responsive builds and best practices to enable usage across a wide variety of devices and platforms.
+Lead front-end engineer for the Big Cartel e-commerce platform. Responsible for UI implementation across all of Big Cartel's shopping and administration products. My work emphasized thoughtful, responsive builds and best practices to serve customers across a wide variety of devices and platforms.
 
 Major contributions included a web-based checkout and payment processing application, a mobile web-based store administration utility, and a variety of internal and external tools, applications, and marketing websites.
 

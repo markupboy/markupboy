@@ -926,3 +926,64 @@
     text-shadow: #f7f7f7 0 0.1em 0;
   }
 }
+
+@media print {
+  header ul,
+  footer {
+    display: none !important;
+  }
+
+  body {
+    border-top: none !important;
+    font-size: 75% !important;
+  }
+
+  header h1 a {
+    background-image: none !important;
+    text-indent: 0 !important;
+    font-size: 200% !important;
+    font-weight: bold !important;
+    width: auto !important;
+    height: auto !important;
+  }
+
+  header h1 {
+    margin-bottom: 0 !important;
+  }
+
+  .screen > header {
+    background-image: none !important;
+  }
+
+  .content {
+    margin-top: 0 !important;
+  }
+
+  .content h2 {
+    margin-bottom: 1em !important;
+    margin-top: 1em !important;
+  }
+
+  address,
+  blockquote,
+  caption,
+  cite,
+  code,
+  dl,
+  figcaption,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  label,
+  legend,
+  ol,
+  p,
+  pre,
+  ul,
+  table {
+    margin: 0 0 1.25em !important;
+  }
+}
