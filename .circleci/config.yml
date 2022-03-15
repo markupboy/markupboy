@@ -1,13 +1,15 @@
 version: 2
 jobs:
   build:
-    machine: true
+    machine:
+      - image: ubuntu-2004:current
     steps:
       - checkout
       - run: echo "$DOCKERHUB_PASSWORD" | docker login -u $DOCKERHUB_USER --password-stdin
       - run: docker run -v ${PWD}:/app -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY markupboy/markupboy:latest
   deploy:
-    machine: true
+    machine:
+      - image: ubuntu-2004:current
     steps:
       - checkout
       - run: echo "$DOCKERHUB_PASSWORD" | docker login -u $DOCKERHUB_USER --password-stdin
