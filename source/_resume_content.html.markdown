@@ -6,22 +6,25 @@ Today, I'm the Director of Engineering for Product Experiences at [CircleCI](htt
 
 ## Experience
 
-### Director, Engineering, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), January 2021 - Present</time>
+### Senior Director, Engineering, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote),  uly 2022 - Present</time>
+
+### Director, Engineering, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), January 2021 - July 2022</time>
 
 ### Senior Engineering Manager, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), January 2019 - January 2021</time>
 
-In my time at CircleCI, I've served as both a senior engineering manager and director of engineering, focusing primarily on ushering our startup through a period of hyper-growth toward IPO. Responsibilities and accomplishments included:
+In my time at CircleCI, I've served as a senior engineering manager, director, and and senior director of engineering, focusing primarily on ushering our startup through a period of hyper-growth toward IPO. Responsibilities and accomplishments included:
 
-- Established and lead multiple domains throughout product engineering at CircleCI, overseeing as many as eight teams and nearly 70 personnel concurrently.
-- Helped scale the engineering organization from 50 to over 250 engineers, engineering managers, and engineering support personnel.
+- Established and lead multiple domains throughout product engineering at CircleCI, overseeing as many as eight teams and over 70 personnel concurrently.
+- Helped scale the overall engineering organization from 50 to 250 engineers, engineering managers, and engineering support personnel.
 - Designed and participated in more than 500 interviews for engineers, managers, and directors as well as for cross-functional roles such as product management, engineering operations, and visual design.
 - Built a highly effective data engineering discipline of over 20 engineers and directed the implementation of a cutting-edge internal- and customer-facing analytics platform.
 - Launched Insights - a new product for CircleCI focused on empowering users through automated analysis of their workflow data.
 - Lead the build-out of growth engineering - from one team of engineers to four fully-staffed teams, each owning and optimizing for a dedicated slice of the user funnel.
 - Helped establish organization-wide processes for OKRs to guide and measure success at the team and domain levels.
-- Operated as acting VP of product engineering to ensure business continuity.
+- Performed due dilligence, onboarding, G&A integration, and product oversight for the acquisition of [PoniCode](https://www.ponicode.com/) in early 2022
+- Helped establish and am currently overseeing R&D Labs - an incubation division within CircleCI for recent acquisitions, new product lines, and experimental work.  
 
-Today, I oversee eight engineering teams across product engineering, totaling nearly 60 engineers and eight engineering managers.
+Today, I oversee eight engineering teams across product engineering, totaling 65 engineers and eight engineering managers.
 
 ### Software Engineering Manager, [InVisionApp](http://www.invisionapp.com) <time>New York, NY (Remote), March 2017 - January 2019</time>
 
@@ -31,14 +34,9 @@ Engineering manager for a dedicated, high-performing team of full-stack engineer
 
 Lead front-end engineer across HashiCorp's suite of products - Terraform Enterprise, Vault Enterprise, Nomad, and Consul. Primarily responsible for driving design and implementation of Ember.js applications built by the front-end development team and used to support Hashicorp's products for both enterprise and open-source customers.
 
-### Software Engineer, [Big Cartel](http://www.bigcartel.com) <time>Salt Lake City, UT (Remote), October 2012 - March 2015</time>
-
-Lead front-end engineer for the Big Cartel e-commerce platform. Responsible for UI implementation across all of Big Cartel's shopping and administration products. My work emphasized thoughtful, responsive builds and best practices to serve customers across a wide variety of devices and platforms.
-
-Major contributions included a web-based checkout and payment processing application, a mobile web-based store administration utility, and a variety of internal and external tools, applications, and marketing websites.
-
 ### Additional Experience
 
+- Software Engineer, [Big Cartel](http://www.bigcartel.com) <time>Salt Lake City, UT (Remote), October 2012 - March 2015</time>
 - Sr. Front-End Developer, [Viget Labs](http://www.viget.com) <time>April 2010 - October 2012</time>
 - Sr. User Interface Architect, [Crispin Porter + Bogusky](http://www.cpbgroup.com) <time>November 2007 - April 2010</time>
 - Web Developer, Delta Systems Group <time>November 2004 - November 2007</time>
