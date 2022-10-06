@@ -12,7 +12,7 @@ Today, I'm a Senior Director of Engineering and Head of Engineering for the CI/C
 
 ### Senior Engineering Manager, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), January 2019 - January 2021</time>
 
-In my time at CircleCI, I've served as a senior engineering manager, director, and and senior director of engineering, focusing primarily on ushering our startup through a period of hyper-growth toward IPO. Responsibilities and accomplishments included:
+In my time at CircleCI, I've served as a senior engineering manager, director, and senior director of engineering, focusing primarily on ushering our startup through a period of hyper-growth toward IPO. Responsibilities and accomplishments included:
 
 - Established and lead multiple domains throughout product engineering at CircleCI, overseeing as many as eight teams and over 70 personnel concurrently.
   -  Domains included growth engineering, business intelligence and analytics engineering, and data and AI/ML product engineering. 
