@@ -2,7 +2,7 @@ My career as I know it started way back in 1995. I designed and built my first w
 
 Currently, my focus is on product engineering leadership. I'm proud to lead a division of talented engineering teams that are building and shipping products and platforms for customers around the world. I aim to build highly effective engineering organizations, empower teams and individuals to operate independently, and help them ship impactful features to users quickly and reliably.
 
-Today, I'm the Director of Engineering for Product Experiences at [CircleCI](http://www.circleci.com), working remotely out of my home in Longmont, CO. Outside of work, I'm a husband and a dad, an avid amateur photographer, a serious car nut, and spend what little free time I have left playing as many video games as possible.
+Today, I'm a Senior Director of Engineering and Head of Engineer for the CI/CD Engine at [CircleCI](http://www.circleci.com), working remotely out of my home in Longmont, CO. Outside of work, I'm a husband and a dad, an avid amateur photographer, a serious car nut, and spend what little free time I have left playing as many video games as possible.
 
 ## Experience
 
@@ -15,11 +15,9 @@ Today, I'm the Director of Engineering for Product Experiences at [CircleCI](htt
 In my time at CircleCI, I've served as a senior engineering manager, director, and and senior director of engineering, focusing primarily on ushering our startup through a period of hyper-growth toward IPO. Responsibilities and accomplishments included:
 
 - Established and lead multiple domains throughout product engineering at CircleCI, overseeing as many as eight teams and over 70 personnel concurrently.
+  -  Domains included growth engineering, business intelligence and analytics engineering, and data and AI/ML product engineering. 
 - Helped scale the overall engineering organization from 50 to 250 engineers, engineering managers, and engineering support personnel.
 - Designed and participated in more than 500 interviews for engineers, managers, and directors as well as for cross-functional roles such as product management, engineering operations, and visual design.
-- Built a highly effective data engineering discipline of over 20 engineers and directed the implementation of a cutting-edge internal- and customer-facing analytics platform.
-- Launched Insights - a new product for CircleCI focused on empowering users through automated analysis of their workflow data.
-- Lead the build-out of growth engineering - from one team of engineers to four fully-staffed teams, each owning and optimizing for a dedicated slice of the user funnel.
 - Helped establish organization-wide processes for OKRs to guide and measure success at the team and domain levels.
 - Performed due dilligence, onboarding, G&A integration, and product oversight for the acquisition of [PoniCode](https://www.ponicode.com/) in early 2022
 - Helped establish and am currently overseeing R&D Labs - an incubation division within CircleCI for recent acquisitions, new product lines, and experimental work.  
