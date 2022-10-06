@@ -6,7 +6,7 @@ Today, I'm a Senior Director of Engineering and Head of Engineering for the CI/C
 
 ## Experience
 
-### Senior Director, Engineering, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote),  uly 2022 - Present</time>
+### Senior Director, Engineering, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote),  July 2022 - Present</time>
 
 ### Director, Engineering, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), January 2021 - July 2022</time>
 
