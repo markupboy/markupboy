@@ -19,4 +19,13 @@ jobs:
         run: |
           docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
       - name: build and sync
-        run: docker run -v $PWD:/app -e ${{secrets.AWS_ACCESS_KEY_ID}} -e ${{secrets.AWS_SECRET_ACCESS_KEY}} markupboy/markupboy:latest make deploy
+        run: docker run -v $PWD:/app -e ${{secrets.AWS_ACCESS_KEY_ID}} -e ${{secrets.AWS_SECRET_ACCESS_KEY}} markupboy/markupboy:latest make build
+      - uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: 'markupboy.com'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'us-east-1'   # optional: defaults to us-east-1
+          SOURCE_DIR: 'build'      # optional: defaults to entire repository
