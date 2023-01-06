@@ -3,7 +3,7 @@ title: Manager Readme
 category: Readme
 ---
 
-Hi, I'm Blake, and I'm a Senior Director of Engineering. You might work with me, or for me, or I might even work for you. We might have just met, or worked together for ages. Whatever the case may be, consider this a convenient guide to me and how I like to manage.
+Hi, I'm Blake, and I'm a Senior Director of Engineering. You might work with me, or for me, or I might even work for you. We might have just met, or worked together for ages. Whatever the case may be, consider this a convenient guide to me and how I like to manage people and teams.
 
 ## My goal
 
