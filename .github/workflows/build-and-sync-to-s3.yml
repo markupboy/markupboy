@@ -19,7 +19,4 @@ jobs:
         run: |
           docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
       - name: build and sync
-        env:
-          AWS_ACCESS_KEY_ID: ${{secrets.AWS_ACCESS_KEY_ID}}
-          AWS_SECRET_ACCESS_KEY: ${{secrets.AWS_SECRET_ACCESS_KEY}}
-        run: docker run -v $PWD:/app -e $AWS_ACCESS_KEY_ID -e $AWS_SECRET_ACCESS_KEY markupboy/markupboy:latest make deploy
+        run: docker run -v $PWD:/app -e ${{secrets.AWS_ACCESS_KEY_ID}} -e ${{secrets.AWS_SECRET_ACCESS_KEY}} markupboy/markupboy:latest make deploy
