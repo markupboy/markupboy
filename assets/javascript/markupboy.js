@@ -1,1 +1,1 @@
-import 'markupboy.scss';
+import '../stylesheets/markupboy.scss';
