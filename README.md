@@ -28,7 +28,3 @@ To build the project's Docker image -
 By default, running the container builds the site -
 
 `docker run -v ${PWD}:/app markupboy`
-
-And to deploy to the default bucket set in the project -
-
-`docker run -v ${PWD}:/app -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY markupboy`

@@ -1,7 +1,7 @@
-FROM ruby:2.7.4
+FROM ruby:3.2.1
 
 # install node & npm
-RUN curl -sL https://deb.nodesource.com/setup_14.x | bash -\
+RUN curl -sL https://deb.nodesource.com/setup_lts.x | bash -\
 	&& apt-get update -qq && apt-get install -qq --no-install-recommends \
 	nodejs \
 	&& apt-get upgrade -qq \
@@ -10,7 +10,6 @@ RUN curl -sL https://deb.nodesource.com/setup_14.x | bash -\
 
 # Install aws-cli
 RUN apt-get update
-RUN apt-get install awscli -y
 
 # Install middleman
 RUN gem install middleman
