@@ -11,6 +11,7 @@
     "build": "NODE_ENV=production ./node_modules/webpack/bin/webpack.js --bail --mode production"
   },
   "devDependencies": {
+    "@babel/core": "^7.20.12",
     "babel-loader": "^9.1.2",
     "babel-preset-env": "^1.7.0",
     "clean-webpack-plugin": "^4.0.0",
