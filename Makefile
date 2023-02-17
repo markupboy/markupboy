@@ -1,5 +1,7 @@
 bucket = blake-walters.com
 
+.PHONY: build
+
 build:
 	@echo "===== building ====="
 	@bundle install
