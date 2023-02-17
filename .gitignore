@@ -1,7 +1,7 @@
 # Ignore bundler config
 /.bundle
 
-# Ignore the build directory
+# Ignore the build and directory
 /build
 
 /node_modules
