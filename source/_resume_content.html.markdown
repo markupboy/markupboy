@@ -1,8 +1,8 @@
-My career as I know it started way back in 1995. I designed and built my first website that year. It was awful. A local music group paid \$50 for a site full of frames, tables, and font tags that ignited a passion and would lead to an entire career. Along the way, I've built websites, web applications, and engineering organizations for small businesses, global brands, and high growth startups.
+My career as I know it started way back in 1995. I designed and built my first website that year. It was awful. A local music group paid \$50 for a site full of frames, tables, and font tags that ignited a passion and would lead to an entire career. Along the way, I've built websites, web applications, and engineering organizations for small businesses, global brands, and high-growth startups.
 
-Currently, my focus is on product engineering leadership. I'm proud to lead a division of talented engineering teams that are building and shipping products and platforms for customers around the world. I aim to build highly effective engineering organizations, empower teams and individuals to operate independently, and help them ship impactful features to users quickly and reliably.
+Currently, my focus is on product engineering leadership. I'm proud to lead a division of talented engineering teams that are building and shipping products and platforms for customers around the world. I aim to build highly effective engineering organizations, empower teams and individuals to operate independently and help them ship impactful features to users quickly and reliably.
 
-Today, I'm a Senior Director of Engineering for the CI/CD Engine Division at [CircleCI](http://www.circleci.com), working remotely out of my home in Longmont, CO. Outside of work, I'm a husband and a dad, a devoted Formula 1 fan, and lifelong gamer.
+Today, I'm a Senior Director of Engineering for the CI/CD Engine Division at [CircleCI](http://www.circleci.com), working remotely out of my home in Longmont, CO. Outside of work, I'm a husband and a dad, a devoted Formula 1 fan, and a lifelong gamer.
 
 ## Experience
 
@@ -14,11 +14,11 @@ Today, I'm a Senior Director of Engineering for the CI/CD Engine Division at [Ci
 
 In my time at CircleCI, I've served as a senior engineering manager, director, and senior director of engineering, focusing primarily on guiding our startup through a period of hyper-growth toward IPO. Responsibilities and accomplishments included:
 
-- Oversaw dozens of successful product and engineering intiatives with highlights including a fully redesigned and replatformed UI, our integration with GitLab, development of CircleCI's Insights data product, and the modernization of the organization's business intelligence data stack.
+- Oversaw dozens of successful product and engineering initiatives with highlights including a fully redesigned and re-platformed UI, our integration with GitLab, the development of CircleCI's Insights data product, and the modernization of the organization's business intelligence data stack.
 - Established and lead multiple domains throughout product engineering at CircleCI, including growth engineering, business intelligence and analytics engineering, data and AI/ML product engineering, developer experience, and core product engineering.
 - Helped scale the overall engineering organization from 50 to 250 engineers, engineering managers, and engineering support personnel.
 - Established organization-wide processes for discovery, planning, and OKRs to guide and measure success at the division and team levels.
-- Performed due dilligence, onboarding, G&A integration, and product oversight for the acquisition of [PoniCode](https://www.ponicode.com/) in early 2022, which lead to a successful launch of [CircleCI's VSCode Extension](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) with more that 15,000 downloads in it's first quarter.
+- Performed due diligence, onboarding, G&A integration, and product oversight for the acquisition of [PoniCode](https://www.ponicode.com/) in early 2022, which lead to a successful launch of [CircleCI's VSCode Extension](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) with more than 15,000 downloads in its first quarter.
 
 Today, I oversee six engineering teams within CircleCI's R&D department, totaling around 70 personnel including engineering managers, individual contributors, and technical leaders.
 
@@ -28,7 +28,7 @@ Engineering manager for a high-performing team of full-stack engineers building 
 
 ### Software Engineer, [HashiCorp](http://www.hashicorp.com) <time>San Francisco, CA (Remote), March 2015 - March 2017</time>
 
-HashiCorp employee #11. Lead front-end engineer across HashiCorp's suite of products - Terraform Enterprise, Vault Enterprise, Nomad, and Consul. Primarily responsible for driving design and implementation of applications built by the front-end development team and used to support Hashicorp's products for both enterprise and open-source customers.
+HashiCorp employee #11. Lead front-end engineer across HashiCorp's suite of products - Terraform Enterprise, Vault Enterprise, Nomad, and Consul. Primarily responsible for driving the design and implementation of applications built by the front-end development team and used to support Hashicorp's products for both enterprise and open-source customers.
 
 ### Additional Experience
 
