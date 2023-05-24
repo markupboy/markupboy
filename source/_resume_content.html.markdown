@@ -14,13 +14,13 @@ Today, I'm a Senior Director of Engineering for the CI/CD Engine Division at [Ci
 
 In my time at CircleCI, I've served as a senior engineering manager, director, and senior director of engineering, focusing primarily on guiding our startup through a period of hyper-growth toward IPO. Responsibilities and accomplishments included:
 
-- Oversaw dozens of successful product and engineering initiatives with highlights including a fully redesigned and re-platformed UI, our integration with GitLab, the development of CircleCI's Insights data product, and the modernization of the organization's business intelligence data stack.
+- Managed and directed dozens of successful product and engineering initiatives with highlights including a fully redesigned and re-platformed UI, our integration with GitLab, the development of CircleCI's Insights data product, and the modernization of the organization's business intelligence data stack.
 - Established and lead multiple domains throughout product engineering at CircleCI, including growth engineering, business intelligence and analytics engineering, data and AI/ML product engineering, developer experience, and core product engineering.
 - Helped scale the overall engineering organization from 50 to 250 engineers, engineering managers, and engineering support personnel.
 - Established organization-wide processes for discovery, planning, and OKRs to guide and measure success at the division and team levels.
 - Performed due diligence, onboarding, G&A integration, and product oversight for the acquisition of [PoniCode](https://www.ponicode.com/) in early 2022, which lead to a successful launch of [CircleCI's VSCode Extension](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) with more than 15,000 downloads in its first quarter.
 
-Today, I oversee six engineering teams within CircleCI's R&D department, totaling around 70 personnel including engineering managers, individual contributors, and technical leaders.
+Today, I oversee six engineering teams within CircleCI's R&D department, totaling around 60 personnel including engineering managers, individual contributors, and technical leaders.
 
 ### Software Engineering Manager, [InVisionApp](http://www.invisionapp.com) <time>New York, NY (Remote), March 2017 - January 2019</time>
 
