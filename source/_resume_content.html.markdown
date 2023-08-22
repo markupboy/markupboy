@@ -1,4 +1,4 @@
-Above all else, I'm a **senior product engineering leader**. My leadership approach is one that's customer-first from start to finish and aimed at guiding teams, leaders, and engineers along a path to be able to solve our customers' toughest challenges with autonomy and velocity. 
+I'm a **senior product engineering leader**. My leadership approach is one that's customer-first from start to finish and aimed at guiding teams, leaders, and engineers along a path to be able to solve our customers' toughest challenges with autonomy and velocity. 
 
 Today, I'm a Senior Director of Engineering for the CI/CD Engine Division at [CircleCI](http://www.circleci.com), working remotely out of my home in Longmont, CO. I'm proud to lead a division of talented engineering teams that are responsible for a critical piece of thousands of businesses development workflows around the world. Outside of work, I'm a husband and a dad, a devoted Formula 1 fan, and a lifelong gamer.
 
