@@ -1,6 +1,4 @@
-My career as I know it started way back in 1995. I designed and built my first website that year. It was awful. A local music group paid \$50 for a site full of frames, tables, and font tags that ignited a passion and would lead to an entire career. Along the way, I've built websites, web applications, and engineering organizations for small businesses, global brands, and high-growth startups.
-
-Currently, my focus is on product engineering leadership. I'm proud to lead a division of talented engineering teams that are building and shipping products and platforms for customers around the world. I aim to build highly effective engineering organizations, empower teams and individuals to operate independently and help them ship impactful features to users quickly and reliably.
+My focus is on product engineering leadership. I'm proud to lead a division of talented engineering teams that are building and shipping products and platforms for customers around the world. My leadership approach is one that's customer-first from start to finish and aimed at guiding teams, leaders, and engineers along a path to be able to solve our customers' toughest challenges with autonomy and velocity. 
 
 Today, I'm a Senior Director of Engineering for the CI/CD Engine Division at [CircleCI](http://www.circleci.com), working remotely out of my home in Longmont, CO. Outside of work, I'm a husband and a dad, a devoted Formula 1 fan, and a lifelong gamer.
 
@@ -14,17 +12,17 @@ Today, I'm a Senior Director of Engineering for the CI/CD Engine Division at [Ci
 
 In my time at CircleCI, I've served as a senior engineering manager, director, and senior director of engineering, focusing primarily on guiding our startup through a period of hyper-growth toward IPO. Responsibilities and accomplishments included:
 
-- Managed and directed dozens of successful product and engineering initiatives with highlights including a fully redesigned and re-platformed UI, our integration with GitLab, the development of CircleCI's Insights data product, and the modernization of the organization's business intelligence data stack.
-- Established and lead multiple domains throughout product engineering at CircleCI, including growth engineering, business intelligence and analytics engineering, data and AI/ML product engineering, developer experience, and core product engineering.
+- Managed and directed dozens of successful product and engineering initiatives with highlights including a fully redesigned and re-platformed UI, our integration with GitLab, the development of multiple new products including CircleCI's Insights data product and our bespoke VSCode integration, lead a turnaround of our core teams focus on reliability and security, and the modernization of the organization's business intelligence data stack.
+- Established and lead multiple domains throughout product engineering at CircleCI, including core application engineering, growth engineering, business intelligence and analytics engineering, data and AI/ML product engineering, and developer experience.
 - Helped scale the overall engineering organization from 50 to 250 engineers, engineering managers, and engineering support personnel.
 - Established organization-wide processes for discovery, planning, and OKRs to guide and measure success at the division and team levels.
 - Performed due diligence, onboarding, G&A integration, and product oversight for the acquisition of [PoniCode](https://www.ponicode.com/) in early 2022, which lead to a successful launch of [CircleCI's VSCode Extension](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) with more than 15,000 downloads in its first quarter.
 
-Today, I oversee six engineering teams within CircleCI's R&D department, totaling around 60 personnel including engineering managers, individual contributors, and technical leaders.
+Today, I oversee eight engineering teams within CircleCI's R&D department, totaling around 60 personnel including engineering managers, individual contributors, and technical leaders.
 
 ### Software Engineering Manager, [InVisionApp](http://www.invisionapp.com) <time>New York, NY (Remote), March 2017 - January 2019</time>
 
-Engineering manager for a high-performing team of full-stack engineers building collaboration and conversation tools across the InVisionApp suite of products. Responsible for technical and product leadership, mentorship, hiring, agile development practices, and cross-team collaboration.
+Engineering manager for a team of full-stack engineers delivering collaboration and conversation tools across the InVisionApp suite of products. Responsible for technical and product leadership, mentorship, hiring, agile development practices, and cross-team collaboration.
 
 ### Software Engineer, [HashiCorp](http://www.hashicorp.com) <time>San Francisco, CA (Remote), March 2015 - March 2017</time>
 
@@ -46,8 +44,6 @@ Received a Bachelor of Science degree in Computer Science with a focus in web ap
 ## Skills
 
 Product engineering and product management, growth engineering, data engineering, agile development practices, microservices, cloud infrastructure automation, continuous integration and deployment, production readiness and operations, team building, mentorship, performance reviews, setting and tracking business and product goals, cross-team and stakeholder collaboration, hiring, interviewing, and onboarding.
-
-Specific technical skills include Javascript, Ruby, GoLang, and MySQL as well as a spectrum of development frameworks both server- and client-side.
 
 ### On the Web
 
