@@ -6,9 +6,9 @@ Today, I'm a Senior Director of Engineering for the CI/CD Engine Division at [Ci
 
 ### Senior Director, Engineering, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), July 2022 - Present</time>
 
-### Director, Engineering, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), January 2021 - July 2022</time>
+#### Director, Engineering, [CircleCI](http://www.circleci.com) <time>January 2021 - July 2022</time>
 
-### Senior Engineering Manager, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), January 2019 - January 2021</time>
+#### Senior Engineering Manager, [CircleCI](http://www.circleci.com) <time>January 2019 - January 2021</time>
 
 In my time at CircleCI, I've served as a senior engineering manager, director, and senior director of engineering, focusing primarily on guiding our startup through a period of hyper-growth toward IPO. Responsibilities and accomplishments included:
 
