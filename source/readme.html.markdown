@@ -3,11 +3,11 @@ title: Manager Readme
 category: Readme
 ---
 
-Hi, I'm Blake, and I'm a Senior Director of Engineering. You might work with me, or for me, or I might even work for you. We might have just met, or worked together for ages. Whatever the case may be, consider this a convenient guide to me and how I like to manage people and teams.
+Hi, I'm Blake, and I'm a VP of Engineering. You might work with me, or for me, or I might even work for you. We might have just met, or worked together for ages. Whatever the case may be, consider this a convenient guide to me and how I like to manage people and teams.
 
 ## My goal
 
-My goal as a manager is to empower those I work for: the people I manage. I work _for_ you, not the other way around. My job is to provide clarity, context, priority, and feedback. I don't want to be here solely to tell you what to do. I'm here to help enable you to do whatever it is that you do best.
+My goal as a leader is to empower those I work for: the people I manage. The work i do is _for_ you, not the other way around. My job is to provide clarity, context, priority, and feedback. I don't want to be here solely to tell you what to do. I'm here to help enable you to do whatever it is that you do best.
 
 ## My North Star principles
 
