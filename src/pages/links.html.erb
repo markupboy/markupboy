@@ -1,0 +1,12 @@
+<% content_for :title, 'Links' %>
+<% content_for :category, 'Links' %>
+<section class="G4 GR">
+  <header>
+    <h1>Links</h1>
+  </header>
+  <dl class="contains-articles">
+    <% get_links(blog('blog')).each do |article| %>
+      <%= partial "article_listing", locals: { article: article } %>
+    <% end %>
+  </dl>
+</section>

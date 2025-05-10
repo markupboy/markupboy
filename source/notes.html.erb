@@ -1,8 +1,0 @@
-<section class="G4 GR">
-  <h class="HSC">Latest Notes</h>
-  <dl class="contains-articles">
-    <% blog('blog').articles[0...5].each do |article| %>
-      <%= partial "article_listing", locals: { article: article } %>
-    <% end %>
-  </dl>
-</section>
