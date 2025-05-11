@@ -1,5 +1,6 @@
 ---
 const { bodyClass, contentClass } = Astro.props;
+import "../assets/stylesheets/markupboy.scss"
 ---
 
 <!DOCTYPE html>
@@ -19,8 +20,6 @@ const { bodyClass, contentClass } = Astro.props;
   <meta name="viewport" content="width=device-width" />
 
   <link href='//fonts.googleapis.com/css?family=Andada' rel='stylesheet' type='text/css'>
-  <!-- TODO: stylesheets -->
-  <!-- <%= stylesheet_link_tag 'markupboy.bundle' %> -->
 </head>
 
  <body class={bodyClass}>
@@ -86,9 +85,6 @@ const { bodyClass, contentClass } = Astro.props;
   </footer>
 
 </div>
-
-<!-- TODO: javascript -->
-<!-- <%= javascript_include_tag 'markupboy.bundle' %> -->
 
 <!-- </mß> -->
 
