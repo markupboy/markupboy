@@ -13,7 +13,7 @@ const { post } = Astro.props;
 const { Content } = await render(post);
 ---
 
-<Layout title={post.title} >
+<Layout title={post.data.title} >
   <section class="GR G4" style="margin-top: 2em">
     <article>
       <header>

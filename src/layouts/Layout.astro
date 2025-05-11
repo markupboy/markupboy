@@ -1,6 +1,7 @@
 ---
-const { bodyClass, contentClass } = Astro.props;
+const { bodyClass, contentClass, title, content } = Astro.props;
 import "../assets/stylesheets/markupboy.scss"
+import Title from "../components/Title.astro";
 ---
 
 <!DOCTYPE html>
@@ -10,8 +11,8 @@ import "../assets/stylesheets/markupboy.scss"
 <!--[if !IE]><!--> <html> <!--<![endif]-->
 
 <head>
-  <!-- TODO: titles -->
-  <title>Blake Walters</title>
+
+  <Title content={content} title={title} />
 
   <meta charset="utf-8">
 

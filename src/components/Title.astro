@@ -1,0 +1,9 @@
+---
+const { title, content } = Astro.props
+---
+
+<title>
+  {title && `${title} - Blake Walters`}
+  {!title && ((content && (content.title && `${content.title} - Blake Walters`)))}
+  {!title && (!content && `Blake Walters`)}
+</title>
