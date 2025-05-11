@@ -1,0 +1,14 @@
+---
+const { title, body, url } = Astro.props
+---
+
+<dt>
+  {url && (
+    <a href={url} class="title">{title}</a>
+    <a href="<%= article.url %>" class="permalink">&infin;</a>
+  )}
+  {!url && (
+    <a href="<%= article.url %>" class="title">{title}</a>
+  )}
+</dt>
+<dd class="formatted" set:html={body}></dd>

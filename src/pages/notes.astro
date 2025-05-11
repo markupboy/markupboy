@@ -1,4 +1,5 @@
 ---
+import Article from '../components/Article.astro'
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 const posts = await getCollection('blog');
@@ -12,14 +13,11 @@ posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
       {
         posts.map(async (post) =>  {
           return (
-            <dt>
-              <a class="title" href="<%= article.url %>">
-                {post.data.title}
-              </a>
-            </dt>
-            <dd class="formatted">
-              <div set:html={post.rendered?.html} />
-            </dd>
+          <Article  
+              title={post.data.title} 
+              url={post.data.external_url} 
+              body={post.rendered?.html}
+            />
           )
         }
       )
