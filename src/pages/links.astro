@@ -1,31 +1,10 @@
 ---
-import Article from '../components/Article.astro'
+import ArticleList from '../components/ArticleList.astro'
 import { getCollection } from 'astro:content';
-import Layout from '../layouts/Layout.astro';
 const posts = await getCollection('blog', ({ data }) => {
   return data.external_url != null;
 });
 posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 ---
 
-<Layout title="Links">
-  <section class="G4 GR">
-    <header>
-      <h1>Links</h1>
-    </header>
-    <dl class="contains-articles">
-      {
-        posts.map(async (post) =>  {
-          return (
-            <Article  
-              title={post.data.title} 
-              url={post.data.external_url} 
-              body={post.rendered?.html}
-            />
-          )
-        }
-      )
-    }
-    </dl>
-  </section>
-</Layout>
+<ArticleList posts={posts} title="Links" />
