@@ -1,5 +1,6 @@
 ---
 title: Pronunciation of sIFR
+slug: pronunciation-of-s-ifr
 date: 2009-03-18 00:00 UTC
 tags:
 external_url: http://www.benlacy.net/blog/2009/01/23/pronunciation-of-sifr/

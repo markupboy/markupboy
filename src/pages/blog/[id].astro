@@ -1,0 +1,32 @@
+---
+import { getCollection, render } from 'astro:content';
+import { format } from 'date-fns';
+import Layout from '../../layouts/Layout.astro';
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  console.log(posts)
+  return posts.map(post => ({
+    params: { id: post.id },
+    props: { post },
+  }));
+}
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+
+<Layout title={post.title} >
+  <section class="GR G4" style="margin-top: 2em">
+    <article>
+      <header>
+        <h1>{post.data.title}</h1>
+        <h2>
+          Penned on <time>{format(post.data.date, 'MMMM dd, yyyy')}</time>.
+        </h2>
+      </header>
+      <div class="formatted">
+        <Content />
+      </div>
+    </article>
+  </section>
+
+</Layout>

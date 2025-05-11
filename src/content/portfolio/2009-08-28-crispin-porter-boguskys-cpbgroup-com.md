@@ -1,5 +1,6 @@
 ---
 title: Crispin Porter + Bogusky’s CPBGroup.com
+slug: Crispin Porter + Bogusky’s CPBGroup.com
 date: 2009-08-28 00:00 UTC
 tags:
 ---

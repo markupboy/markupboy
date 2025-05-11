@@ -1,5 +1,6 @@
 ---
 title: TextMate theme - Handcrafted
+slug: TextMate theme - Handcrafted
 date: 2010-12-24 00:00 UTC
 tags:
 ---

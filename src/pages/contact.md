@@ -1,6 +1,7 @@
 ---
 layout: ../layouts/Layout.astro
 title: Contact
+slug: Contact
 category: Contact
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: jQuery Niceties - Dismissing Lightboxes
+slug: jquery-niceties-dismissing-lightboxes
 date: 2010-11-18 00:00 UTC
 tags:
 ---

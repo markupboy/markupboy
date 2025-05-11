@@ -1,5 +1,6 @@
 ---
 title: Fluid Grids
+slug: fluid-grids
 date: 2009-03-17 00:00 UTC
 tags:
 external_url: http://www.alistapart.com/articles/fluidgrids

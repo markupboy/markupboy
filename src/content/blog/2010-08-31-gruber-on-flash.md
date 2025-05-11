@@ -1,5 +1,6 @@
 ---
 title: Gruber on Flash
+slug: gruber-on-flash
 date: 2010-08-31 00:00 UTC
 tags:
 external_url: http://daringfireball.net/2010/08/getting_there_from_here

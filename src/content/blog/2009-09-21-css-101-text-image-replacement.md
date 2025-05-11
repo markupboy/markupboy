@@ -1,5 +1,6 @@
 ---
 title: CSS 101 - Text-Image Replacement
+slug: css-101-text-image-replacement
 date: 2009-09-21 00:00 UTC
 tags:
 ---

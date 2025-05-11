@@ -1,5 +1,6 @@
 ---
 title: "American Express OPEN Forum"
+slug: "American Express OPEN Forum"
 date: 2009-07-04 00:00 UTC
 tags:
 ---

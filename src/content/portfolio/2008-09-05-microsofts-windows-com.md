@@ -1,5 +1,6 @@
 ---
 title: Microsoft’s Windows.com
+slug: Microsoft’s Windows.com
 date: 2008-09-05 00:00 UTC
 tags:
 ---

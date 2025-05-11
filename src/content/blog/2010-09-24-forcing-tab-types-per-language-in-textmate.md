@@ -1,5 +1,6 @@
 ---
 title: Forcing Tab Types Per Language in TextMate
+slug: forcing-tab-types-per-language-in-text-mate
 date: 2010-09-24 00:00 UTC
 tags:
 ---

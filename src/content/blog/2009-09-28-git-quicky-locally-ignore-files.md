@@ -1,5 +1,6 @@
 ---
 title: Git quicky - locally ignore files
+slug: git-quicky-locally-ignore-files
 date: 2009-09-28 00:00 UTC
 tags:
 ---

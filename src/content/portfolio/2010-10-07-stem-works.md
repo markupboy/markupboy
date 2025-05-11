@@ -1,5 +1,6 @@
 ---
 title: Stem Works
+slug: Stem Works
 date: 2010-10-07 00:00 UTC
 tags:
 ---

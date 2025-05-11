@@ -1,5 +1,6 @@
 ---
 title: Sexy Music Album Overlays
+slug: sexy-music-album-overlays
 date: 2009-03-17 00:00 UTC
 tags:
 ---

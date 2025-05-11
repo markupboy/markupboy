@@ -1,5 +1,6 @@
 ---
 title: What's in My Bag
+slug: what-s-in-my-bag
 date: 2009-03-15 00:00 UTC
 tags:
 ---

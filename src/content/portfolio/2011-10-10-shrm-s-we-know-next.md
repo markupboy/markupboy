@@ -1,5 +1,6 @@
 ---
 title: SHRM's We Know Next
+slug: SHRM's We Know Next
 date: 2011-10-10 00:00 UTC
 tags:
 ---

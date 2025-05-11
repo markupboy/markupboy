@@ -1,5 +1,6 @@
 ---
 title: A Better Method for Clearing Default Form Input Values
+slug: a-better-method-for-clearing-default-form-input-values
 date: 2009-10-17 00:00 UTC
 tags:
 ---

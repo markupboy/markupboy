@@ -1,5 +1,6 @@
 ---
 title: Volkswagen’s VW.com
+slug: Volkswagen’s VW.com
 date: 2008-03-01 00:00 UTC
 tags:
 ---

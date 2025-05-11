@@ -1,5 +1,6 @@
 ---
 title: The Social Graph is Neither
+slug: the-social-graph-is-neither
 date: 2011-11-09 00:00 UTC
 tags:
 external_url: http://blog.pinboard.in/2011/11/the_social_graph_is_neither/

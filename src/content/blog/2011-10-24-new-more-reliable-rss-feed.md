@@ -1,5 +1,6 @@
 ---
 title: New, More Reliable RSS Feed
+slug: new-more-reliable-rss-feed
 date: 2011-10-24 00:00 UTC
 tags:
 ---

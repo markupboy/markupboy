@@ -1,5 +1,6 @@
 ---
 title: Commafy - Pretty Numbers for Python
+slug: commafy-pretty-numbers-for-python
 date: 2010-08-01 00:00 UTC
 tags:
 ---

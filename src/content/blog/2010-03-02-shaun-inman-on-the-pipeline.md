@@ -1,5 +1,6 @@
 ---
 title: Shaun Inman on The Pipeline
+slug: shaun-inman-on-the-pipeline
 date: 2010-03-02 00:00 UTC
 tags:
 external_url: http://5by5.tv/pipeline/5

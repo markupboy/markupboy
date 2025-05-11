@@ -1,5 +1,6 @@
 ---
 title: Limiting Characters in a Textarea with jQuery
+slug: limiting-characters-in-a-textarea-with-jquery
 date: 2009-03-14 00:00 UTC
 tags:
 ---

@@ -1,5 +1,6 @@
 ---
 title: An Event Apart - Chicago
+slug: an-event-apart-chicago
 date: 2009-10-14 00:00 UTC
 tags:
 ---
@@ -8,16 +9,13 @@ tags:
 
 <p>While there's way too much information to go over each bit in detail here, what follows is a notable sound byte from each presenter and an overview of how it fit into their overall presentation:</p>
 
-
 <h3 id="8220one_of_the_biggest_tragedies_in_design_is_having_a_beautiful_site_that_fails_with_real_content8221">"One of the biggest tragedies in design is having a beautiful site that fails with real content"</h3>
-
 
 <p><em>A Site Redesign</em> - Jeffery Zeldman, author, Designing With Web Standards, 3rd Ed.</p>
 
 <p>A common problem in our business, having a beautiful design filled with Lorem Ipsum text. We're all capable of generating content; even if it isn't production ready we can make it realistic.  We shouldn't be designing specifically for a specific number of lines of text or a fixed amount of characters.  Designing from realistic content out instead of from visual design in (with content coming later) will allow our sites to be more flexible, easier to maintain and in the end more sustainable.</p>
 
 <h3 id="8220design_systems_not_pages8221">"Design systems, not pages."</h3>
-
 
 <p><em>Thinking Small</em> - Jason Santa Maria, web designer</p>
 
@@ -29,22 +27,17 @@ tags:
 
 <p>Content shouldn't be an afterthought.  The backbone of information driven sites is the content itself and should be as integral a part of website creation as development or design.  In fact, content can help dictate design patterns, look and feel for specific pages or even the tone of how a page is meant to be presented. All content has to be planned for - headers, body copy, footer text, error messages, titles, descriptions, alt text, metadata, everything.</p>
 
-
-
 <h3 id="8220everyone_is_a_ux_designer_whether_it8217s_in_your_title_or_not8221">"Everyone is a UX designer whether it's in your title or not"</h3>
 
 <p><em>DIY UX: Give Your Users an Upgrade (Without Calling in a Pro)</em> - Whitney Hess, Strategic Partner, Happy Cog</p>
 
 <p>Everyone involved in web design and development, whether they are UX people or not, are UX designers.  We all have an influence over how users perceive and use a site from the feelings the visual design conveys to the responsiveness of the front-end implementation.  The best way to find break downs in any of these aspects is to get the site in front of users, to do user testing.  Testing doesn't have to be expensive or complicated, it can be as simple as asking people you know, people you work with (but not on the same project) or people that just happen to be around at any given time to use something and give feedback.  The trick is to make sure they don't feel compelled to say "oh it's good" because being "good" won't make your site any better.  Get users to tear it apart and grow from there</p>
 
-
-
 <h3 id="8220static_designs_fail_by_definition8221">"Static designs fail by definition"</h3>
 
 <p><em>Walls Come Tumbling Down</em> - Andy Clarke, author, Transcending CSS</p>
 
 <p>Websites aren't just carbon copies of photoshop comps.  They're living breathing things that act and react to user input.  Why, then, do we continue to get client signoff based on static comps?  Designing in the browser itself with CSS can potentially take the same amount of (if not less) time that putting together a comp in photoshop but in the end you have a living document that's clickable, scrollable and easily adapted to be used in production.  How long would it take to change every single font-face in a comp?  With CSS it takes minutes.</p>
-
 
 <h3 id="8220over_time_plugins_like_the_flash_player_will_give_way_to_script8221">"Over time, plugins like the Flash player will give way to &lt;script&gt;"</h3>
 

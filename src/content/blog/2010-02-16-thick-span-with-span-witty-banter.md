@@ -1,7 +1,8 @@
 ---
 title: thick <span>with</span> witty banter
+slug: thick-with-witty-banter
 date: 2010-02-16 00:00 UTC
-? tags
+tags:
 external_url: https://web.archive.org/web/20180109114223/http://ctshryock.com:80/posts/2010/02/16/geeks-vs-nerds.html
 ---
 

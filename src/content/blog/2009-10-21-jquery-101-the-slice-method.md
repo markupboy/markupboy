@@ -1,5 +1,6 @@
 ---
 title: jQuery 101 - The Slice Method
+slug: jquery-101-the-slice-method
 date: 2009-10-21 00:00 UTC
 tags:
 ---

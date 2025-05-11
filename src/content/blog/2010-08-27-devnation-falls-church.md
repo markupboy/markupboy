@@ -1,5 +1,6 @@
 ---
 title: DevNation, Falls Church
+slug: dev-nation-falls-church
 date: 2010-08-27 00:00 UTC
 tags:
 ---
@@ -8,7 +9,6 @@ tags:
 </p>
 
 <p>Here are all the pertinent links and downloads from my presentation:</p>
-
 
 <ul>
 <li><a href="/downloads/devnation/fc/source.zip">Download the source code</a></li>

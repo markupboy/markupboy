@@ -1,5 +1,6 @@
 ---
 title: Bypasslane.com
+slug: Bypasslane.com
 date: 2010-08-11 00:00 UTC
 tags:
 ---

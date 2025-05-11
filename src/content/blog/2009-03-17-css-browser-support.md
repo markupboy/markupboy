@@ -1,5 +1,6 @@
 ---
 title: CSS Browser Support
+slug: css-browser-support
 date: 2009-03-17 00:00 UTC
 tags:
 external_url: http://caniuse.com/

@@ -1,5 +1,6 @@
 ---
 title: Removing Default Form Input Values on Click
+slug: removing-default-form-input-values-on-click
 date: 2009-03-15 00:00 UTC
 tags:
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Alfred Tip: Hotkey a Folder"
+slug: alfred-tip-hotkey-a-folder
 date: 2011-11-29 00:00 UTC
 ---
 

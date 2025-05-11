@@ -1,5 +1,6 @@
 ---
 title: Kettler Mobile
+slug: Kettler Mobile
 date: 2011-11-16 00:00 UTC
 tags:
 ---

@@ -1,5 +1,6 @@
 ---
 title: Newd Now Supports Google's Proposal for Crawlable AJAX
+slug: newd-now-supports-google-s-proposal-for-crawlable-ajax
 date: 2009-10-08 00:00 UTC
 tags:
 ---

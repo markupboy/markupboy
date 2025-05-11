@@ -1,5 +1,6 @@
 ---
 title: Zeldman - On The Little Things
+slug: zeldman-on-the-little-things
 date: 2011-01-13 00:00 UTC
 tags:
 external_url: http://cognition.happycog.com/article/one-mans-ceiling

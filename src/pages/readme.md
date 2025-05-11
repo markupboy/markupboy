@@ -1,6 +1,7 @@
 ---
 layout: ../layouts/Layout.astro
 title: Manager Readme
+slug: Manager Readme
 category: Readme
 ---
 

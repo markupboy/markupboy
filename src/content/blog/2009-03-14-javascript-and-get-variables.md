@@ -1,5 +1,6 @@
 ---
 title: Javascript and GET Variables
+slug: javascript-and-get-variables
 date: 2009-03-14 00:00 UTC
 tags:
 category: Articles

@@ -1,10 +1,11 @@
 ---
 title: Dots for Tots
+slug: dots-for-tots
 date: 2011-03-22 00:00 UTC
 tags:
 ---
 
-This Friday, March 25th, 2011, some of my great friends at [Viget](http://www.viget.com) and I are hosting the first annual Dots for Tots Ms. Pac-Man marathon.  Starting Friday morning at 8:00 am EST we'll fire up our original Ms. Pac-Man cocktail table and won't quit until donations stop coming in and we'll be broadcasting the whole thing live on our site at dotsfortots.org.
+This Friday, March 25th, 2011, some of my great friends at [Viget](http://www.viget.com) and I are hosting the first annual Dots for Tots Ms. Pac-Man marathon. Starting Friday morning at 8:00 am EST we'll fire up our original Ms. Pac-Man cocktail table and won't quit until donations stop coming in and we'll be broadcasting the whole thing live on our site at dotsfortots.org.
 
 Every cent donated goes directly to [Child's Play Charity](http://www.childsplay.org) so come check us out, enjoy the show, and help out a really great cause.
 

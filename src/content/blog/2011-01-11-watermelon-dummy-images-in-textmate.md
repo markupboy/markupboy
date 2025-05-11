@@ -1,5 +1,6 @@
 ---
 title: Watermelon - Dummy Images in TextMate
+slug: watermelon-dummy-images-in-text-mate
 date: 2011-01-11 00:00 UTC
 tags:
 ---

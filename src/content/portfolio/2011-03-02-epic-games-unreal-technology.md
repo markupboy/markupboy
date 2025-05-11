@@ -1,5 +1,6 @@
 ---
 title: Epic Games - Unreal Technology
+slug: Epic Games - Unreal Technology
 date: 2011-03-02 00:00 UTC
 tags:
 ---

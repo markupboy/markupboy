@@ -1,5 +1,6 @@
 ---
 title: "Banishing &lt;div class='clear'&gt;"
+slug: banishing-lt-div-class-clear-gt
 date: 2009-03-19 00:00 UTC
 tags:
 ---
@@ -29,7 +30,7 @@ tags:
 &lt;/div&gt;
 </code>
 
-<code class="css">/* the css */<br />
+<code class="css">/_ the css _/<br />
 .parent {<br />
 &nbsp;width: 400px;<br />
 &nbsp;overflow: hidden<br />

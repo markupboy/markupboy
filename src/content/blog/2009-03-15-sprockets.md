@@ -1,5 +1,6 @@
 ---
 title: Sprockets
+slug: sprockets
 date: 2009-03-15 00:00 UTC
 tags:
 external_url: https://github.com/rails/sprockets

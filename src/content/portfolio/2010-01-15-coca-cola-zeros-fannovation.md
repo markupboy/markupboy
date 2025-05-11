@@ -1,5 +1,6 @@
 ---
 title: Coca Cola Zero's Fannovation
+slug: Coca Cola Zero's Fannovation
 date: 2010-01-15 00:00 UTC
 tags:
 ---

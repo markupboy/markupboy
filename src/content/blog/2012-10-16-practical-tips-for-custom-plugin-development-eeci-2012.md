@@ -1,5 +1,6 @@
 ---
 title: "Practical Tips for Custom Plugin Development: EECI 2012"
+slug: practical-tips-for-custom-plugin-development-eeci-2012
 date: 2012-10-16 00:00 UTC
 tags:
 ---
