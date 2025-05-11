@@ -5,7 +5,7 @@ date: 2009-10-14 00:00 UTC
 tags:
 ---
 
-<p>For two days in Chicago, I had the privilege to attend An Event Apart - "an intensely educational two-day conference for passionate practitioners of standards-based web design" (from <a href="http://aneventapart.com">http://aneventapart.com</a>).  Divided amongst 12 hour-long sessions, we had the privilege of learning about everything from design to content strategy to in-depth javascript and css techniques from some of the top figures in the industry.</p>
+<p>For two days in Chicago, I had the privilege to attend An Event Apart - "an intensely educational two-day conference for passionate practitioners of standards-based web design" (from <a href="https://zeldman.com/category/aneventapart/">http://aneventapart.com</a>).  Divided amongst 12 hour-long sessions, we had the privilege of learning about everything from design to content strategy to in-depth javascript and css techniques from some of the top figures in the industry.</p>
 
 <p>While there's way too much information to go over each bit in detail here, what follows is a notable sound byte from each presenter and an overview of how it fit into their overall presentation:</p>
 

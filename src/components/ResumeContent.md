@@ -35,8 +35,8 @@ HashiCorp employee #11. Lead front-end engineer across HashiCorp's suite of prod
 ### Additional Experience
 
 - Software Engineer, [Big Cartel](http://www.bigcartel.com) <time>Salt Lake City, UT (Remote), October 2012 - March 2015</time>
-- Senior Developer, [Viget Labs](http://www.viget.com) <time>April 2010 - October 2012</time>
-- Staff Engineer, [Crispin Porter + Bogusky](http://www.cpbgroup.com) <time>November 2007 - April 2010</time>
+- Senior Software Engineer, [Viget Labs](http://www.viget.com) <time>April 2010 - October 2012</time>
+- Staff Engineer, Crispin Porter + Bogusky <time>November 2007 - April 2010</time>
 - Web Developer, Delta Systems Group <time>November 2004 - November 2007</time>
 
 ## Education

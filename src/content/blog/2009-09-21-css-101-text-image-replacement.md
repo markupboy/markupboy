@@ -26,20 +26,20 @@ tags:
 <p>Next, we'll give the header the appropriate background image as well as a height and width to match:</p>
 
 <pre><code class="css">h1 {
-    background: url(/images/uploads/bkg.h1.png) left top no-repeat;
+    background: url(/images/css101-h1.png) left top no-repeat;
     height: 80px;
     width: 240px;
 }
 </code></pre>
 
-<h1 style="background: url(/images/uploads/bkg.h1.png) left top no-repeat; height: 80px; width: 240px; text-indent: 0; overflow: visible;">
+<h1 style="background: url(/images/css101-h1.png) left top no-repeat; height: 80px; width: 240px; text-indent: 0; overflow: visible;">
     Markupboy
 </h1>
 
 <p>As you can see, the image is there with the appropriate dimensions, but our text is still visible.  Here's where the real trick is, first set the 'overflow' property to hidden</p>
 
 <pre><code class="css">h1 {
-    background: url(/images/uploads/bkg.h1.png) left top no-repeat;
+    background: url(/images/css101-h1.png) left top no-repeat;
     height: 80px;
     width: 240px;
     overflow: hidden;
@@ -49,7 +49,7 @@ tags:
 <p>and then set 'text-indent' to '-9999px' (or any suitably large negative or positive number)</p>
 
 <pre><code class="css">h1 {
-    background: url(/images/uploads/bkg.h1.png) left top no-repeat;
+    background: url(/images/css101-h1.png) left top no-repeat;
     height: 80px;
     width: 240px;
     overflow: hidden;
@@ -69,7 +69,7 @@ tags:
 <p>and adjust the css slightly</p>
 
 <pre><code class="css">h1 a {
-    background: url(/images/uploads/bkg.h1.png) left top no-repeat;
+    background: url(/images/css101-h1.png) left top no-repeat;
     height: 80px;
     width: 240px;
     display: block;
@@ -81,7 +81,7 @@ tags:
 <p>and now we've got a fully text replaced link in all it's clickable glory.  </p>
 
 <h1>
-    <a href="http://www.markupboy.com" style="background: url(/images/uploads/bkg.h1.png) left top no-repeat; height: 80px; width: 240px; display: block; overflow: hidden; text-indent: -9999px; float: none;">Markupboy</a>
+    <a href="http://www.markupboy.com" style="background: url(/images/css101-h1.png) left top no-repeat; height: 80px; width: 240px; display: block; overflow: hidden; text-indent: -9999px; float: none;">Markupboy</a>
 </h1>
 
 <p>The main difference you'll see here is the addition of 'display: block' to our CSS.  This is necessary simply because anchors are inline elements, which means height, width and text-indent will have no effect on them.</p>
