@@ -1,6 +1,5 @@
 ---
 title: Lockheed Martin Innovation
-slug: Lockheed Martin Innovation
 date: 2011-01-06 00:00 UTC
 tags:
 ---

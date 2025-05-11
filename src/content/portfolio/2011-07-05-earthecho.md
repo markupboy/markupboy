@@ -1,6 +1,5 @@
 ---
 title: EarthEcho
-slug: EarthEcho
 date: 2011-07-05 00:00 UTC
 tags:
 ---

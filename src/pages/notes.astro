@@ -17,6 +17,7 @@ posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
               title={post.data.title} 
               url={post.data.external_url} 
               body={post.rendered?.html}
+              deeplink={post.id}
             />
           )
         }

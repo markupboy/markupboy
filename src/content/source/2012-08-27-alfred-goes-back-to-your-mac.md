@@ -1,6 +1,6 @@
 ---
 title: Alfred Goes Back to Your Mac
-slug: Alfred Goes Back to Your Mac
+slug: alfred-goes-back-to-your-mac
 date: 2012-08-27 00:00 UTC
 tags:
 ---

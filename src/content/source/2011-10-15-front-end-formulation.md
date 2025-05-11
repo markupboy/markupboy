@@ -1,6 +1,6 @@
 ---
 title: Front-End Formulation
-slug: Front-End Formulation
+slug: front-end-formulation
 date: 2011-10-15 00:00 UTC
 tags:
 ---

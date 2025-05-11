@@ -5,4 +5,4 @@ const posts = await getCollection('source');
 posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 ---
 
-<ArticleList posts={posts} title="Source" />
+<ArticleList posts={posts} title="Source" path="source" />

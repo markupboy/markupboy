@@ -1,6 +1,5 @@
 ---
 title: Big Cartel Shop
-slug: Big Cartel Shop
 date: 2013-08-12 00:00 UTC
 tags:
 ---

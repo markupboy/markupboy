@@ -1,6 +1,5 @@
 ---
 title: Shop Indie Holidy Gift Guide
-slug: Shop Indie Holidy Gift Guide
 date: 2013-11-26 00:00 UTC
 tags:
 ---

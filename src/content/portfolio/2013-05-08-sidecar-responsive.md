@@ -1,6 +1,5 @@
 ---
 title: Sidecar - Responsive
-slug: Sidecar - Responsive
 date: 2013-05-08 00:00 UTC
 tags:
 ---

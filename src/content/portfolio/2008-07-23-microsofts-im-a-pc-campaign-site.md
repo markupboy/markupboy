@@ -1,6 +1,5 @@
 ---
 title: Microsoft’s "I’m a PC" Campaign Site
-slug: Microsoft’s "I’m a PC" Campaign Site
 date: 2008-07-23 00:00 UTC
 tags:
 ---

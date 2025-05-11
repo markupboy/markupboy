@@ -1,7 +1,7 @@
 ---
 import Article from '../components/Article.astro'
 import Layout from '../layouts/Layout.astro';
-const { posts, title } = Astro.props
+const { posts, title, path } = Astro.props
 ---
 
 <Layout title={title}>
@@ -17,6 +17,7 @@ const { posts, title } = Astro.props
               title={post.data.title} 
               body={post.rendered?.html}
               url={post.data.external_url}
+              deeplink=`/${path}/${post.id}`
             />
           )
         }

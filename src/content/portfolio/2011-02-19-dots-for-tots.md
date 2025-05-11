@@ -1,6 +1,5 @@
 ---
 title: Dots for Tots
-slug: Dots for Tots
 date: 2011-02-19 00:00 UTC
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: Viget Ms. Pac-Man
-slug: Viget Ms. Pac-Man
 date: 2010-10-07 00:00 UTC
 tags:
 ---

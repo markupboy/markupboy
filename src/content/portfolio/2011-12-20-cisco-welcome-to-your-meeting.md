@@ -1,6 +1,5 @@
 ---
 title: Cisco - Welcome to Your Meeting
-slug: Cisco - Welcome to Your Meeting
 date: 2011-12-20 00:00 UTC
 tags:
 ---

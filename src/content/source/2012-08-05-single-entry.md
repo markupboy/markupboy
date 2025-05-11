@@ -1,6 +1,6 @@
 ---
 title: Single Entry
-slug: Single Entry
+slug: single-entry
 date: 2012-08-05 00:00 UTC
 tags:
 ---

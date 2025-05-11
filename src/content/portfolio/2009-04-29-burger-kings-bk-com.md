@@ -1,6 +1,5 @@
 ---
 title: Burger King’s BK.com
-slug: Burger King’s BK.com
 date: 2009-04-29 00:00 UTC
 tags:
 ---

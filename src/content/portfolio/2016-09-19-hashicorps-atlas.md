@@ -1,6 +1,5 @@
 ---
 title: HashiCorp's Atlas
-slug: HashiCorp's Atlas
 date: 2016-09-19 00:00 UTC
 tags:
 ---

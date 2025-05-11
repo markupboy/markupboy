@@ -1,6 +1,5 @@
 ---
 title: Domino’s Pizza’s Dominos.com
-slug: Domino’s Pizza’s Dominos.com
 date: 2007-12-15 00:00 UTC
 tags:
 ---

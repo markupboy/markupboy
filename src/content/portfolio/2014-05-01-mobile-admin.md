@@ -1,6 +1,5 @@
 ---
 title: Mobile Admin
-slug: Mobile Admin
 date: 2014-05-01 00:00 UTC
 tags:
 ---
