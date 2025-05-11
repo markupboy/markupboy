@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+const posts = await getCollection('blog', ({ data }) => {
+  return data.external_url != null;
+});
+posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+
+<Layout title="Links">
+  <section class="G4 GR">
+    <header>
+      <h1>Links</h1>
+    </header>
+    <dl class="contains-articles">
+      {
+        posts.map(async (post) =>  {
+          return (
+            <dt>
+              <a class="title" href="<%= article.url %>">
+                {post.data.title}
+              </a>
+            </dt>
+            <dd class="formatted">
+              <div set:html={post.rendered?.html} />
+            </dd>
+          )
+        }
+      )
+    }
+    </dl>
+  </section>
+</Layout>
