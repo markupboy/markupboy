@@ -12,6 +12,7 @@
     "astro": "^5.7.12"
   },
   "devDependencies": {
+    "date-fns": "^4.1.0",
     "sass": "^1.88.0",
     "stylelint": "^16.19.1",
     "stylelint-config-recommended-scss": "^15.0.0",
