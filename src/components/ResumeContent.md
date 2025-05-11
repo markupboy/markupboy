@@ -21,8 +21,7 @@ In my time at CircleCI, I've served as a senior engineering manager, director, a
 - Helped scale the overall engineering organization from 50 to 250 engineers, engineering managers, and engineering support personnel.
 - Established organization-wide processes for discovery, planning, and OKRs to guide and measure success at the division and team levels.
 - Performed due diligence, onboarding, G&A integration, and product oversight for the acquisition of [PoniCode](https://www.ponicode.com/) in early 2022, which lead to a successful launch of [CircleCI's VSCode Extension](https://marketplace.visualstudio.com/items?itemName=circleci.circleci) with more than 15,000 downloads in its first quarter.
-
-Today, I oversee eight engineering teams within CircleCI's R&D department, totaling around 60 personnel including engineering managers, individual contributors, and technical leaders.
+- Oversaw as many as eight engineering teams within CircleCI's R&D department, totaling around 80 personnel including engineering directors, managers, individual contributors, and technical leaders.
 
 ### Software Engineering Manager, [InVisionApp](http://www.invisionapp.com) <time>New York, NY (Remote), March 2017 - January 2019</time>
 
@@ -43,7 +42,7 @@ HashiCorp employee #11. Lead front-end engineer across HashiCorp's suite of prod
 
 ### [University of Missouri - Columbia](http://www.mizzou.edu/) <time>Columbia, Missouri</time>
 
-Received a Bachelor of Science degree in Computer Science with a focus in web application development.
+Earned a Bachelor of Science in Computer Science and a minor in mathematics.
 
 ## Skills
 
