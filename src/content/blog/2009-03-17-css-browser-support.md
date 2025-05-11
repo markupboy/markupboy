@@ -1,7 +1,7 @@
 ---
 title: CSS Browser Support
 date: 2009-03-17 00:00 UTC
-? tags
+tags:
 external_url: http://caniuse.com/
 ---
 
