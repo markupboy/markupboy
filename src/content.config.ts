@@ -10,4 +10,13 @@ const portfolio = defineCollection({
   }),
 });
 
-export const collections = { portfolio };
+const source = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/source" }),
+  schema: z.object({
+    title: z.string(),
+    date: z.coerce.date(),
+    tags: z.string().nullable(),
+  }),
+});
+
+export const collections = { portfolio, source };
