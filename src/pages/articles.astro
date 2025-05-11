@@ -1,12 +1,17 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
-const posts = await getCollection('source');
+const posts = await getCollection('blog', ({ data }) => {
+  return data.external_url == null;
+});
 posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 ---
 
-<Layout title="Source">
-  <section class="GR G4">
+<Layout title="Articles">
+  <section class="G4 GR">
+    <header>
+      <h1>Articles</h1>
+    </header>
     <dl class="contains-articles">
       {
         posts.map(async (post) =>  {
@@ -16,7 +21,7 @@ posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
                 {post.data.title}
               </a>
             </dt>
-            <dd>
+            <dd class="formatted">
               <div set:html={post.rendered?.html} />
             </dd>
           )
@@ -24,5 +29,5 @@ posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
       )
     }
     </dl>
-  </section>  
+  </section>
 </Layout>
