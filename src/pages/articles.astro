@@ -1,0 +1,10 @@
+---
+import ArticleList from '../components/ArticleList.astro'
+import { getCollection } from 'astro:content';
+const posts = await getCollection('blog', ({ data }) => {
+  return data.external_url == null;
+});
+posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+
+<ArticleList posts={posts} title="Articles" path="blog" />

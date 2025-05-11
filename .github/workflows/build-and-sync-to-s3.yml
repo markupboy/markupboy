@@ -1,4 +1,4 @@
-name: Middleman Build and Sync
+name: Build and Deploy Astro to S3
 
 on: ["push"]
 
@@ -7,19 +7,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-      - name: docker login
-        env:
-          DOCKER_USER: ${{secrets.DOCKER_USER}}
-          DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: build
         run: |
-          docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
-      - name: build and sync
-        run: docker run -v $PWD:/app markupboy/markupboy:latest make build
-      - uses: actions/upload-artifact@v2
+          npm install
+          npm run build
+      - name: store build
+        uses: actions/upload-artifact@v4
         with:
           name: markupboy-site-build
-          path: build
+          path: dist
 
   deploy:
     needs: build
@@ -33,7 +31,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/download-artifact@v2
+      - name: retrieve build
+        uses: actions/download-artifact@v4
         with:
           name: markupboy-site-build
       - uses: lbertenasco/s3-deploy@v1

@@ -1,0 +1,989 @@
+@use "reset.scss";
+
+@media all {
+  /* @group basic, universal styles */
+
+  body {
+    line-height: 1;
+  }
+
+  article,
+  aside,
+  details,
+  figcaption,
+  figure,
+  footer,
+  header,
+  hgroup,
+  img,
+  menu,
+  nav,
+  section,
+  svg {
+    display: block;
+  }
+
+  nav ul {
+    list-style: none;
+  }
+
+  blockquote,
+  q {
+    quotes: none;
+  }
+
+  blockquote:before,
+  blockquote:after,
+  q:before,
+  q:after {
+    content: "";
+    content: none;
+  }
+
+  a {
+    background: transparent;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+  }
+
+  ins {
+    background-color: #ff9;
+    color: #000;
+    text-decoration: none;
+  }
+
+  mark {
+    background-color: #ff9;
+    color: #000;
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  del {
+    text-decoration: line-through;
+  }
+
+  abbr[title],
+  dfn[title] {
+    border-bottom: 1px dotted inherit;
+    cursor: help;
+  }
+
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid #cccccc;
+    display: block;
+    height: 1px;
+    margin: 1em 0;
+    padding: 0;
+  }
+
+  input,
+  select {
+    vertical-align: middle;
+  }
+
+  em {
+    font-style: italic;
+  }
+
+  strong {
+    font-weight: 600;
+  }
+
+  /* @end */
+}
+
+@media all {
+  /* @group basic screen styles */
+
+  body {
+    background: #fff;
+    border-top: solid 0.3em #000;
+    font-size: 100%;
+  }
+
+  address,
+  blockquote,
+  caption,
+  cite,
+  code,
+  dl,
+  figcaption,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  label,
+  legend,
+  ol,
+  p,
+  pre,
+  ul,
+  table {
+    display: block;
+    font: normal normal 400 1em/1.5em Andada, Georgia, Serif;
+    list-style: none;
+    margin: 0 0 1.5em;
+    text-rendering: optimizeLegibility;
+  }
+
+  code {
+    display: inline;
+  }
+
+  dd,
+  dt,
+  li {
+    display: block;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: list-item;
+  }
+
+  dd:last-child,
+  dl:last-child,
+  dt:last-child,
+  li:last-child,
+  ol:last-child,
+  ul:last-child,
+  p:last-child {
+    margin-bottom: 0 !important;
+  }
+
+  a {
+    color: #c00;
+    text-decoration: underline;
+  }
+
+  a:hover {
+    color: #c00;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: #800;
+  }
+
+  abbr,
+  acronym {
+    border: none;
+    cursor: help;
+  }
+
+  a abbr,
+  a acronym {
+    cursor: pointer;
+  }
+
+  hr {
+    border: none;
+    background-color: #eee;
+    height: 0.1em;
+    margin: 1.45em 0 1.4em;
+  }
+
+  pre,
+  code,
+  kbd,
+  samp {
+    font-family: monospace, sans-serif;
+  }
+
+  button,
+  input,
+  label,
+  select,
+  textarea {
+    display: block;
+    font-size: 1em;
+    line-height: 1.5em;
+  }
+
+  button,
+  input,
+  select,
+  textarea {
+    float: left;
+    margin-right: 0.5em;
+  }
+
+  button,
+  input,
+  select {
+    font-family: arial, sans-serif;
+  }
+
+  textarea {
+    border: solid 0.1em #666;
+    border-radius: 0.225em;
+    -moz-border-radius: 0.225em;
+    -webkit-border-radius: 0.225em;
+    font: normal normal 400 0.75em/2em monospace, serif;
+    padding: 0 0.3em;
+  }
+
+  input[type="submit"] {
+    background: #eee;
+    background: -moz-linear-gradient(top, #f7f7f7, #e6e6e6);
+    background: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#f7f7f7),
+      to(#e6e6e6)
+    );
+    border: solid 0.1em #666;
+    border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    font-size: 75%;
+    font-weight: 700;
+    height: 2em;
+    padding: 0 0.5em;
+    text-shadow: #f7f7f7 0 0.1em 0;
+  }
+
+  input[type="text"] {
+    background: #fff;
+    border: solid 0.1em #666;
+    border-radius: 0.225em;
+    -moz-border-radius: 0.225em;
+    -webkit-border-radius: 0.225em;
+    height: 1em;
+    line-height: 1em;
+    padding: 0 0.25em;
+    padding: 0.25em 0.2em 0.15em;
+    width: 8.875em;
+  }
+
+  input[type="text"]:active,
+  input[type="text"]:focus {
+    outline: none;
+  }
+
+  .screen {
+    margin: 0 auto;
+    padding: 3em 0 3em;
+    width: 48.875em;
+  }
+
+  /* @end */
+
+  /* @group shared images */
+
+  /* dotted borders */
+  .screen > header,
+  .screen > footer > nav > ul,
+  .contains-articles dd,
+  .content > section > header > form,
+  .index .G6 {
+    background-image: url(data:image/png;base64,R0lGODlhSAABAIAAAP///2ZmZiH5BAEHAAAALAAAAABIAAEAAAINDG54kLwNn1TU1XhXAQA7);
+    background-repeat: repeat-x;
+  }
+
+  /* @end */
+
+  /* @group grid */
+
+  .G1,
+  .G2,
+  .G3,
+  .G4,
+  .G5,
+  .G6 {
+    clear: none !important;
+    float: left;
+    margin-left: 1.125em;
+  }
+
+  .GS {
+    margin-left: 0;
+  }
+
+  .GR {
+    float: right;
+  }
+
+  .G1 {
+    width: 8.875em;
+  }
+
+  .G1 .G1 {
+    margin-left: 0;
+  }
+
+  .G1 .G2 {
+    margin-left: -10em;
+  }
+
+  .G1 .G3 {
+    margin-left: -20em;
+  }
+
+  .G1 .G4 {
+    margin-left: -30em;
+  }
+
+  .G1 .G5 {
+    margin-left: -40em;
+  }
+
+  .G1 .G6 {
+    margin-left: -50em;
+  }
+
+  .G2 {
+    width: 18.875em;
+  }
+
+  .G2 .G2 {
+    margin-left: 0;
+  }
+
+  .G2 .G3 {
+    margin-left: -10em;
+  }
+
+  .G2 .G4 {
+    margin-left: -20em;
+  }
+
+  .G2 .G5 {
+    margin-left: -30em;
+  }
+
+  .G2 .G6 {
+    margin-left: -40em;
+  }
+
+  .G3 {
+    width: 28.875em;
+  }
+
+  .G3 .G3 {
+    margin-left: 0;
+  }
+
+  .G3 .G4 {
+    margin-left: -10em;
+  }
+
+  .G3 .G5 {
+    margin-left: -20em;
+  }
+
+  .G3 .G6 {
+    margin-left: -30em;
+  }
+
+  .G4 {
+    width: 38.875em;
+  }
+
+  .G4 .G4 {
+    margin-left: 0;
+  }
+
+  .G4 .G5 {
+    margin-left: -10em;
+  }
+
+  .G4 .G6 {
+    margin-left: -20em;
+  }
+
+  .G5 .G5 {
+    margin-left: 0;
+  }
+
+  .G5 {
+    width: 48.875em;
+  }
+
+  .G5 .G6 {
+    margin-left: -10em;
+  }
+
+  .G6 {
+    width: 58.875em;
+  }
+
+  .G6 .G6 {
+    margin-left: 0;
+  }
+
+  /* @end */
+
+  .HSC {
+    color: #c00;
+    font-size: 75%;
+    height: 2em;
+    letter-spacing: 0.1em;
+    line-height: 2em;
+    text-transform: uppercase;
+
+    a,
+    a:visited {
+      color: #c00;
+    }
+  }
+
+  label.HSC {
+    margin-bottom: 0;
+  }
+
+  .screen > footer .HSC,
+  .screen > header .HSC {
+    height: 2em;
+    margin-bottom: 0;
+  }
+
+  .screen > header li li,
+  .screen > footer li li {
+    font-size: 87.5%;
+    letter-spacing: 0px;
+    line-height: 1.5em;
+    text-transform: none;
+  }
+
+  .screen > header {
+    background-position: 0 100%;
+    overflow: hidden;
+  }
+
+  .screen > header h1 a {
+    display: block;
+    background-image: url(../images/signature.svg);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 111px;
+    overflow: hidden;
+    text-indent: -9999px;
+    width: 360px;
+  }
+
+  .screen > header a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  .screen > header a:hover {
+    text-decoration: underline;
+  }
+
+  .screen > header strong a,
+  .screen > header .active a {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAGCAAAAADBUmCpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVQIHWOI/PT/P4MxkGQwNra/CSV8bv5nAEkAANIFDmMxRyBPAAAAAElFTkSuQmCC);
+    background-position: 0 50%;
+    background-repeat: no-repeat;
+    background-size: 0.25em 0.375em;
+    -moz-background-size: 0.25em 0.375em;
+    -webkit-background-size: 0.25em 0.375em;
+    font-weight: 400;
+    margin-left: -0.75em;
+    padding-left: 0.75em;
+  }
+
+  .screen > header > nav > ul {
+    float: right;
+    padding-top: 35px;
+    width: 5em;
+  }
+
+  .screen > footer {
+    clear: both;
+  }
+
+  .screen > footer > nav > ul {
+    background-position: 0 0;
+    margin-top: 1.5em;
+    overflow: hidden;
+    padding-top: 1.5em;
+  }
+
+  .screen > footer > nav > ul strong a {
+    font-weight: 400;
+  }
+
+  .footerOne {
+    margin-top: 4.5em;
+  }
+
+  .footerTwo li {
+    font-size: 75%;
+    float: left;
+    letter-spacing: 0.1em;
+    line-height: 2em;
+    margin: 0 0.75em 0 0;
+    text-transform: uppercase;
+  }
+
+  .footerTwo li:last-child {
+    float: right;
+    letter-spacing: 0;
+    margin: 0 0 0 0.75em;
+    text-transform: none;
+  }
+
+  .screen > footer .footerTwo li a {
+    color: #000 !important;
+    text-decoration: none;
+  }
+
+  .screen > footer .footerTwo li a:hover {
+    text-decoration: underline;
+  }
+
+  .content {
+    margin-top: 1em;
+    overflow: hidden;
+    padding-bottom: 3em;
+    padding-top: 1em;
+  }
+
+  .content img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
+  .contains-articles {
+    margin-bottom: 3em;
+  }
+
+  .contains-articles dd {
+    background-position: 0 100%;
+    margin-bottom: 2.5em;
+    padding-bottom: 2.5em;
+  }
+
+  .contains-articles dd:last-child {
+    background: transparent !important;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .contains-articles dd :last-child {
+    margin-bottom: 0;
+  }
+
+  .contains-articles dt {
+    margin-bottom: 0.75em;
+    position: relative;
+  }
+
+  .contains-articles dt .title {
+    color: #000 !important;
+    font-size: 131.25%;
+    line-height: 1.14285714em;
+  }
+
+  .contains-articles dt .permalink {
+    color: #ccc;
+  }
+
+  .contains-articles dt:hover .permalink {
+    color: #333;
+  }
+
+  .contains-articles dt .permalink:hover {
+    color: #c00;
+    text-decoration: none;
+  }
+
+  .contains-articles dt .date {
+    color: #888;
+    display: block;
+    font: normal italic 400 87.5%/1.71428571em Andada, Georgia, Serif;
+    left: -21.5714286em;
+    margin-top: 0.85714286em;
+    position: absolute;
+    text-align: right;
+    width: 20.2857143em;
+  }
+
+  .contains-articles dt a {
+    text-decoration: none;
+  }
+
+  .contains-articles dt a:hover {
+    text-decoration: underline;
+  }
+
+  .content header {
+    margin-bottom: 2em;
+    position: relative;
+  }
+
+  .content header nav {
+    font-size: 87.5%;
+    left: -20em;
+    margin-top: -1.5em;
+    position: absolute;
+    width: 18.875em;
+  }
+
+  header nav select {
+    display: none;
+  }
+
+  .content header nav ul {
+    text-align: right;
+  }
+
+  .content header nav li {
+    font: normal normal 400 87.5%/1.71428571em Andada, Georgia, Serif;
+    display: inline;
+  }
+
+  .content header nav li:after {
+    content: " | ";
+  }
+
+  .content header nav li:last-child:after {
+    content: "";
+  }
+
+  .content header h1 {
+    font-size: 200%;
+    line-height: 1.3334em;
+    margin-bottom: 0;
+  }
+
+  .content header h2 {
+    font-size: 87.5%;
+    font-style: italic;
+    line-height: 1.71428571em;
+    margin: 0;
+  }
+
+  .content header h2 span,
+  .content header h2 span a {
+    color: #aaa;
+    text-decoration: none;
+  }
+
+  .content header h2 span a:hover {
+    text-decoration: underline;
+  }
+
+  .content > section > header > form {
+    background-position: left bottom;
+    padding-bottom: 3em;
+  }
+
+  .content > section > header > form input[type="text"] {
+    width: 28.875em;
+  }
+
+  .content h2 {
+    font-size: 150%;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+    margin-top: 2em;
+  }
+
+  .content h3 {
+    font-size: 125%;
+    line-height: 1.2em;
+    margin-bottom: 1.2em;
+    margin-top: 1.2em;
+  }
+
+  .formatted {
+    position: relative;
+  }
+
+  .formatted {
+    position: relative;
+  }
+
+  .formatted blockquote {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAQCAYAAAD52jQlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABnklEQVQ4EZWToZLCQAyGw85NMdR0MK2hCtUqFCgUmPICfTsEb1CFAoVCFQOKGjCAAQOG65+77Cy0ywwR3W3ybTbZJI1nKWSR6/VK6/WaDocDpWlqof7Up9OJVqsVua5LPzYyz3N2+Hg8GIHjIAgq+P1+Z26z2bDteDxWnQKaz+cEI6TValGv16t1iOjA3m43Zj3Po8Fg8OoUUJZlJNFFUcQOm80mHzI/2+2W0wXrOA5zcRwzotM3HQIaDocUhqHpR+/3+z0tl0v+Ryaj0Yja7ba2s1NJWSJMkuQF0nS5weWLxYJVuHwymXBxTEbhB5C8S7/ftzoUVi5HhKj2uyhUtSgK1iMVeZd3EP94x8vlwibf92uLB6Pa7XYM4WN7QwHQZiKfLm/MZrOnpC4HsCIS8ynw7tPp1ET0vtvtMitdouocgkafYkJEzuezbCsrsjVZLlSF+lfIANjsph4jLfLRqUDfrgq9ZpNOp6NNda2jjeUGNRBRtorjMsyxCJyaB0WPFTNvdoNChVE9U9CvmKr36NDsZvQ4g4vG4zFJ5aH7BYMAsaH2qs0LAAAAAElFTkSuQmCC);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: 1.3125em 1em;
+    color: #888;
+    margin: 3em 0 1.5em;
+    padding: 0 0 0 2.0625em;
+  }
+
+  .formatted blockquote:first-child {
+    margin-top: 1em;
+  }
+
+  .formatted img,
+  .formatted object,
+  .formatted video {
+    margin-bottom: 1.5em;
+    max-width: 100%;
+  }
+
+  .formatted img.G5 {
+    max-width: 48.75em;
+  }
+
+  .formatted img.G6 {
+    max-width: 58.75em;
+  }
+
+  .formatted object,
+  .formatted video {
+    width: 100% !important;
+  }
+
+  .formatted ol {
+    list-style: outside decimal;
+  }
+
+  .formatted ul {
+    list-style: outside disc;
+    padding-left: 2em;
+  }
+
+  .formatted li {
+    margin-bottom: 1em;
+  }
+
+  .formatted p code {
+    background: #fafafa;
+    border: 1px solid #f0f0f0;
+    font-size: 90%;
+    display: inline-block;
+    margin: 0;
+    padding: 0 5px;
+  }
+
+  pre {
+    background: #fafafa;
+    border: 1px solid #f0f0f0;
+    box-sizing: border-box;
+    font-size: 90%;
+    padding: 10px;
+    width: 100%;
+  }
+
+  .formatted cite {
+    font: normal italic 400 87.5%/1.71428571em Andada, Georgia, Serif;
+    text-align: right;
+  }
+
+  .formatted hr {
+    display: none;
+  }
+
+  .formatted .aside-block {
+    float: left;
+    font: normal normal normal 75%/1.5em arial, sans-serif;
+    margin-left: -26.6667em;
+    width: 25.1667em;
+  }
+
+  .formatted h4 {
+    font-weight: bold;
+  }
+
+  .index .content .G6 {
+    background-position: 0 100%;
+    margin-bottom: 2.5em;
+    padding-bottom: 2.5em;
+  }
+
+  .index .content .G6 img {
+    margin-bottom: 1.5em;
+  }
+
+  .index .content .G6 h1 {
+    color: #c00;
+    margin: 0 !important;
+  }
+
+  .index .content .G6 h2 {
+    font-size: 160%;
+    line-height: 1.3334em;
+    margin: 0 0 0.5em !important;
+  }
+
+  .index .content .G6 .formatted {
+    column-count: 3;
+    column-gap: 1.125em;
+    -moz-column-count: 3;
+    -moz-column-gap: 18px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 1.125em;
+  }
+
+  .Profile .formatted time {
+    display: block;
+    font-size: 0.8em;
+    opacity: 0.6;
+    margin-top: 5px;
+  }
+}
+
+.footerOne .G1 {
+  float: right;
+}
+
+@media all and (max-width: 775px) {
+  body {
+    font-size: 93%;
+  }
+
+  header .G3 {
+    width: 21em;
+  }
+
+  header .G3 .G1 {
+    width: 6em;
+  }
+
+  .screen > header h1 a {
+    height: 110px;
+    max-width: 100%;
+  }
+
+  .screen {
+    width: auto;
+    padding: 1em;
+  }
+
+  .content .G1,
+  .content .G2,
+  .content .G3,
+  .content .G4,
+  .content .G5,
+  .content .G6 {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .content > section > header > form input[type="text"] {
+    width: 8.875em;
+  }
+
+  footer > nav > ul > li {
+    margin-bottom: 2em;
+  }
+
+  .footerOne .G1 {
+    float: left;
+    margin-right: 2em;
+    width: auto;
+  }
+
+  .footerTwo li:last-child {
+    float: none;
+    clear: left;
+    margin-left: 0;
+  }
+}
+
+@media all and (max-width: 615px) {
+  header {
+    position: relative;
+  }
+
+  header nav select {
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 0.3em;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 50px;
+    background: #eee;
+    background: -moz-linear-gradient(top, #f7f7f7, #e6e6e6);
+    background: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#f7f7f7),
+      to(#e6e6e6)
+    );
+    border: solid 0.1em #666;
+    border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    font-size: 75%;
+    font-weight: 700;
+    height: 2em;
+    padding: 0 0.5em;
+    text-shadow: #f7f7f7 0 0.1em 0;
+  }
+}
+
+@media print {
+  header ul,
+  footer {
+    display: none !important;
+  }
+
+  body {
+    border-top: none !important;
+    font-size: 75% !important;
+  }
+
+  header h1 a {
+    background-image: none !important;
+    text-indent: 0 !important;
+    font-size: 200% !important;
+    font-weight: bold !important;
+    width: auto !important;
+    height: auto !important;
+  }
+
+  header h1 {
+    margin-bottom: 0 !important;
+  }
+
+  .screen > header {
+    background-image: none !important;
+  }
+
+  .content {
+    margin-top: 0 !important;
+  }
+
+  .content h2 {
+    margin-bottom: 1em !important;
+    margin-top: 1em !important;
+  }
+
+  address,
+  blockquote,
+  caption,
+  cite,
+  code,
+  dl,
+  figcaption,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  label,
+  legend,
+  ol,
+  p,
+  pre,
+  ul,
+  table {
+    margin: 0 0 1.25em !important;
+  }
+}

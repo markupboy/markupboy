@@ -1,12 +1,27 @@
-# Ignore bundler config
-/.bundle
+# thumbmails
+_thumbs
 
-# Ignore the build and directory
-/build
+# build output
+dist/
 
-/node_modules
-/.tmp
+# generated types
+.astro/
 
-local.env
+# dependencies
+node_modules/
 
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
 .DS_Store
+
+# jetbrains setting folder
+.idea/

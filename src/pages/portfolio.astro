@@ -1,0 +1,30 @@
+---
+import { format } from 'date-fns';
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+const posts = await getCollection('portfolio');
+posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+
+<Layout title="Portfolio">
+  <section class="GR G4">
+    <dl class="contains-articles">
+      {
+        posts.map(async (post) =>  {
+          return (
+            <dt>
+              <time class="date">
+                {format(post.data.date, 'MMMM dd, yyyy')}
+              </time>
+            </dt>
+            <dd>
+              <div set:html={post.rendered?.html} />
+            </dd>
+          )
+        }
+      )
+    }
+    </dl>
+  </section>  
+</Layout>  
+

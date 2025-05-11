@@ -1,0 +1,28 @@
+---
+import Article from '../components/Article.astro'
+import Layout from '../layouts/Layout.astro';
+const { posts, title, path } = Astro.props
+---
+
+<Layout title={title}>
+  <section class="G4 GR">
+    <header>
+      <h1>{title}</h1>
+    </header>
+    <dl class="contains-articles">
+      {
+        posts.map(async (post: any  ) =>  {
+          return (
+            <Article  
+              title={post.data.title} 
+              body={post.rendered?.html}
+              url={post.data.external_url}
+              deeplink=`/${path}/${post.id}`
+            />
+          )
+        }
+      )
+    }
+    </dl>
+  </section>
+</Layout>

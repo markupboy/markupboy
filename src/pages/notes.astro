@@ -1,0 +1,28 @@
+---
+import Article from '../components/Article.astro'
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+const posts = await getCollection('blog');
+posts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+
+<Layout title="Links">
+  <section class="G4 GR">
+    <h class="HSC">Latest Notes</h>
+    <dl class="contains-articles">
+      {
+        posts.map(async (post) =>  {
+          return (
+          <Article  
+              title={post.data.title} 
+              url={post.data.external_url} 
+              body={post.rendered?.html}
+              deeplink={post.id}
+            />
+          )
+        }
+      )
+    }
+    </dl>
+  </section>
+</Layout>

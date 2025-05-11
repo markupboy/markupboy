@@ -1,0 +1,18 @@
+---
+import ResumeContent from '../components/ResumeContent.md';
+import Layout from '../layouts/Layout.astro';
+import profilePicture from '../assets/images/profile.jpg';
+---
+
+<Layout bodyClass="Profile" contentClass="formatted">
+  <p>
+    <img src={profilePicture.src}>
+  </p>
+
+  <p>Hi. I'm Blake!</p>
+
+  <ResumeContent />
+</Layout>
+
+
+
