@@ -7,7 +7,7 @@ Hi, I'm Blake, and I'm a VP of Engineering. You might work with me, or for me, o
 
 ## My goal
 
-My goal as a leader is to empower those I work for: the people I manage. The work I do is _for_ you, not the other way around. My job is to provide clarity, context, priority, and feedback. I don't want to be here solely to tell you what to do. I'm here to help enable you to do whatever it is that you do best.
+My goal as a leader is to delight and enable customers and to solve their problems by empowering those I work for: the people I manage. The work I do is _for_ you, not the other way around. My job is to provide strategy, clarity, context, priority, and feedback. I don't want to be here solely to tell you what to do. I'm here to help enable you to do whatever it is that you do best.
 
 ## My North Star principles
 

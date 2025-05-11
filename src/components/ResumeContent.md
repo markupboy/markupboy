@@ -1,10 +1,14 @@
-I'm an **executive product engineering leader**. My leadership approach is one that's customer-first from start to finish and aimed at guiding teams, leaders, and engineers along a path to be able to solve our customers' toughest challenges with autonomy and velocity.
+I'm an **executive product engineering leader**. My approach to leadership is customer-first from start to finish and aimed at guiding teams, leaders, and engineers along a path to be able to solve our customers' toughest challenges with autonomy and velocity.
 
-Today, I'm a Senior Director of Engineering for the CI/CD Engine Division at [CircleCI](http://www.circleci.com), working remotely out of my home in Longmont, CO. I'm proud to lead a division of talented engineering teams that are responsible for a critical piece of thousands of businesses development workflows around the world. Outside of work, I'm a husband and a dad, a devoted Formula 1 fan, and a lifelong gamer.
+Today, I'm the VP of Engineering for [Prefect](https://www.prefect.io/), working remotely out of my home in Longmont, CO. I'm proud to lead an organization of talented engineering teams that are responsible for a critical piece of thousands of businesses data workflows around the world. Outside of work, I'm a husband and a dad, a devoted Formula 1 fan, and a lifelong gamer.
 
 ## Experience
 
-### Senior Director, Engineering, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), July 2022 - Present</time>
+### VP, Engineering, [Prefect](https://www.prefect.io) <time>Washington, DC (Remote), April 2024 - Present</time>
+
+More to come&hellip;
+
+### Senior Director, Engineering, [CircleCI](http://www.circleci.com) <time>San Francisco, CA (Remote), July 2022 - April 2024</time>
 
 #### Director, Engineering, [CircleCI](http://www.circleci.com) <time>January 2021 - July 2022</time>
 
