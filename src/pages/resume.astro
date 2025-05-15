@@ -1,12 +1,10 @@
 ---
 import ResumeContent from '../content/Resume.md';
+import ResumeContactInfo from '../content/ResumeContactInfo.md';
 import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout bodyClass="Profile" contentClass="formatted">
-  <p>
-    blake@blake-walters.com
-  </p>
-
+  <ResumeContactInfo />
   <ResumeContent />
 </Layout>

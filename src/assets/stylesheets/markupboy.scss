@@ -927,6 +927,10 @@
   }
 }
 
+div.page-break {
+  display: none !important;
+}
+
 @media print {
   header ul,
   footer {
@@ -985,5 +989,17 @@
   ul,
   table {
     margin: 0 0 1.25em !important;
+  }
+
+  h3 {
+    margin-bottom: 0.75em !important;
+  }
+
+  li {
+    margin-bottom: 0.25em !important;
+  }
+
+  ul + h3 {
+    margin-top: 2em !important;
   }
 }
