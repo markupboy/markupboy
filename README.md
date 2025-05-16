@@ -1,4 +1,4 @@
-This is the raw source to [markupboy.com](http://markupboy.com) built with Middleman and Webpack.
+This is the raw source to [markupboy.com](http://markupboy.com) built with [Astro](https://astro.build/).
 
 ## Get this going
 
