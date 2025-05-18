@@ -1,4 +1,4 @@
-I'm an executive product engineering leader with a customer-first, outcome-driven approach. Experienced in scaling engineering teams from seed to growth stages and driving strategic alignment between product development and business goals. Proven success leading engineering through hyper-growth, platform transitions, and high-velocity execution. Passionate about fostering cultures of autonomy, technical excellence, and accountability.
+I'm an executive product engineering leader with a customer-first, outcome-driven approach. Experienced in scaling engineering teams from seed to growth stages and driving strategic alignment between product development and business goals. Proven success leading engineering through hyper-growth, technology and platform transitions, and high-velocity execution. Passionate about fostering cultures of autonomy, accountability, and technical excellence.
 
 ---
 
@@ -20,7 +20,7 @@ I'm an executive product engineering leader with a customer-first, outcome-drive
 
 - Production readiness and reliability at scale (99.9%+ uptime)
 - CI/CD automation, infrastructure cost optimization, DevOps practices
-- Cloud-native architecture (AWS, GCP, Azure), microservices, and security
+- Cloud-native architecture, microservices, and security
 
 ### Technology Leadership
 
@@ -34,22 +34,22 @@ I'm an executive product engineering leader with a customer-first, outcome-drive
 
 ### VP, Engineering - [Prefect](https://www.prefect.io) <time>_Remote • April 2024 - Present_</time>
 
-Led engineering through a phase of high growth and operational transformation for Prefect, a data workflow orchestration platform serving thousands of global customers.
+Led engineering through a phase of growth and operational transformation for Prefect, a data workflow orchestration platform serving thousands of global customers.
 
-- Directed cross-functional teams (30+ ICs, managers, and directors) across platform, product, and occasionally support and sales engineering
-- Delivered key initiatives including Prefect OSS 3.0, asset tracking and data lineage, and a self-serve product-led growth platform
+- Directed cross-functional teams (30+ ICs, managers, and directors) across product, platform, and at times support and sales engineering
+- Delivered key initiatives including Prefect OSS 3.0, asset tracking and data lineage, and a self-serve product-led growth SaaS platform
 - Transitioned engineering org from ad hoc development to a disciplined agile model with strong accountability and predictability
 - Restructured team composition and roles to align with evolving product needs and company strategy
-- Achieved 99.9%+ uptime while reducing infrastructure costs via architectural modernization
+- Achieved 99.9%+ uptime while reducing infrastructure costs via architectural modernization and technical rigor
 
 ### Senior Director, Engineering - [CircleCI](https://www.circleci.com) <time>_Remote • July 2022 - April 2024_</time> <time>**Director, Engineering** • _Jan 2021 - Jul 2022_</time> <time>**Senior Engineering Manager** • _Jan 2019 - Jan 2021_</time>
 
-Scaled CircleCI’s engineering org from 50 to 250+ team members during a hyper-growth phase.
+Scaled CircleCI’s engineering org from 50 to 250+ team members during a hyper-growth phase and turbulent, post-pandemic market.
 
 - Built and led domains across core product engineering, growth, analytics, developer experience, and AI/ML product lines
 - Owned initiatives including a full UI re-platform, GitLab integration, and the launch of the Insights data product
 - Improved platform security, reliability, and observability; modernized CircleCI’s BI infrastructure
-- Directed 8 engineering teams (80+ team members) including ICs, managers, and directors
+- Directed as many as 8 engineering teams (80+ team members) including ICs, managers, and directors
 - Oversaw acquisition and integration of PoniCode, launching a VSCode extension with 80,000+ downloads
 
 ### Engineering Manager - [InVisionApp](https://www.invisionapp.com) <time>_Remote • Mar 2017 - Jan 2019_</time>
