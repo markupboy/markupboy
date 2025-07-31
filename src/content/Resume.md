@@ -1,4 +1,4 @@
-I'm a product engineering leader with a customer-first, outcome-driven approach. Experienced in scaling engineering teams, I've successfully led organizations through hyper-growth, technology and platform transitions, and high-velocity execution by driving strategic alignment between product development and business goals.  I'm passionate about fostering cultures of autonomy, accountability, and technical excellence.
+I'm a product engineering leader with a customer-first, outcome-driven approach. Experienced in scaling engineering teams, I've successfully led organizations through hyper-growth, technology and platform transitions, and high-velocity execution by driving strategic alignment between product development and business goals. I'm passionate about fostering cultures of autonomy, accountability, and technical excellence.
 
 ---
 
