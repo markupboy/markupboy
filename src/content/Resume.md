@@ -12,7 +12,7 @@ I'm an executive product engineering leader with a customer-first, outcome-drive
 
 ### Engineering & Product Strategy
 
-- Customer-centric product development across platform, growth, and data domains
+- Customer-centric product development across core engineering, platform, growth, and data domains
 - Agile process design, roadmap planning, and executional rigor
 - Bridging product, design, and engineering with business objectives
 
@@ -20,7 +20,7 @@ I'm an executive product engineering leader with a customer-first, outcome-drive
 
 - Production readiness and reliability at scale (99.9%+ uptime)
 - CI/CD automation, infrastructure cost optimization, DevOps practices
-- Cloud-native architecture, microservices, and security
+- Cloud-native architecture, microservices, security, and compliance
 
 ### Technology Leadership
 
@@ -32,14 +32,14 @@ I'm an executive product engineering leader with a customer-first, outcome-drive
 
 ## Experience
 
-### Chief of Staff, Head of Engineering - [Prefect](https://www.prefect.io) <time>_Remote • August 2025 - Present_</time> <time>**VP, Engineering** • _Jan 2024 - Jul 2025_</time> 
+### Vice President, Engineering - [Prefect](https://www.prefect.io) <time>_Remote • April 2024 - Present_</time>
 
-Led engineering and the organization at large through a phase of growth and operational transformation for Prefect, a data workflow orchestration platform serving thousands of global customers.
+Led engineering and the organization at large through a phase of growth and operational transformation - from growth focused scaling to profitability and
 
-- Directed cross-functional teams (30+ ICs, managers, and directors) across product, platform, and at times support and sales engineering
-- Organized and lead a team of 10 managers, directors, and other people leaders to effectively execute on organization-wide vision and initiatives. 
-- Maintained high compliance and operational standards, achieving a fully unqualified SOC 2 Type II audit 
-- Delivered key initiatives including Prefect OSS 3.0, asset tracking and data lineage, [FastMCP](https://gofastmcp.com) it's SaaS counterpart [FastMCP.cloud](https://fastmcp.cloud) and a self-serve product-led growth SaaS platform
+- Directed cross-functional teams (30+ ICs, managers, and directors) across product, platform, and at times technical support and sales engineering
+- Organized and lead a team of 10 managers, directors, and other people leaders to effectively execute on organization-wide vision and initiatives.
+- Maintained high compliance and operational standards, achieving a fully unqualified SOC 2 Type II audit
+- Delivered key initiatives including Prefect OSS 3.0, asset tracking and data lineage, a fully revamped self-serve offering netting $1mil+ in ARR in 6 months, and AI driven [FastMCP](https://gofastmcp.com) and its PaaS counterpart [FastMCP.cloud](https://fastmcp.cloud)
 - Transitioned engineering org from ad hoc development to a disciplined agile model with strong accountability and predictability
 - Restructured team composition and roles to align with evolving product needs and company strategy
 - Achieved 99.9%+ uptime while reducing infrastructure costs via architectural modernization and technical rigor
