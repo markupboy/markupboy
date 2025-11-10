@@ -34,12 +34,12 @@ I'm an executive product engineering leader with a customer-first, outcome-drive
 
 ### Vice President, Engineering - [Prefect](https://www.prefect.io) <time>_Remote • April 2024 - Present_</time>
 
-Led engineering and the organization at large through a phase of growth and operational transformation - from growth focused scaling to profitability and
+Led engineering through a phase of operational transformation, shifting focus from growth-stage scaling to sustainable profitability and operational excellence.
 
-- Directed cross-functional teams (30+ ICs, managers, and directors) across product, platform, and at times technical support and sales engineering
-- Organized and lead a team of 10 managers, directors, and other people leaders to effectively execute on organization-wide vision and initiatives.
-- Maintained high compliance and operational standards, achieving a fully unqualified SOC 2 Type II audit
-- Delivered key initiatives including Prefect OSS 3.0, asset tracking and data lineage, a fully revamped self-serve offering netting $1mil+ in ARR in 6 months, and AI driven [FastMCP](https://gofastmcp.com) and its PaaS counterpart [FastMCP.cloud](https://fastmcp.cloud)
+- Directed cross-functional teams (30+ ICs, managers, and directors) across product and platform engineering, sales engineering, and technical support
+- Organized and led a team of 10 managers, directors, and other people leaders to effectively execute on organization-wide vision and initiatives.
+- Maintained high compliance and operational standards, achieving a clean SOC 2 Type II audit with no qualifications
+- Delivered key initiatives including Prefect OSS 3.0, asset tracking and data lineage, AI-driven [FastMCP](https://gofastmcp.com) and [FastMCP.cloud](https://fastmcp.cloud) PaaS, and a revamped self-serve offering that generated $1M+ in ARR within 6 months
 - Transitioned engineering org from ad hoc development to a disciplined agile model with strong accountability and predictability
 - Restructured team composition and roles to align with evolving product needs and company strategy
 - Achieved 99.9%+ uptime while reducing infrastructure costs via architectural modernization and technical rigor
