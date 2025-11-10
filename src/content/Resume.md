@@ -46,7 +46,7 @@ Led engineering through a phase of operational transformation, shifting focus fr
 
 ### Senior Director, Engineering - [CircleCI](https://www.circleci.com) <time>_Remote • July 2022 - April 2024_</time> <time>**Director, Engineering** • _Jan 2021 - Jul 2022_</time> <time>**Senior Engineering Manager** • _Jan 2019 - Jan 2021_</time>
 
-Scaled CircleCI’s engineering org from 50 to 250+ team members during a hyper-growth phase and turbulent, post-pandemic market.
+Scaled CircleCI's engineering org from 50 to 250+ team members during a hyper-growth phase and turbulent, post-pandemic market.
 
 - Built and led domains across core product engineering, growth, analytics, developer experience, and AI/ML product lines
 - Owned initiatives including a full UI re-platform, GitLab integration, and the launch of the Insights data product
@@ -58,13 +58,13 @@ Scaled CircleCI’s engineering org from 50 to 250+ team members during a hyper-
 
 Led a full-stack engineering team building collaboration and conversation tools within the InVision suite. Provided product and technical leadership, agile coaching, and cross-functional coordination. Mentored engineers and helped establish a performance-driven team culture.
 
-### Senior Engineer - [HashiCorp](https://www.hashicorp.com) <time>_Remote • Mar 2015 - Mar 2017_</time>
+### Senior Software Engineer - [HashiCorp](https://www.hashicorp.com) <time>_Remote • Mar 2015 - Mar 2017_</time>
 
 Employee #11 and lead front-end engineer across core enterprise products: Terraform, Vault, Nomad, and Consul. Drove the development of rich front-end interfaces for both open-source and enterprise offerings, shaping UX patterns and technical foundations for the growing engineering org.
 
 ### Earlier Roles
 
-- **Software Engineer** - [Big Cartel](https://www.bigcartel.com)
+- **Senior Software Engineer** - [Big Cartel](https://www.bigcartel.com)
 - **Senior Software Engineer** - [Viget Labs](https://www.viget.com)
 - **Staff Interactive Engineer** - [Crispin Porter + Bogusky](https://www.crispin.com/)
 
