@@ -1,4 +1,4 @@
-I'm a product engineering leader with a customer-first, outcome-driven approach. Experienced in scaling engineering teams, I've successfully led organization through hyper-growth, technology and platform transitions, and high-velocity execution by driving strategic alignment between product development and business goals.  I'm passionate about fostering cultures of autonomy, accountability, and technical excellence.
+I'm a product engineering leader with a customer-first, outcome-driven approach. Experienced in scaling engineering teams, I've successfully led organizations through hyper-growth, technology and platform transitions, and high-velocity execution by driving strategic alignment between product development and business goals.  I'm passionate about fostering cultures of autonomy, accountability, and technical excellence.
 
 ---
 
@@ -36,7 +36,7 @@ I'm a product engineering leader with a customer-first, outcome-driven approach.
 
 Led engineering through a phase of operational transformation, shifting focus from growth-stage scaling to sustainable profitability and operational excellence.
 
-- Directed an orgization of more than 30 ICs, managers, and directors across product and platform engineering, sales engineering, and technical support
+- Directed an organization of more than 30 ICs, managers, and directors across product and platform engineering, sales engineering, and technical support
 - Launched key initiatives including a major release to Prefect's flagship open source product, a full suite of data asset tracking and lineage features for cloud users, and a revamped self-serve offering that generated $1M+ in ARR within 6 months
 - Served as general manager for Prefect's Customer Managed product - a self-hosted enterpise offering of Prefect's Cloud platform, accounting for 15% of total annual revenue
 - Organized a team of 10 cross-functional people leaders to effectively communicate and execute on organization-wide directives
