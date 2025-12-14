@@ -1,4 +1,4 @@
-I'm a product engineering leader with a customer-first, outcome-driven approach, experienced in scaling engineering teams from seed through growth stages and beyond and driving strategic alignment between product development and business goals. I've successfully lead engineering teams and organizations through hyper-growth, technology and platform transitions, and high-velocity execution. I'm passionate about fostering cultures of autonomy, accountability, and technical excellence.
+I'm a product engineering leader with a customer-first, outcome-driven approach. Experienced in scaling engineering teams, I've successfully led organization through hyper-growth, technology and platform transitions, and high-velocity execution by driving strategic alignment between product development and business goals.  I'm passionate about fostering cultures of autonomy, accountability, and technical excellence.
 
 ---
 
@@ -37,7 +37,7 @@ I'm a product engineering leader with a customer-first, outcome-driven approach,
 Led engineering through a phase of operational transformation, shifting focus from growth-stage scaling to sustainable profitability and operational excellence.
 
 - Directed cross-functional teams (30+ ICs, managers, and directors) across product and platform engineering, sales engineering, and technical support
-- Launched key initiatives including a major releases to Prefect's flagship open source product, a full suite of data asset tracking and lineage features for cloud users, and a revamped self-serve offering that generated $1M+ in ARR within 6 months
+- Launched key initiatives including a major release to Prefect's flagship open source product, a full suite of data asset tracking and lineage features for cloud users, and a revamped self-serve offering that generated $1M+ in ARR within 6 months
 - Organized and led a team of 10 managers, directors, and other people leaders to effectively execute on organization-wide vision and initiatives.
 - Maintained high compliance and operational standards, achieving an unqualified SOC 2 Type II
 - Transitioned engineering org from ad hoc development to a disciplined agile model with strong accountability and predictability
