@@ -18,7 +18,7 @@ I'm a product engineering leader with a customer-first, outcome-driven approach.
 
 ### Operational Excellence
 
-- Production readiness and reliability at scale (99.9%+ uptime)
+- Production readiness and reliability at scale
 - CI/CD automation, infrastructure cost optimization, DevOps practices
 - Cloud-native architecture, microservices, security, and compliance
 
