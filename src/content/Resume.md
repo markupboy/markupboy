@@ -38,17 +38,17 @@ Led engineering through a phase of operational transformation, shifting focus fr
 
 - Directed cross-functional teams (30+ ICs, managers, and directors) across product and platform engineering, sales engineering, and technical support
 - Organized and led a team of 10 managers, directors, and other people leaders to effectively execute on organization-wide vision and initiatives.
-- Maintained high compliance and operational standards, achieving a clean SOC 2 Type II audit with no qualifications
-- Delivered key initiatives including Prefect OSS 3.0, asset tracking and data lineage, AI-driven [FastMCP](https://gofastmcp.com) and [FastMCP.cloud](https://fastmcp.cloud) PaaS, and a revamped self-serve offering that generated $1M+ in ARR within 6 months
+- Maintained high compliance and operational standards, achieving an unqualified SOC 2 Type II
+- Delivered key initiatives including a major releases to Prefect's flagship open source product, a full suite of data asset tracking and lineage features for cloud users, and a revamped self-serve offering that generated $1M+ in ARR within 6 months
 - Transitioned engineering org from ad hoc development to a disciplined agile model with strong accountability and predictability
-- Restructured team composition and roles to align with evolving product needs and company strategy
 - Achieved 99.9%+ uptime while reducing infrastructure costs via architectural modernization and technical rigor
 
 ### Senior Director, Engineering - [CircleCI](https://www.circleci.com) <time>_Remote • July 2022 - April 2024_</time> <time>**Director, Engineering** • _Jan 2021 - Jul 2022_</time> <time>**Senior Engineering Manager** • _Jan 2019 - Jan 2021_</time>
 
 Scaled CircleCI's engineering org from 50 to 250+ team members during a hyper-growth phase and turbulent, post-pandemic market.
 
-- Built and led domains across core product engineering, growth, analytics, developer experience, and AI/ML product lines
+- Built and led domains across core product engineering, product growth, data and analytics, developer experience, and AI/ML product lines
+- Modernized CircleCI's data practice through the creation of the data engineering organization - comprised of data platform engineering, data product engineering, and analytics engineering
 - Owned initiatives including a full UI re-platform, GitLab integration, and the launch of the Insights data product
 - Improved platform security, reliability, and observability; modernized CircleCI’s BI infrastructure
 - Directed as many as 8 engineering teams (80+ team members) including ICs, managers, and directors
@@ -74,5 +74,3 @@ Employee #11 and lead front-end engineer across core enterprise products: Terraf
 
 **University of Missouri - Columbia**  
 Bachelor of Science in Computer Science, Minor in Mathematics
-
-<hr/>
