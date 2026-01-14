@@ -932,6 +932,14 @@ div.page-break {
 }
 
 @media print {
+  .no-print {
+    display: none !important;
+  }
+
+  .new-page {
+    break-before: page;
+  }
+
   header ul,
   footer {
     display: none !important;

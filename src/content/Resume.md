@@ -1,6 +1,8 @@
-I'm a product engineering leader with a customer-first, outcome-driven approach. Experienced in scaling engineering teams, I've successfully led organizations through hyper-growth, technology and platform transitions, and high-velocity execution by driving strategic alignment between product development and business goals. I'm passionate about fostering cultures of autonomy, accountability, and technical excellence.
+I'm an engineering leader with a track record of building teams and shipping initiatives that drive activation, conversion, and expansion. I've scaled organizations from 50 to 250+ engineers, led PLG initiatives generating sizeable increases in revenue, and built growth practices from the ground up—all while staying close to product outcomes.
 
 ---
+
+<div class="no-print">
 
 ## Core Competencies
 
@@ -30,6 +32,8 @@ I'm a product engineering leader with a customer-first, outcome-driven approach.
 
 <hr/>
 
+</div>
+
 ## Experience
 
 ### Vice President, Engineering - [Prefect](https://www.prefect.io) <time>_Remote • April 2024 - Present_</time>
@@ -37,37 +41,40 @@ I'm a product engineering leader with a customer-first, outcome-driven approach.
 Led engineering through a phase of operational transformation, shifting focus from growth-stage scaling to sustainable profitability and operational excellence.
 
 - Directed an organization of more than 30 ICs, managers, and directors across product and platform engineering, sales engineering, and technical support
-- Launched key initiatives including a major release to Prefect's flagship open source product, a full suite of data asset tracking and lineage features for cloud users, and a revamped self-serve offering that generated $1M+ in ARR within 6 months
-- Served as general manager for Prefect's Customer Managed product - a self-hosted enterpise offering of Prefect's Cloud platform, accounting for 15% of total annual revenue
-- Organized a team of 10 cross-functional people leaders to effectively communicate and execute on organization-wide directives
-- Maintained high compliance and operational standards, achieving an unqualified SOC 2 Type II
-- Transitioned engineering org from ad hoc development to a disciplined agile model with strong accountability and predictability
-- Achieved 99.9%+ uptime while reducing infrastructure costs via architectural modernization and technical rigor
+- Transitioned engineering organization from ad hoc development to a disciplined delivery model with strong accountability and predictability
+- Turned around product reliability, from multiple outages per week to 99.9%+ uptime while reducing infrastructure costs via architectural modernization and technical rigor
+- Led the implementation and launch of Prefect's PLG self-serve offering that generated $1M+ in ARR (7% of total ARR) within 6 months
+- Served as executive manager for Prefect's Customer Managed product - an enterprise-focused, high margin offering of Prefect's Cloud platform, accounting for 15% of total annual revenue
+- Maintained high compliance and operational standards, achieving an unqualified SOC 2 Type II report
 
 ### Senior Director, Engineering - [CircleCI](https://www.circleci.com) <time>_Remote • July 2022 - April 2024_</time> <time>**Director, Engineering** • _Jan 2021 - Jul 2022_</time> <time>**Senior Engineering Manager** • _Jan 2019 - Jan 2021_</time>
 
-Scaled CircleCI's engineering org from 50 to 250+ team members during a hyper-growth phase and turbulent, post-pandemic market.
+Scaled CircleCI's engineering organization from 50 to 250+ team members during a hyper-growth phase and turbulent, post-pandemic market.
 
-- Built and led domains across core product engineering, product growth, data and analytics, developer experience, and AI/ML product lines
-- Modernized CircleCI's data practice through the creation of the data engineering organization - comprised of data platform engineering, data product engineering, and analytics engineering
-- Owned initiatives including a full UI re-platform, GitLab integration, and the launch of the Insights data product
-- Improved platform security, reliability, and observability; modernized CircleCI’s BI infrastructure
-- Directed as many as 8 engineering teams (80+ team members) including ICs, managers, and directors
-- Oversaw acquisition and integration of PoniCode, launching a VSCode extension with 80,000+ downloads
+- Built and led domains across product growth, data and analytics, developer experience, AI/ML, and core application product lines
+- Directed as many as 8 engineering teams totaling more than 80 reports including ICs, managers, and directors
+- Grew the data engineering team from 3 engineers to a 40-person organization spanning data platform, data product, AI/ML, and analytics engineering
+- Led replatforming from a hand-rolled RDS data warehouse to a modern stack (Snowflake, Airflow, dbt, Looker), significantly improving data confidence and reducing time to analysis from days to hours
+- Owned initiatives including a full UI re-platform and redesign, a net-new GitLab integration, and the launch of the Insights data product expanding CircleCI into the AI/ML space with features like flaky test detection and self-healing pipelines
+- Led platform security, reliability, and observability improvements that were critical to CircleCI's recovery from a major security incident
+- Oversaw the acquisition and integration of the startup PoniCode - directly leading to the launch of CircleCI's VSCode extension with nearly 100,000 downloads
 
-### Engineering Manager - [InVisionApp](https://www.invisionapp.com) <time>_Remote • Mar 2017 - Jan 2019_</time>
+<div class="new-page"></div>
 
-Led a full-stack engineering team building collaboration and conversation tools within the InVision suite. Provided product and technical leadership, agile coaching, and cross-functional coordination. Mentored engineers and helped establish a performance-driven team culture.
+### Engineering Manager - [InVisionApp](https://www.invisionapp.com) <time>_Remote • Sep 2017 - Jan 2019_</time> <time>**Senior Software Engineer** • _Mar 2017 - Sep 2017_</time>
+
+- Led a 5-engineer growth engineering team, running continuous experiments on signup activation and in-product engagement
+- Managed the Conversations team - a full-stack product engineering team that built and owned the commenting infrastructure powering collaboration across the full InVision suite
 
 ### Senior Software Engineer - [HashiCorp](https://www.hashicorp.com) <time>_Remote • Mar 2015 - Mar 2017_</time>
 
-Employee #11 and lead front-end engineer across core enterprise products: Terraform, Vault, Nomad, and Consul. Drove the development of rich front-end interfaces for both open-source and enterprise offerings, shaping UX patterns and technical foundations for the growing engineering org.
+Employee #11 and lead front-end engineer across HashiCorp's entire suite of products: Terraform, Vault, Nomad, and Consul. Drove the development of rich front-end interfaces for both open-source and enterprise offerings, shaping UX patterns and technical foundations for the growing engineering org.
 
 ### Earlier Roles
 
-- **Senior Software Engineer** - [Big Cartel](https://www.bigcartel.com)
-- **Senior Software Engineer** - [Viget Labs](https://www.viget.com)
-- **Staff Interactive Engineer** - [Crispin Porter + Bogusky](https://www.crispin.com/)
+- **Senior Software Engineer** - [Big Cartel](https://www.bigcartel.com) <time>_Remote • Oct 2012 - Mar 2015_</time>
+- **Senior Software Engineer** - [Viget Labs](https://www.viget.com) <time>_Remote • Apr 2010 - Oct 2012_</time>
+- **Staff Interactive Engineer** - [Crispin Porter + Bogusky](https://www.crispin.com/) <time>_Remote • Nov 2007 - Apr 2010_</time>
 
 <hr/>
 
