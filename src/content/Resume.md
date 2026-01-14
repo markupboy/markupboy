@@ -1,4 +1,4 @@
-I'm an engineering leader with a track record of building teams and shipping initiatives that drive activation, conversion, and expansion. I've scaled organizations from 50 to 250+ engineers, led PLG initiatives generating sizeable increases in revenue, and built growth practices from the ground up—all while staying close to product outcomes.
+I'm an engineering leader with a track record of building teams and platforms driving activation, conversion, and expansion. I've scaled organizations ranging from 3 to 250+ engineers, led PLG initiatives generating sizable increases in revenue, and built engineering standards and practices that empower teams to ship with high velocity and reliability.
 
 ---
 
@@ -36,7 +36,7 @@ I'm an engineering leader with a track record of building teams and shipping ini
 
 ## Experience
 
-### Vice President, Engineering - [Prefect](https://www.prefect.io) <time>_Remote • April 2024 - Present_</time>
+### Vice President, Engineering - [Prefect](https://www.prefect.io) <time>_Remote • April 2024 - January 2025_</time>
 
 Led engineering through a phase of operational transformation, shifting focus from growth-stage scaling to sustainable profitability and operational excellence.
 
