@@ -1,4 +1,4 @@
-I'm an engineering leader with a track record of building teams and platforms driving activation, conversion, and expansion. I've scaled organizations ranging from 3 to 250+ engineers, led PLG initiatives generating sizable increases in revenue, and built engineering standards and practices that empower teams to ship with high velocity and reliability.
+I'm a product engineering leader with a customer-first, outcome-driven approach. Experienced in scaling engineering teams, I've successfully led organizations through hyper-growth, technology and platform transitions, and high-velocity execution by driving strategic alignment between product development and business goals. I'm passionate about fostering cultures of autonomy, accountability, and technical excellence.
 
 ---
 
@@ -54,8 +54,8 @@ Scaled CircleCI's engineering organization from 50 to 250+ team members during a
 - Built and led domains across product growth, data and analytics, developer experience, AI/ML, and core application product lines
 - Directed as many as 8 engineering teams totaling more than 80 reports including ICs, managers, and directors
 - Grew the data engineering team from 3 engineers to a 40-person organization spanning data platform, data product, AI/ML, and analytics engineering
-- Led replatforming from a hand-rolled RDS data warehouse to a modern stack (Snowflake, Airflow, dbt, Looker), significantly improving data confidence and reducing time to analysis from days to hours
-- Owned initiatives including a full UI re-platform and redesign, a net-new GitLab integration, and the launch of the Insights data product expanding CircleCI into the AI/ML space with features like flaky test detection and self-healing pipelines
+- Led replatforming from a legacy, custom written data warehouse to a modern data stack (Snowflake, Airflow, dbt, Looker), significantly improving data confidence and reducing time to analysis from days to hours
+- Owned initiatives including a full UI re-platform and redesign, full GitLab integration, and the launch of the Insights data product expanding CircleCI into the AI/ML space with features like flaky test detection and self-healing pipelines
 - Led platform security, reliability, and observability improvements that were critical to CircleCI's recovery from a major security incident
 - Oversaw the acquisition and integration of the startup PoniCode - directly leading to the launch of CircleCI's VSCode extension with nearly 100,000 downloads
 
