@@ -52,9 +52,9 @@ Led engineering through a phase of operational transformation, shifting focus fr
 Scaled CircleCI's engineering organization from 50 to 250+ team members during a hyper-growth phase and turbulent, post-pandemic market.
 
 - Built and led domains across product growth, data and analytics, developer experience, AI/ML, and core application product lines
-- Directed as many as 8 engineering teams totaling more than 80 reports including ICs, managers, and directors
-- Grew the data engineering team from 3 engineers to a 40-person organization spanning data platform, data product, AI/ML, and analytics engineering
-- Led replatforming from a legacy, custom written data warehouse to a modern data stack (Snowflake, Airflow, dbt, Looker), significantly improving data confidence and reducing time to analysis from days to hours
+- Directed as many as 8 engineering teams with more than 80 reports including directors, managers, and engineers
+- Transformed the data engineering team from 3 engineers to a 40-person organization spanning data platform, data product, AI/ML, and analytics engineering
+- Led the replatforming from a legacy, custom written data warehouse to a modern data stack (Snowflake, Airflow, dbt, Looker), significantly improving data confidence and reducing time to analysis from days to hours
 - Owned initiatives including a full UI re-platform and redesign, full GitLab integration, and the launch of the Insights data product expanding CircleCI into the AI/ML space with features like flaky test detection and self-healing pipelines
 - Led platform security, reliability, and observability improvements that were critical to CircleCI's recovery from a major security incident
 - Oversaw the acquisition and integration of the startup PoniCode - directly leading to the launch of CircleCI's VSCode extension with nearly 100,000 downloads
@@ -63,8 +63,8 @@ Scaled CircleCI's engineering organization from 50 to 250+ team members during a
 
 ### Engineering Manager - [InVisionApp](https://www.invisionapp.com) <time>_Remote • Sep 2017 - Jan 2019_</time> <time>**Senior Software Engineer** • _Mar 2017 - Sep 2017_</time>
 
-- Led a 5-engineer growth engineering team, running continuous experiments on signup activation and in-product engagement
-- Managed the Conversations team - a full-stack product engineering team that built and owned the commenting infrastructure powering collaboration across the full InVision suite
+- Led a 5-engineer growth team, running continuous experiments on signup activation and in-product engagement
+- Managed the Conversations team - a full-stack product engineering team that owned the commenting interface and infrastructure powering collaboration across the full InVision suite
 
 ### Senior Software Engineer - [HashiCorp](https://www.hashicorp.com) <time>_Remote • Mar 2015 - Mar 2017_</time>
 
