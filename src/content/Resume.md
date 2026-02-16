@@ -51,7 +51,7 @@ Led engineering through a phase of operational transformation, shifting focus fr
 
 Scaled CircleCI's engineering organization from 50 to 250+ team members during a hyper-growth phase and turbulent, post-pandemic market.
 
-- Built and led domains across product growth, data and analytics, developer experience, AI/ML, and core application product lines
+- Built and led domains across AI/ML, product growth, data and analytics, developer experience, and core application product lines
 - Directed as many as 8 engineering teams with more than 80 reports including directors, managers, and engineers
 - Transformed the data engineering team from 3 engineers to a 40-person organization spanning data platform, data product, AI/ML, and analytics engineering
 - Led the replatforming from a legacy, custom written data warehouse to a modern data stack (Snowflake, Airflow, dbt, Looker), significantly improving data confidence and reducing time to analysis from days to hours
@@ -68,7 +68,7 @@ Scaled CircleCI's engineering organization from 50 to 250+ team members during a
 
 ### Senior Software Engineer - [HashiCorp](https://www.hashicorp.com) <time>_Remote • Mar 2015 - Mar 2017_</time>
 
-Employee #11 and lead front-end engineer across HashiCorp's entire suite of products: Terraform, Vault, Nomad, and Consul. Drove the development of rich front-end interfaces for both open-source and enterprise offerings, shaping UX patterns and technical foundations for the growing engineering org.
+Employee #11 and lead product engineer across HashiCorp's core suite — Terraform, Vault, Nomad, and Consul. Led end-user and enterprise SaaS development, laying the technical foundations of what became HashiCorp Cloud Platform (HCP) and establishing engineering practices that scaled with the org.
 
 ### Earlier Roles
 
