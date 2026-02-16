@@ -38,7 +38,7 @@ I'm a product engineering leader with a customer-first, outcome-driven approach.
 
 ### Vice President, Engineering - [Prefect](https://www.prefect.io) <time>_Remote • April 2024 - January 2026_</time>
 
-Led engineering through a phase of operational transformation, shifting focus from growth-stage scaling to sustainable profitability and operational excellence.
+Led engineering through a phase of foundational transformation, shifting focus from growth-stage scaling to sustainable profitability and technical excellence.
 
 - Directed an organization of more than 30 ICs, managers, and directors across product and platform engineering, sales engineering, and technical support
 - Transitioned engineering organization from ad hoc development to a disciplined delivery model with strong accountability and predictability
