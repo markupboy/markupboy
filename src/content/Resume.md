@@ -68,7 +68,7 @@ Scaled CircleCI's engineering organization from 50 to 250+ team members during a
 
 ### Senior Software Engineer - [HashiCorp](https://www.hashicorp.com) <time>_Remote • Mar 2015 - Mar 2017_</time>
 
-Employee #11 and lead product engineer across HashiCorp's core suite — Terraform, Vault, Nomad, and Consul. Led end-user and enterprise SaaS development, laying the technical foundations of what became HashiCorp Cloud Platform (HCP) and establishing engineering practices that scaled with the org.
+Employee #11 and application engineer across HashiCorp's core suite — Terraform, Vault, Nomad, and Consul. Led end-user and enterprise SaaS development, laying the technical foundations of what became HashiCorp Cloud Platform (HCP) and establishing engineering practices that scaled with the org.
 
 ### Earlier Roles
 
