@@ -73,8 +73,9 @@ Employee #11 and application engineer across HashiCorp's core suite — Terrafor
 ### Earlier Roles
 
 - **Senior Software Engineer** - [Big Cartel](https://www.bigcartel.com) <time>_Remote • Oct 2012 - Mar 2015_</time>
-- **Senior Software Engineer** - [Viget Labs](https://www.viget.com) <time>_Remote • Apr 2010 - Oct 2012_</time>
-- **Staff Interactive Engineer** - [Crispin Porter + Bogusky](https://www.crispin.com/) <time>_Remote • Nov 2007 - Apr 2010_</time>
+- **Senior Software Engineer** - [Viget Labs](https://www.viget.com) <time>_Boulder, CO • Apr 2010 - Oct 2012_</time>
+- **Staff Interactive Engineer** - [Crispin Porter + Bogusky](https://www.crispin.com/) <time>_Boulder, CO • Nov 2007 - Apr 2010_</time>
+- **Software Developer** - [Delta Systems Group](https://www.deltasys.com/) <time>_Columbia, MO • Nov 2007 - Apr 2010_</time>
 
 <hr/>
 
