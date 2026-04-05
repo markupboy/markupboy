@@ -7,7 +7,7 @@ Hi, I'm Blake, and I'm an Engineering Leader. You might work with me, or for me,
 
 ## My goal
 
-My goal as a leader is to delight and enable customers and to solve their problems by empowering those I work for: my teams. The work I do is _for_ you, not the other way around. My job is to provide strategy, clarity, context, priority, and feedback. I don't want to be here solely to tell you what to do. I'm here to help enable you to do whatever it is that you do best.
+My goal as a leader is to delight and enable customers and to solve their problems by empowering those I work for: my teams. The work I do is _for_ you, not the other way around. My job is to provide strategy, clarity, context, priority, and feedback. I don't want to be here solely to tell you what to do -- in fact, micromanaging makes me miserable. I'm here to help enable you to do whatever it is that you do best.
 
 ## My North Star principles
 
@@ -17,11 +17,15 @@ You never know if we're preventing a critical business process from completing, 
 
 ### Customers don't care how long it took to build.
 
-Whether it took 5 hours, 5 days, or 5 months, our customers don't care if something doesn't work or doesn't meet their expectations. Everything we ship to customers should be of the highest quality, regardless of the size or effort put into the work behind it.
+Whether it took 5 hours, 5 days, or 5 months, our customers don't care. If something doesn't work or doesn't meet their expectations, it's failing us and them. Everything we ship to customers should be of the highest quality, regardless of the size or effort put into the work behind it.
 
 ## My expectations
 
 I have high expectations for you the same way I hope that you have high expectations for me. I'll always strive for open, honest, and timely feedback. I assume everyone's operating with the best intentions.
+
+### Principle of Least Astonishment
+
+I believe strongly in the [Principle of Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) -- both in product design and organizational operation. It states that "a component of a system should behave in a way that most users will expect it to behave, and therefore not astonish or surprise users." If you are going to surprise someone internally or externally - whether somethings off track, late, not behaving as expected, etc - you should do so as early and clearly as possible.
 
 ### Transparency
 
@@ -29,11 +33,11 @@ I operate as transparently as possible. I try my hardest not to overwhelm with m
 
 ### 1:1s
 
-1:1s are the most important part of my week and my favorite part of my job. Expect to meet for an hour every other week at an absolute minimum. We might need more time, we'll rarely need less.
+1:1s are the most important part of my week and one of my favorite parts of my job. Expect to meet for a half-hour every week at an absolute minimum. We might need more time, we'll rarely need less.
 
 1:1s are not status update meetings (unless, of course, that's what you want to talk about). They are a chance for us to talk about everything from your career, the company, our direction, your peers, your performance, whatever. Nothing is off limits, and everything stays between us unless you specifically agree otherwise.
 
-1:1s are also our best chance for you to give your feedback. I'm going to need your help to get better at my job, so I'll always make time for your thoughts on how I can improve.
+1:1s are also our best chance for you to give your feedback. I'm going to need your help to do my best for you, so I'll always make time for your thoughts on how we can improve.
 
 We'll have an ongoing list of things to discuss at our meeting - typically a shared doc to jot down notes for next time and a running list of notes from past meetings. Feel free to add to this as well but also know that **important conversations never need to wait until our next meeting**.
 
@@ -53,9 +57,9 @@ Above all else, if you need me, reach out to me and I will do my best to get bac
 
 **I love to talk** - to you, with you, about work, about everything. I've been known to gab too much, so if I need to move on and get to the point, you won't hurt my feelings saying so.
 
-**I assume you know more than me when it comes to technical topics**. I do my best to stay on top of things. I'm a front-end engineer by trade and a full-stack engineer by necessity, but I promise you're a better engineer than I am. I'm going to lean on that to everyone's advantage.
+**I will often assume you know more than me on technical topics in your specialty**. I do my best to stay on top of things. I'm a product engineer by trade and a platform engineer by hobby, but I promise you're likely a better engineer than I. I'm going to lean on that to everyone's advantage.
 
-**I believe in the unstoppable power of shipping small**. This is as important for managing as it is development. I like to iterate on feedback in small, achievable increments. If you're surprised during a review, I consider that a complete and utter failure on my part.
+**I believe in the unstoppable power of shipping small**. This is as important for managing as it is development. I like to iterate on feedback in small, achievable increments. If you're surprised during a review, I consider that a failure on my part.
 
 **I'll give you as much detail as I think you need**. If you need more, ask for it. If I can't give it immediately, I'll make finding it my top priority.
 
