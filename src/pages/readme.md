@@ -25,7 +25,7 @@ I have high expectations for you the same way I hope that you have high expectat
 
 ### Principle of Least Astonishment
 
-I believe strongly in the [Principle of Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) -- both in product design and organizational operation. It states that "a component of a system should behave in a way that most users will expect it to behave, and therefore not astonish or surprise users." If you are going to surprise someone internally or externally - whether somethings off track, late, not behaving as expected, etc - you should do so as early and clearly as possible.
+I believe strongly in the [Principle of Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) -- both in product design and organizational operation. It states that "a component of a system should behave in a way that most users will expect it to behave, and therefore not astonish or surprise users." If you are going to surprise someone internally or externally - whether something's off track, late, not behaving as expected, etc - you should do so as early and clearly as possible.
 
 ### Transparency
 
