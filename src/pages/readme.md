@@ -47,7 +47,7 @@ Meetings need a clear purpose otherwise they're not meetings but instead just a 
 
 ### Working hours
 
-There are few things more important to me than a healthy life-work balance. I try my hardest to keep regular hours and try to not let life encroach on work or let work encroach on life. I encourage the same for the people I manage.
+There are few things more important to me than a healthy life-work balance. I try my hardest to keep regular hours and not let life encroach on work or let work encroach on life. I encourage the same for the people I manage.
 
 Sometimes, though, I can be found sitting on my couch at night in front of the TV with a laptop open. If I ping you after hours or on the weekend **do not feel compelled to respond** until business hours the next workday. More often than not, I've thought of something to ask or discuss and am sharing a note to chat about later. If it's an emergency of any kind, I'll be extremely clear of what the situation is and what's needed.
 
@@ -57,7 +57,7 @@ Above all else, if you need me, reach out to me and I will do my best to get bac
 
 **I love to talk** - to you, with you, about work, about everything. I've been known to gab too much, so if I need to move on and get to the point, you won't hurt my feelings saying so.
 
-**I will often assume you know more than me on technical topics in your specialty**. I do my best to stay on top of things. I'm a product engineer by trade and a platform engineer by hobby, but I promise you're likely a better engineer than I. I'm going to lean on that to everyone's advantage.
+**I will often assume you know more than me on technical topics in your specialty**. I do my best to stay on top of things. I'm a product engineer by trade and a platform engineer by hobby, but I promise you're likely a better engineer than I am. I'm going to lean on that to everyone's advantage.
 
 **I believe in the unstoppable power of shipping small**. This is as important for managing as it is development. I like to iterate on feedback in small, achievable increments. If you're surprised during a review, I consider that a failure on my part.
 
