@@ -36,6 +36,8 @@ I'm a product engineering leader with a customer-first, outcome-driven approach.
 
 ## Experience
 
+### Head of Engineering - [ScreenSteps](https://www.screensteps.com) <time>_Remote • April 2026 - Present_</time>
+
 ### Vice President, Engineering - [Prefect](https://www.prefect.io) <time>_Remote • April 2024 - January 2026_</time>
 
 Led engineering through a phase of foundational transformation, shifting focus from growth-stage scaling to sustainable profitability and technical excellence.
