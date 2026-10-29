@@ -1,4 +1,4 @@
-I'm a product engineering leader with a customer-first, outcome-driven approach. Experienced in scaling engineering teams, I've successfully led organizations through hyper-growth, technology and platform transitions, and high-velocity execution by driving strategic alignment between product development and business goals. I'm passionate about fostering cultures of autonomy, accountability, and technical excellence.
+I'm a CTO with a customer-first, outcome-driven approach. Experienced in scaling engineering teams, I've successfully led organizations through hyper-growth, technology and platform transitions, and high-velocity execution by driving strategic alignment between product development and business goals. I'm passionate about fostering cultures of autonomy, accountability, and technical excellence.
 
 ---
 
@@ -36,7 +36,7 @@ I'm a product engineering leader with a customer-first, outcome-driven approach.
 
 ## Experience
 
-### Head of Engineering - [ScreenSteps](https://www.screensteps.com) <time>_Remote • April 2026 - Present_</time>
+### Chief Technology Officer - [ScreenSteps](https://www.screensteps.com) <time>_Remote • October 2026 - Present_</time> <time>**Head of Engineering** • _April 2026 - October 2026_</time>
 
 ### Vice President, Engineering - [Prefect](https://www.prefect.io) <time>_Remote • April 2024 - January 2026_</time>
 
@@ -83,5 +83,5 @@ Employee #11 and application engineer across HashiCorp's core suite — Terrafor
 
 ## Education
 
-**University of Missouri - Columbia**  
+**University of Missouri - Columbia**
 Bachelor of Science in Computer Science, Minor in Mathematics
